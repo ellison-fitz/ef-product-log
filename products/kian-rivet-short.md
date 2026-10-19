@@ -16,11 +16,16 @@
 | Blocked on listing | Whole product off sale (Shopify status Unlisted). |
 | Meta ads | unknown |
 | 30-day sales | 1 order (11153). No traction. |
-| Open orders | 11108 (Grey 2XL, US), 11131 (Grey M, US), 11135 (Grey M, **AU**), 11153 (Black 2XL, US). All unfulfilled, ~31 days old, $187.14 total. |
+| Open orders | None. All 4 fulfilled early Mon 10-19 with tracking: 11108 YT2629201001070094, 11131 YT2629200708472181, 11135 AU0000006031867, 11153 YT2629200708277986. |
 | Customer contact | Hart's alt is a different style. Customers must be told and OK it before it ships, or get a refund. |
-| Deadline | Kevin's rule: no tracking by **Mon 10-19** → refund all 4. |
+| Deadline | Met. Tracking uploaded Mon 10-19 (~12:50 AM CT). Refund rule does not apply. |
 
 ## Changelog
+
+### 2026-10-19
+
+- Live Shopify check ~9:52 AM CT: all 4 Kian orders fulfilled with tracking overnight (fulfillments created ~12:50 AM CT). Refund-by-Mon deadline cleared. Numbers: 11108 YT2629201001070094, 11131 YT2629200708472181, 11135 AU0000006031867, 11153 YT2629200708277986. `#04 10-19` delay alert also marked the quartet cleared.
+- Status: still Drafted / Unlisted on Shopify. No open Kian remakes.
 
 ### 2026-10-18
 
