@@ -4,10 +4,12 @@ Product sourcing log for Ellison & Fitz
 
 **Brand:** Ellison & Fitz  
 **Lane:** Backend ops / sourcing  
-**Status:** Private repo `kevinc710/ef-product-log`. Kept separate from `ef-sops` (this log has supplier names and costs).  
+**Status:** Repo `ellison-fitz/ef-product-log`. Kept separate from `ef-sops` (this log has supplier names and costs).  
 **Not for:** VA customer-support pages. CS truth stays on the [live SOP](https://kevinc710.github.io/ef-sops/). Ops how stays in [ops/](https://kevinc710.github.io/ef-sops/ops/).
 
 This file is the current state of every product we are moving between suppliers. Each product page has the current facts at the top and a dated log underneath, newest first. Rewrite the top block in place when a fact changes. Do not stack "Updated" footnotes: put the date in the log.
+
+Site: index.md + products/ render via GitHub Pages (Jekyll). 2026-10-19 Slack updates added to Camille, Freya, Milo, Maris, Denver, Willa.
 
 Snapshot taken Sun 2026-10-18, ~4:20 PM CT. Shopify reads (status, price, colors, open orders) are from the Admin API at that time. 30-day sales window is 2026-09-18 to 2026-10-18. Changelog lines added Sun 2026-10-18 evening (~8 PM CT) for the Hart follow-up, Leif refund, Denver sample plan and the Leandro color-block ask; the Shopify fields were not re-read.
 

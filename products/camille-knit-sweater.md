@@ -1,8 +1,11 @@
+---
+title: "Camille Knit Sweater"
+---
 # Camille Knit Sweater
 
 **Status:** Partial  
 **Shopify:** Active · two listings: `camille-knit-sweater` (6 colors) and `camille-sweater` (Coffee, Apricot, White, Black) · $49.99  
-**Back to:** [index](../README.md)
+**Back to:** [index](../)
 
 ## Current
 
@@ -12,14 +15,20 @@
 | Backup | Cherry after restock (10–15 days from ~10-16). Hart: can't find the same style. |
 | Cost (product + shipping) | Lay: unknown. Cherry: unknown (not in PLW tab). |
 | Selling price | $49.99 |
-| Approved colors and sizes | Lay's new supplier has 4 colors. Which 4: unknown (Kevin asked Abby to find out). Sizes S–2XL. |
-| Blocked on listing | Kevin (10-16): remove Emerald and Burgundy. Shopify 10-18: Burgundy is unavailable, **Emerald is still live** on `camille-knit-sweater`. Asked Leandro Oct 18 to block Emerald (+ Burgundy). |
+| Approved colors and sizes | Apricot, Black, White, Dark Brown stay live on the short sleeve listing. Sizes S–2XL. |
+| Blocked on listing | Emerald and Burgundy marked out of stock on the short sleeve listing (10-19, Leandro). Supplier can't get them. Out of stock, not deleted, because v1 has ads running. |
 | Meta ads | V1 has ads running (Kevin 10-16). |
 | 30-day sales | 16 orders / 22 units. Has traction. |
 | Open orders | 11692, 11710, 11712, 11722, 11728: Shopify shows Fulfilled 10-10 with Cherry tracking that never moved. Sent to Lay 10-16. 11831 (Emerald S): unfulfilled, on hold with Cherry. |
 | Customer contact | The 5 customers get a short-delay update. 11831: if Lay has Emerald she ships it, otherwise Abby emails the customer to pick another color or get a refund. |
 
 ## Changelog
+
+### 2026-10-19
+
+- Leandro marked Emerald and Burgundy out of stock on the short sleeve listing. The supplier can't get them. Apricot, Black, White and Dark Brown stay live. `#08 10-19`
+- Kept as out of stock rather than deleted because ads are running on v1 (Leandro). `#08 10-19`
+- Order 11831 is Camille Emerald S (not Freya). Customer is offered another color or a refund. `#08 10-19`
 
 ### 2026-10-18
 

@@ -1,8 +1,11 @@
+---
+title: "Willa Crop Jacket"
+---
 # Willa Crop Jacket
 
 **Status:** Partial (planned: Drafted)  
 **Shopify:** Active · `willa-crop-jacket` · $44.99  
-**Back to:** [index](../README.md)
+**Back to:** [index](../)
 
 ## Current
 
@@ -17,9 +20,13 @@
 | Meta ads | 2 ads. Leandro turns them off, then the product gets drafted. `brief` |
 | 30-day sales | 2 orders / 3 units. Below traction. |
 | Open orders | 11807 (Orange XL + Red XL, Kaching bundle, US). 6 days old. |
-| Customer contact | Offer the 11807 customer size L or a refund on the XLs. |
+| Customer contact | 11807 customer offered size L or a refund for the XL (10-19). |
 
 ## Changelog
+
+### 2026-10-19
+
+- 11807 customer offered size L or a refund for the XL. `#08 10-19`
 
 ### 2026-10-18
 

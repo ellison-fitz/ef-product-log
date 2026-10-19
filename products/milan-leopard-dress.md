@@ -1,8 +1,11 @@
+---
+title: "Milan Leopard Dress"
+---
 # Milan Leopard Dress
 
 **Status:** Partial  
 **Shopify:** Active · `milan-leopard-dress` · $59.99  
-**Back to:** [index](../README.md)
+**Back to:** [index](../)
 
 ## Current
 

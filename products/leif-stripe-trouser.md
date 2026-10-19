@@ -1,8 +1,11 @@
+---
+title: "Leif Stripe Trouser"
+---
 # Leif Stripe Trouser
 
 **Status:** Blocked  
 **Shopify:** Active · `leif-stripe-trouser` · $59.99  
-**Back to:** [index](../README.md)
+**Back to:** [index](../)
 
 ## Current
 

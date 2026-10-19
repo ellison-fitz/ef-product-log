@@ -1,0 +1,7 @@
+title: Ellison & Fitz Product Log
+description: Product sourcing log for Ellison & Fitz
+markdown: kramdown
+exclude: [README.md, Gemfile, Gemfile.lock, vendor]
+defaults:
+  - scope: {path: ""}
+    values: {layout: default}

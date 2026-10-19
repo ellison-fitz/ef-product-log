@@ -1,8 +1,11 @@
+---
+title: "Freya Zip Pullover"
+---
 # Freya Zip Pullover
 
 **Status:** Partial  
 **Shopify:** Active · `freya-zip-pullover` · $54.99  
-**Back to:** [index](../README.md)
+**Back to:** [index](../)
 
 ## Current
 
@@ -14,14 +17,21 @@
 | Selling price | $54.99 |
 | Temu reference | https://www.temu.com/goods.html?goods_id=606011964420052 |
 | Approved colors and sizes | Live and matchable: Camel, Navy, Olive, Pink. Sizes S–5XL. Cherry's 1688 colors: Khaki, Pink, Purple, Yellow, Gray, Black, Off-white, Chestnut. |
-| Blocked on listing | **Should be:** Butter and Grey (Kevin 10-17). **Actually:** Butter and Grey are still live in Shopify as of 10-18. Asked Leandro Oct 18. |
+| Blocked on listing | Butter and Grey marked out of stock (10-19, Leandro). He also fixed a 'continue selling when out of stock' setting that kept them buyable. |
 | Meta ads | **On.** Kevin said don't pause it because it's still selling (10-17). |
 | 30-day sales | 11 orders / 15 units. Has traction. |
 | Open orders (10) | Butter/Grey (can't match): 11798 (Butter M + Grey M), 11868 (Butter L), 11874 (Butter L), 11888 (Butter 4XL + Grey 4XL + Pink 4XL), 11896 (Grey L), 11903 (Butter S), 11934 (Butter S). Live colors only: 11832 (Navy S), 11893 (Camel XL + Olive XL), 11921 (Pink 2XL, **AU**). |
-| Customer contact | Butter/Grey buyers get told before any 1688-color substitute ships. Kevin: hold the 1688-photo emails until the AI images are done. |
+| Customer contact | Abby is asking Butter/Grey buyers to switch color or take a refund. Daniela is building a separate listing for the 1688 colors with AI images, to swap in after the GMC review clears. |
 | GMC | Hold listing and image swaps until the GMC review clears. 11 croc-bag photos pulled for GMC. `brief` |
 
 ## Changelog
+
+### 2026-10-19
+
+- Butter and Grey can't be sourced. Leandro marked them out of stock and fixed a 'continue selling when out of stock' bug that kept them buyable. `#08 10-19`
+- Daniela is building a separate listing for the 1688 colors with AI images. Swap in after the GMC review clears. `#08 10-19`
+- Abby is asking Butter/Grey customers to switch color or get a refund. `#08 10-19`
+- Correction: order 11831 is Camille Emerald S, not Freya. `#08 10-19`
 
 ### 2026-10-18
 

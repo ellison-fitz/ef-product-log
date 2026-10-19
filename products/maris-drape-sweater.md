@@ -1,8 +1,11 @@
+---
+title: "Maris Drape Sweater"
+---
 # Maris Drape Sweater
 
 **Status:** Live  
 **Shopify:** Active · `maris-drape-sweater` · $49.99  
-**Back to:** [index](../README.md)
+**Back to:** [index](../)
 
 ## Current
 
@@ -20,6 +23,10 @@
 | Upsell | Noir shades replaced Elisa as the Maris upcart upsell (10-07). |
 
 ## Changelog
+
+### 2026-10-19
+
+- Daniela is making a new Maris listing with AI images. `#08 10-19`
 
 ### 2026-10-17
 

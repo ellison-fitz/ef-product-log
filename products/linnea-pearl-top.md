@@ -1,8 +1,11 @@
+---
+title: "Linnea Pearl Top"
+---
 # Linnea Pearl Top
 
 **Status:** Blocked  
 **Shopify:** Active · `linnea-pearl-top` · $44.99  
-**Back to:** [index](../README.md)
+**Back to:** [index](../)
 
 ## Current
 

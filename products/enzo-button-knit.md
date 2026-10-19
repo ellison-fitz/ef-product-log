@@ -1,8 +1,11 @@
+---
+title: "Enzo Button Knit"
+---
 # Enzo Button Knit
 
 **Status:** Live  
 **Shopify:** Active · two listings: `enzo-button-knit` and `enzo-knit` · $39.99  
-**Back to:** [index](../README.md)
+**Back to:** [index](../)
 
 ## Current
 

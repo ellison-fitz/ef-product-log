@@ -1,8 +1,11 @@
+---
+title: "Milo Lattice Polo"
+---
 # Milo Lattice Polo
 
 **Status:** Partial  
 **Shopify:** Active · `milo-lattice-polo` · $39.99  
-**Back to:** [index](../README.md)
+**Back to:** [index](../)
 
 ## Current
 
@@ -13,13 +16,18 @@
 | Cost (product + shipping) | $14.14 (PLW r267, shipping basis unknown) |
 | Selling price | $39.99 (Shopify). PLW r267 says $44.99. |
 | Approved colors and sizes | Cherry has Army Green (matches our listing's Army Green). She does **not** have our Emerald. Other colors: unknown. Sizes S–2XL. |
-| Blocked on listing | None yet. Emerald is still live in Shopify. Asked Leandro Oct 18 to block it. |
+| Blocked on listing | Emerald blocked (10-19, Leandro). Same 'continue selling when out of stock' bug, fixed. |
 | Meta ads | unknown |
 | 30-day sales | 1 order (11873). No traction. |
 | Open orders | 11873 (Emerald XL, US), on hold with Cherry. |
 | Customer contact | Abby asks the 11873 customer: army green, or a refund. Nothing ships until they answer. |
 
 ## Changelog
+
+### 2026-10-19
+
+- Leandro blocked Emerald. It was still buyable because of the 'continue selling when out of stock' bug, now fixed. `#08 10-19`
+- 11873 stays on hold while Abby asks if army green works or they want a refund. `#08 10-19`
 
 ### 2026-10-18
 

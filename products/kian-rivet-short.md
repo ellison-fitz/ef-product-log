@@ -1,8 +1,11 @@
+---
+title: "Kian Rivet Short"
+---
 # Kian Rivet Short
 
 **Status:** Drafted  
 **Shopify:** **Unlisted** (not Draft) · `kian-rivet-short` · $39.99  
-**Back to:** [index](../README.md)
+**Back to:** [index](../)
 
 ## Current
 
