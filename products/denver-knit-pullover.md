@@ -15,17 +15,21 @@
 | Bulk decision | **On hold.** Kevin 10-18: keep having Cherry make new cream orders as samples as they come in, and hold the 250 bulk run until demand is steady. Bulk plan if it goes ahead: 250 pieces at ~$9.36 (~$2,340), split S30 / M60 / L90 / XL50 / 2XL20. Axel's test (cream at 5+/day with CPA ≤ $21 by ~10-20 or 10-21) still feeds the call. |
 | Approved colors and sizes | **Cream only**, S–2XL. |
 | Blocked on listing | Grey and Black. Shopify 10-18: all Grey and Black variants unavailable. Done. |
-| Fabric | Composition % not confirmed. Don't put it on the page until Cherry confirms. |
+| Fabric | Cherry 10-18: "40 per cent polyester, 40 per cent acrylic and 20 per cent polyester rayon." Polyester is listed twice, so confirm the exact split before it goes on the page. |
 | Meta ads | **Off** (per the 10-18 Denver numbers). Note: 6 cream orders came in on 10-17 and 10-18 alone (11916, 11922, 11925, 11944, 11956, 11957), well above the ~6/month pace. Why: unknown. |
 | 30-day sales | 7 orders / 8 units. Has traction. |
 | Sample run (10 pcs, cream) | Priority: 8029 XL, 7983 XL, 8430 XL, 8291 L, 7553 XL. Newer: 11916 2XL x2 (AU, Sergio), 11922 XL, 11925 L, 11944 M. |
-| Not yet added | 11956 (Cream 2XL, US), 11957 (Cream L, AU), 11969 (Cream L, US). All paid 10-18. Ask to add them (13 pcs) drafted and saved in Slack `#08` 10-18, not confirmed sent. |
+| Added to samples | 11956 (Cream 2XL), 11957 (Cream L), 11969 (Cream L): Kevin asked 10-18 7:08 PM CT. Cherry also sent 11976 to the factory herself. |
+| Timing / MOQ | Factory: ~10 days because of multiple sizes. No minimum, but sample price is "very high, just as before" (exact price not given). |
+| Waiting on Kevin | Cherry 10-18 11:21 PM CT: past samples were all white and they haven't made this off-white shade before. Make them white or switch to the new color? Production color is blocked on this. |
 | Open orders in Shopify | 11916, 11922, 11925, 11944, 11956, 11957, 11969 unfulfilled. 8029, 7983, 8430, 8291, 7553 are older than the API window and not verified here. |
 
 ## Changelog
 
 ### 2026-10-18
 
+- Cherry (8:48 to 11:21 PM CT): fabric is 40% polyester, 40% acrylic, 20% polyester rayon. Sent 11976 and 11969 to the factory. ~10 days for production because of multiple sizes. No MOQ for samples but price is very high like before. Asks whether to make them white like past samples or the new off-white color. `#08 10-18`
+- Kevin to Cherry: add 11956, 11957, 11969 (13 pcs), keep making new orders as samples, hold the 250 bulk; asked about MOQ, price/timing, fabric %. Sent. `#08 10-18 7:08 PM`
 - Kevin: keep filling Denver orders as samples from Cherry's factory as they come in. Hold the 250 bulk run until demand is steady. Reply to Cherry drafted in the 10-17 Denver thread: add 11956, 11957, 11969 (13 pcs total), is there a minimum per sample batch, does it change price or timing, and the fabric % is still needed. Saved as a Slack draft in `#08`, not confirmed sent. `#08 10-18`
 - Third cream order not in the 10-piece run: 11969 (L, US), paid ~4:11 PM CT. Still no Cherry reply in `#08` since 10-17. `Shopify 10-18 6:50 PM`
 - Two new cream orders, 11956 (2XL, US) and 11957 (L, AU), came in after the 10-piece order. Cherry hasn't replied since 10-17. If added before the factory starts they ship with the run. `Shopify 10-18`
