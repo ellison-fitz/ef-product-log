@@ -16,13 +16,18 @@ title: "Willa Crop Jacket"
 | Cost (product + shipping) | $18.60 (PLW r264, shipping basis unknown). Hart: unknown. |
 | Selling price | $44.99 (Shopify). PLW r264 says $49.99. |
 | Approved colors and sizes | Cherry: Red (she offered it for Orange), Cream unknown. Hart: up to L. |
-| Blocked on listing | Kevin (10-16): remove the colors we can't source. Shopify 10-18: Cream, Red and **Orange still live**. Asked Leandro Oct 18 to block Orange. |
-| Meta ads | 2 ads. Leandro turns them off, then the product gets drafted. `brief` |
-| 30-day sales | 2 orders / 3 units. Below traction. |
-| Open orders | 11807 (Orange XL + Red XL, Kaching bundle, US). 6 days old. |
+| Blocked on listing | Nothing blocked yet. Shopify 10-20: Cream, Red and **Orange still buyable** (sell when out of stock is on). |
+| Meta ads | **Off.** Stack Testing ad set "Willa Crop Jacket - 31 / 1.59" is paused; $1.16 spend in the last 30 days, none 10-17 to 10-19. Draft is no longer waiting on ads. |
+| 30-day sales | 2 orders / 3 units, 0 in the last 7 days. Below traction. |
+| Scale read | Not a scale candidate. Margin vs Cherry: $44.99 − $18.60 = ~$26.39, but no traction and Orange can't be sourced. |
+| Open orders | 11807 (Orange XL + Red XL, Kaching bundle, US). 8 days old. |
 | Customer contact | 11807 customer offered size L or a refund for the XL (10-19). |
 
 ## Changelog
+
+### 2026-10-20
+
+- Meta: Willa ad set is paused, so drafting no longer waits on ads. Shopify still Active with Orange buyable. 11807 still open (8 days). `Shopify 10-20` `Meta 10-20`
 
 ### 2026-10-19
 

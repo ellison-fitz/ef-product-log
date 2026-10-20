@@ -16,15 +16,21 @@ title: "Veylan Pullover"
 | Cost (product + shipping) | Hart alt: $13.30 (product/shipping split unknown). Paid 10-18: $127.80 for the 6 older orders (8 pieces). Old Cherry COGS $11.61 (PLW r197, no longer valid). |
 | Selling price | $44.99 (Shopify). PLW r197 still says $49.99. |
 | Approved colors and sizes | Hart alt: M–3XL. Colors Hart can do: unknown. Hart's version is not the same item as the listing (Cherry's version also had a different neckline). |
-| Blocked on listing | None. Black and White, S–3XL are all still live. Size S can't be sourced from Hart. |
-| Meta ads | unknown |
-| 30-day sales | 5 orders / 5 units (all 11379–11518). Has traction on paper, but no new orders since 9-29. |
-| Open orders | Shopify shows all of these as **Fulfilled** with Cherry tracking that never moved. None refunded in Shopify (10791 is Partially Refunded, cause unknown). |
+| Blocked on listing | None. Black and White, S–3XL are all still buyable (Shopify 10-20). Size S can't be sourced from Hart. |
+| Meta ads | **Off.** Ad set "Veylan Pullover - 38 / 1.30" is paused. Last 30 days: $127 spend, 2 purchases, ROAS 0.88. No spend 10-17 to 10-19. |
+| 30-day sales | 5 orders / 5 units (9-20 to 10-20), down from 6 / 7 the 30 days before. 0 in the last 7 days. |
+| Scale read | Not a scale candidate. Margin vs Hart: $44.99 − $13.30 = ~$31.69 before fees and ads, but it's a different style, no size S, ads are off and nothing sold in 7 days. |
+| Open orders | None unfulfilled. All 10 Veylan orders had their tracking updated 10-19/10-20 (YT2629… numbers, same format as Hart's Kian tracking): 10775 YT2629201001310821, 10778 EWSMM261019000214YQ (in transit), 10785 AU0000006031866, 10794 YT2629200708472009, 10967 YT2629201001510875, 11379 YT2629301000618511, 11390 YT2629301000948165, 11488 YT2629301000820174, 11505 YT2629301000820232, 11518 YT2629301000618743. 10791: Veylan line removed and refunded (Partially Refunded, $7.24 tip left), so it won't ship. |
 | Paid to Hart (10-18) | 10775 (Black XL, US), 10778 (Black L, **MX**), 10785 (White 2XL x2, **AU**, Sergio), 10791 (White **S**, US, on hold), 10794 (White 2XL, US), 10967 (Black L + White L, US) |
-| Follow-up drafted, not quoted or paid yet | 11379 (White 2XL), 11390 (White XL + Levin Knit Pullover White XL + Vace Knit Vest Gray XL + 2 Fade Crewneck + Zephyr Shades), 11488 (White M), 11505 (White 2XL), 11518 (White 2XL). All US. Follow-up to Hart asking him to quote these 5 + the Levin and Vace on 11390 was drafted 10-18 and Kevin was told to send it. |
+| Follow-up drafted, not quoted or paid yet | 11379, 11390, 11488, 11505, 11518 now show updated tracking in Shopify (fulfillments updated 10-19 ~9:12–11:24 PM CT). Whether Hart quoted and was paid for these: not verified here. |
 | Customer contact | Each of these customers has to be told before anything ships, because Hart's version is a different style. 10791 needs an OK on size M first. |
 
 ## Changelog
+
+### 2026-10-20
+
+- Shopify read ~10:10 AM CT: all 10 Veylan orders show updated tracking (5 older ones updated early 10-19, the 5 White ones late 10-19). 10791's Veylan line is refunded. No open Veylan orders. `Shopify 10-20`
+- Meta: Veylan ad set paused, $127 spend in 30 days at 0.88 ROAS. `Meta 10-20`
 
 ### 2026-10-18
 

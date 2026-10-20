@@ -17,17 +17,24 @@ title: "Denver Knit Pullover"
 | Selling price | $39.99 (Shopify). PLW r46 says $44.99. |
 | Bulk decision | **On hold.** Kevin 10-18: keep having Cherry make new cream orders as samples as they come in, and hold the 250 bulk run until demand is steady. Bulk plan if it goes ahead: 250 pieces at ~$9.36 (~$2,340), split S30 / M60 / L90 / XL50 / 2XL20. Axel's test (cream at 5+/day with CPA ≤ $21 by ~10-20 or 10-21) still feeds the call. |
 | Approved colors and sizes | **White** (Cherry confirmed the sample was white, not cream). Listing likely needs renaming from Cream to White. S–2XL. |
-| Blocked on listing | Leandro put Denver out of stock (10-19). |
+| Blocked on listing | Grey and Black are not for sale. Leandro put Denver out of stock (10-19), but Shopify 10-20 shows **Cream S–2XL still buyable**, and 4 new orders came in after that. |
 | Fabric | Cherry 10-18: "40 per cent polyester, 40 per cent acrylic and 20 per cent polyester rayon." Polyester is listed twice, so confirm the exact split before it goes on the page. |
-| Meta ads | **Off** (per the 10-18 Denver numbers). Note: 6 cream orders came in on 10-17 and 10-18 alone (11916, 11922, 11925, 11944, 11956, 11957), well above the ~6/month pace. Why: unknown. |
-| 30-day sales | 7 orders / 8 units. Has traction. |
+| Meta ads | **On** (was Off on 10-18). Campaign "Denver Knit Pullover - 30 / 1.47" (OG + Batch 1 ad sets): last 30 days $456 spend, 12 purchases, ROAS 1.46, CPA ~$38. Almost all of it ran 10-17 to 10-19 ($410, 11 purchases, ROAS 1.43). |
+| 30-day sales | 12 orders / 13 units, all in the last 7 days (0 the week before). Has traction. |
+| Scale read | Not a bulk call yet. ~1.9 units/day and CPA ~$38 vs Axel's bar of 5+/day at CPA ≤ $21. Margin at the bulk price: $39.99 − $9.36 = ~$30.63 before US shipping (unknown). At sample pricing ("very high") margin is unknown, and every new order goes into that. |
 | Sample run (10 pcs, cream) | Priority: 8029 XL, 7983 XL, 8430 XL, 8291 L, 7553 XL. Newer: 11916 2XL x2 (AU, Sergio), 11922 XL, 11925 L, 11944 M. |
 | Added to samples | 11956 (Cream 2XL), 11957 (Cream L), 11969 (Cream L): Kevin asked 10-18 7:08 PM CT. Cherry also sent 11976 to the factory herself. |
 | Timing / MOQ | Factory: ~10 days because of multiple sizes. No minimum, but sample price is "very high, just as before" (exact price not given). |
 | Waiting on Kevin | Answered 10-19: same exact shade as the samples (white). Listing rename to White still to do. |
-| Open orders in Shopify | 11916, 11922, 11925, 11944, 11956, 11957, 11969 unfulfilled. 8029, 7983, 8430, 8291, 7553 are older than the API window and not verified here. |
+| Open orders in Shopify | Unfulfilled: 12003 (Cream S), 12005 (Cream L), both 10-19; 12010 (Cream S), 12015 (Cream L), both 10-20. The sample-run orders 11916, 11922, 11925, 11944, 11956, 11957, 11969, 11976 all show Fulfilled 10-19 with USPS tracking (11916 is in transit). 8029, 7983, 8430, 8291, 7553 not re-checked. |
 
 ## Changelog
+
+### 2026-10-20
+
+- Meta ads are running again: $410 spend 10-17 to 10-19, 11 purchases, ROAS 1.43. `Meta 10-20`
+- Cream is still buyable in Shopify despite the 10-19 out-of-stock note. 4 new orders (12003, 12005, 12010, 12015) since. The 8 sample-run orders from 10-17 to 10-19 all have USPS tracking. `Shopify 10-20`
+- 13 units in 7 days (~1.9/day), CPA ~$38. Below Axel's 5+/day at ≤ $21 CPA, so the 250 bulk stays on hold. `Shopify 10-20` `Meta 10-20`
 
 ### 2026-10-19
 

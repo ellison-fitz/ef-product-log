@@ -17,12 +17,18 @@ title: "Maris Drape Sweater"
 | Selling price | $49.99 (Shopify). PLW r212 says $59.99. |
 | Approved colors and sizes | Apricot, Black, Burgundy, Coffee, Pink, Gray, Blue, Yellow. XS–5XL. |
 | Blocked on listing | none |
-| Meta ads | unknown |
-| 30-day sales | 215 orders / 331 units. Top seller. |
-| Open orders | 23 unfulfilled (35 units), all 10-16 to 10-18, normal Cherry flow: 11894, 11909, 11910, 11913, 11914, 11915, 11917, 11918, 11919, 11926, 11931, 11933, 11936, 11937, 11939, 11946, 11948, 11949, 11952, 11953, 11963, 11965, 11968. |
+| Meta ads | **On**, biggest spender. Campaign "Maris Drape Sweater - 35 / 1.53" (OG, Batch 2–5 active) plus WINNERS: last 30 days $10,287 spend, 212 purchases, ROAS 1.60, CPA ~$49. 10-17 to 10-19: $2,032, 37 purchases, ROAS 1.50. |
+| 30-day sales | 231 orders / 331 units (prior 30 days 76 / 122). Last 7 days 78 orders / 116 units vs 59 / 83 the week before. Top seller. |
+| Scale read | Scale product, still growing week over week. Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Watch Meta ROAS: 30-day 1.60 is just above the 1.53 in the campaign name, last 3 days 1.50 is just under. |
+| Open orders | 12 unfulfilled (19 units), all 10-19 to 10-20, normal Cherry flow: 11999, 12000, 12002, 12004, 12006, 12008, 12009, 12012, 12014 (AU), 12016, 12017, 12019. The 23 open on 10-18 have all shipped. |
 | Upsell | Noir shades replaced Elisa as the Maris upcart upsell (10-07). |
 
 ## Changelog
+
+### 2026-10-20
+
+- Shopify: 116 units in the last 7 days (up from 83). 12 open orders, the 10-18 batch all shipped. `Shopify 10-20`
+- Meta: 30-day ROAS 1.60, last 3 days 1.50 vs the 1.53 in the campaign name. `Meta 10-20`
 
 ### 2026-10-19
 
