@@ -17,13 +17,18 @@ title: "Maris Drape Sweater"
 | Selling price | $49.99 (Shopify). PLW r212 says $59.99. |
 | Approved colors and sizes | Apricot, Black, Burgundy, Coffee, Pink, Gray, Blue, Yellow. XS–5XL. |
 | Blocked on listing | none |
-| Meta ads | **On**, biggest spender. Campaign "Maris Drape Sweater - 35 / 1.53" (OG, Batch 2–5 active) plus WINNERS: last 30 days $10,287 spend, 212 purchases, ROAS 1.60, CPA ~$49. 10-17 to 10-19: $2,032, 37 purchases, ROAS 1.50. |
-| 30-day sales | 231 orders / 331 units (prior 30 days 76 / 122). Last 7 days 78 orders / 116 units vs 59 / 83 the week before. Top seller. |
-| Scale read | Scale product, still growing week over week. Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Watch Meta ROAS: 30-day 1.60 is just above the 1.53 in the campaign name, last 3 days 1.50 is just under. |
-| Open orders | 12 unfulfilled (19 units), all 10-19 to 10-20, normal Cherry flow: 11999, 12000, 12002, 12004, 12006, 12008, 12009, 12012, 12014 (AU), 12016, 12017, 12019. The 23 open on 10-18 have all shipped. |
+| Meta ads | **On**, biggest spender. Campaign "Maris Drape Sweater - 35 / 1.53" (OG, Batch 2–5) plus WINNERS: last 30 days $10,643 spend, 222 purchases, ROAS 1.61, CPA ~$48. 10-18 to 10-20: $2,054, 39 purchases, ROAS 1.40 (OG 1.41, Batch 2 1.62). |
+| 30-day sales | 245 orders / 348 units (9-21 to 10-21; prior 30 days 124 units). Last 7 days 78 orders / 113 units vs 59 / 85 the week before. Top seller. |
+| Scale read | Scale product, still growing week over week. Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Watch Meta ROAS: 30-day 1.61 is just above the 1.53 in the campaign name, but the last 3 days slipped to 1.40, under it. |
+| Open orders | 3 unfulfilled (4 units), all placed 10-21, normal Cherry flow: 12053 (Pink L), 12054 (Coffee S), 12056 (Black S + Blue S). The 12 open on 10-20 have all shipped. |
 | Upsell | Noir shades replaced Elisa as the Maris upcart upsell (10-07). |
 
 ## Changelog
+
+### 2026-10-21
+
+- Shopify: 113 units in the last 7 days vs 85 the week before. 10-20 open orders all shipped; 3 new from 10-21. `Shopify 10-21`
+- Meta: last 3 days ROAS 1.40, under the 1.53 break-even, while 30-day holds 1.61. `Meta 10-21`
 
 ### 2026-10-20
 

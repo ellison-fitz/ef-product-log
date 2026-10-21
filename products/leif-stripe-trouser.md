@@ -25,6 +25,10 @@ title: "Leif Stripe Trouser"
 
 ## Changelog
 
+### 2026-10-21
+
+- No change: listing still Active, no open orders, ads off. `Shopify 10-21`
+
 ### 2026-10-20
 
 - Shopify: still Active with Khaki buyable, no open orders. Meta ad set paused. `Shopify 10-20` `Meta 10-20`

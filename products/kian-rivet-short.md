@@ -26,6 +26,10 @@ title: "Kian Rivet Short"
 
 ## Changelog
 
+### 2026-10-21
+
+- No change: still Unlisted, no open orders, ads off. `Shopify 10-21`
+
 ### 2026-10-20
 
 - Shopify: still Unlisted, no open orders. Meta ad set paused. `Shopify 10-20` `Meta 10-20`

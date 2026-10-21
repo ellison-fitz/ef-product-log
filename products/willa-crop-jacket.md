@@ -20,10 +20,14 @@ title: "Willa Crop Jacket"
 | Meta ads | **Off.** Stack Testing ad set "Willa Crop Jacket - 31 / 1.59" is paused; $1.16 spend in the last 30 days, none 10-17 to 10-19. Draft is no longer waiting on ads. |
 | 30-day sales | 2 orders / 3 units, 0 in the last 7 days. Below traction. |
 | Scale read | Not a scale candidate. Margin vs Cherry: $44.99 − $18.60 = ~$26.39, but no traction and Orange can't be sourced. |
-| Open orders | 11807 (Orange XL + Red XL, Kaching bundle, US). 8 days old. |
+| Open orders | 11807 (Orange XL + Red XL, Kaching bundle, US). 9 days old, still unfulfilled. |
 | Customer contact | 11807 customer offered size L or a refund for the XL (10-19). |
 
 ## Changelog
+
+### 2026-10-21
+
+- No change: 11807 still open (9 days), Orange still buyable, ads off. `Shopify 10-21`
 
 ### 2026-10-20
 

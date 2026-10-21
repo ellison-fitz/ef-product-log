@@ -25,6 +25,10 @@ title: "Elisa Flat Loafers"
 
 ## Changelog
 
+### 2026-10-21
+
+- No change: still Draft. `Shopify 10-21`
+
 ### 2026-10-20
 
 - Shopify: still Draft, no open orders. `Shopify 10-20`

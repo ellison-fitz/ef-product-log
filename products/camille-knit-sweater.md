@@ -17,13 +17,18 @@ title: "Camille Knit Sweater"
 | Selling price | $49.99 |
 | Approved colors and sizes | Apricot, Black, White, Dark Brown stay live on the short sleeve listing. Sizes S–2XL. |
 | Blocked on listing | Emerald and Burgundy are not for sale on `camille-knit-sweater` (confirmed in Shopify 10-20). Coffee, Apricot, White, Black buyable on both listings. |
-| Meta ads | **On.** Stack Testing ad sets "Camille Knit Sweater (V1)" and "(V2) - 37 / 1.45" both active. Last 30 days: $695 spend, 16 purchases, ROAS 1.70 (V2 2.05, V1 1.00). 10-17 to 10-19: $201, 1 purchase, ROAS 0.56. |
-| 30-day sales | 17 orders / 23 units. Last 7 days 8 orders / 9 units vs 9 / 14 the week before. Has traction. |
-| Scale read | Good demand and 30-day ROAS above the 1.45 in the ad set name, but scale is blocked by supply: Lay is the only source, her cost is unknown so margin is unknown, and Cherry is waiting on a restock. Last 3 days of Meta were weak. |
-| Open orders | 11831 (Emerald S, 10-13, 7 days, unfulfilled). 11996 (Coffee L on `camille-sweater`, 10-19). 11692, 11710, 11712, 11722, 11728 still show only the original 10-10 USPS tracking (YT26283… numbers, not updated). No new Lay tracking in Shopify yet. |
+| Meta ads | **On.** Stack Testing ad sets "Camille Knit Sweater (V1)" and "(V2) - 37 / 1.45" both active. Last 30 days: $743 spend, 18 purchases, ROAS 1.75 (V2 2.12, V1 0.98). 10-18 to 10-20: $233, 3 purchases, ROAS 1.00. |
+| 30-day sales | 19 orders / 25 units. Last 7 days 6 orders / 7 units vs 12 / 17 the week before (slowing). Has traction. |
+| Scale read | Good 30-day demand and ROAS above the 1.45 in the ad set name, but sales are slowing, the last 3 days of Meta were under break-even, and scale is blocked by supply: Lay is the only source, her cost is unknown so margin is unknown, and Cherry is waiting on a restock. |
+| Open orders | 11831 (Emerald S, 10-13, 8 days, unfulfilled). 11996 (Coffee L) shipped 10-21 on YT2629300707794427. 11692, 11710, 11712, 11722, 11728 still show only the original 10-10 USPS tracking (YT26283… numbers, not updated). No new Lay tracking in Shopify yet. |
 | Customer contact | The 5 customers get a short-delay update. 11831: if Lay has Emerald she ships it, otherwise Abby emails the customer to pick another color or get a refund. |
 
 ## Changelog
+
+### 2026-10-21
+
+- 11996 shipped 10-21. 11831 still open (8 days). The 5 Lay orders still have only the 10-10 tracking. `Shopify 10-21`
+- Sales slowing: 7 units in the last 7 days vs 17 the week before. Meta ROAS 1.00 over 10-18 to 10-20. `Shopify 10-21` `Meta 10-21`
 
 ### 2026-10-20
 

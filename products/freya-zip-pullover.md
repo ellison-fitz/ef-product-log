@@ -18,14 +18,19 @@ title: "Freya Zip Pullover"
 | Temu reference | https://www.temu.com/goods.html?goods_id=606011964420052 |
 | Approved colors and sizes | Live and matchable: Camel, Navy, Olive, Pink. Sizes S–5XL. Cherry's 1688 colors: Khaki, Pink, Purple, Yellow, Gray, Black, Off-white, Chestnut. |
 | Blocked on listing | Butter and Grey are not for sale in Shopify (confirmed 10-20, all sizes). Camel, Navy, Olive, Pink S–5XL are buyable. |
-| Meta ads | **On.** Ad set "Freya Zip Pullover - 41 / 1.46" active: last 30 days $693 spend, 11 purchases, ROAS 1.23 (CPA ~$63). 10-17 to 10-19: $173, 2 purchases, ROAS 0.72. A V2 ad set just started (~$2). Both under the 1.46 in the ad set name. |
-| 30-day sales | 11 orders / 15 units. Last 7 days 10 orders / 13 units vs 1 / 2 the week before. Has traction. |
-| Scale read | Demand is real but not a scale candidate yet. Margin vs Cherry: $54.99 − $18.91 = ~$36 landed (US, 1 pc). Blockers: 6 of 8 open orders include Butter/Grey that Cherry can't match, and Meta ROAS is under break-even. |
-| Open orders (8) | 8 orders. Butter/Grey (can't match): 11798 (Butter M + Grey M), 11868 (Butter L), 11874 (Butter L), 11888 (Butter 4XL + Grey 4XL + Pink 4XL), 11903 (Butter S), 11934 (Butter S). Live colors only, still unfulfilled: 11832 (Navy S, 6 days), 11893 (Camel XL + Olive XL, 4 days). Shipped 10-19: 11921 (Pink 2XL, AU) and **11896 (Grey L)** on USPS YT2629200708477594. |
+| Meta ads | **On.** "Freya Zip Pullover - 41 / 1.46" active: last 30 days $717 spend, 11 purchases, ROAS 1.19. V2 ad set now spending ($70, 0 purchases). 10-18 to 10-20: $169 across both, **0 purchases**. Both under the 1.46 in the ad set name. |
+| 30-day sales | 13 orders / 17 units. Last 7 days 10 orders / 13 units vs 3 / 4 the week before. Has traction. |
+| Scale read | Demand is real but not a scale candidate. Margin vs Cherry: $54.99 − $18.91 = ~$36 landed (US, 1 pc). Blockers: 6 of 9 open orders include Butter/Grey that Cherry can't match, Meta 30-day ROAS 1.19 is under break-even, and the last 3 days had no Meta purchases on $169. |
+| Open orders (9) | 9 orders. Butter/Grey (can't match): 11798 (Butter M + Grey M), 11868 (Butter L), 11874 (Butter L), 11888 (Butter 4XL + Grey 4XL + Pink 4XL), 11903 (Butter S), 11934 (Butter S). Live colors only, still unfulfilled: 11832 (Navy S, 7 days), 11893 (Camel XL + Olive XL, 5 days), 12055 (Camel L, 10-21). Shipped 10-19: 11921 (Pink 2XL, AU) and **11896 (Grey L)** on USPS YT2629200708477594. |
 | Customer contact | Abby is asking Butter/Grey buyers to switch color or take a refund. Daniela is building a separate listing for the 1688 colors with AI images, to swap in after the GMC review clears. |
 | GMC | Hold listing and image swaps until the GMC review clears. 11 croc-bag photos pulled for GMC. `brief` |
 
 ## Changelog
+
+### 2026-10-21
+
+- New order 12055 (Camel L). Butter/Grey orders unchanged, none shipped or refunded yet. `Shopify 10-21`
+- Meta: V2 ad set now spending; $169 over 10-18 to 10-20 with 0 purchases. `Meta 10-21`
 
 ### 2026-10-20
 
