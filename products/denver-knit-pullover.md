@@ -19,16 +19,21 @@ title: "Denver Knit Pullover"
 | Approved colors and sizes | **White** (Cherry confirmed the sample was white, not cream). Listing likely needs renaming from Cream to White. S–2XL. |
 | Blocked on listing | Grey and Black are not for sale. Leandro put Denver out of stock (10-19), but Shopify 10-21 still shows **Cream S–2XL buyable**, and orders keep coming in (12052 on 10-21). |
 | Fabric | Cherry 10-18: "40 per cent polyester, 40 per cent acrylic and 20 per cent polyester rayon." Polyester is listed twice, so confirm the exact split before it goes on the page. |
-| Meta ads | **On.** Campaign "Denver Knit Pullover - 30 / 1.47" (OG + Batch 1): last 30 days $584 spend, 13 purchases, ROAS 1.23, CPA ~$45. 10-18 to 10-20: $449, 8 purchases, ROAS 0.89, CPA ~$56. |
-| 30-day sales | 14 orders / 15 units, all in the last 7 days (0 the week before). Has traction. |
-| Scale read | Not a bulk call. Axel's test window (~10-20/10-21) is here and it misses the bar: ~2 units/day and CPA ~$56 over the last 3 days vs 5+/day at CPA ≤ $21, and ROAS has dropped to 0.89. Margin at the bulk price: $39.99 − $9.36 = ~$30.63 before US shipping (unknown). At sample pricing ("very high") margin is unknown. |
+| Meta ads | **On.** Campaign "Denver Knit Pullover - 30 / 1.47" (OG + Batch 1): last 30 days $713 spend, 14 purchases, ROAS 1.07, CPA ~$51. 10-19 to 10-21: $401, 5 purchases, ROAS 0.60, CPA ~$80. |
+| 30-day sales | 15 orders / 16 units, all in the last 7 days (0 the week before). Has traction. |
+| Scale read | Not a bulk call, and getting worse. Axel's bar was 5+/day at CPA ≤ $21; last 3 days were ~2 units/day at CPA ~$80 and ROAS 0.60. Margin at the bulk price would be good, but ads aren't paying back. |
 | Sample run (10 pcs, cream) | Priority: 8029 XL, 7983 XL, 8430 XL, 8291 L, 7553 XL. Newer: 11916 2XL x2 (AU, Sergio), 11922 XL, 11925 L, 11944 M. |
 | Added to samples | 11956 (Cream 2XL), 11957 (Cream L), 11969 (Cream L): Kevin asked 10-18 7:08 PM CT. Cherry also sent 11976 to the factory herself. |
 | Timing / MOQ | Factory: ~10 days because of multiple sizes. No minimum, but sample price is "very high, just as before" (exact price not given). |
 | Waiting on Kevin | Answered 10-19: same exact shade as the samples (white). Listing rename to White still to do. |
-| Open orders in Shopify | Unfulfilled: 12052 (Cream L, AU, 10-21). 12003, 12005, 12010, 12015 all shipped 10-21 with USPS tracking. The sample-run orders 11916, 11922, 11925, 11944, 11956, 11957, 11969, 11976 show Fulfilled 10-19. 8029, 7983, 8430, 8291, 7553 not re-checked. |
+| Open orders in Shopify | none unfulfilled. 12052 (Cream L, AU) shipped 10-22 on USPS YT2629500707927139. Cream S–2XL is still buyable while ads run. |
 
 ## Changelog
+
+### 2026-10-22
+
+- 12052 shipped 10-22 (YT2629500707927139). No open Denver orders. `Shopify 10-22`
+- Meta 10-19 to 10-21: $401, 5 purchases, ROAS 0.60, CPA ~$80. Further from Axel's bar. `Meta 10-22`
 
 ### 2026-10-21
 

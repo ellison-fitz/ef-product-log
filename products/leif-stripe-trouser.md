@@ -17,13 +17,17 @@ title: "Leif Stripe Trouser"
 | Selling price | $59.99 (Shopify). PLW r251 says $64.99. |
 | Approved colors and sizes | Listing: Khaki, S–2XL. Supplier: none. |
 | Blocked on listing | none. Listing is still Active. |
-| Meta ads | **Off.** Ad set "Leif Stripe Trouser - 45 / 1.42" is paused; $5.48 spend in the last 30 days. |
+| Meta ads | **Off.** Ad set "Leif Stripe Trouser - 45 / 1.42" paused; $5 spend in the last 30 days (Meta counts 1 purchase, the refunded 11605). |
 | 30-day sales | 1 order (11605), refunded. 0 net units. No traction. |
 | Scale read | Not a scale candidate. No supplier, no sales. |
 | Open orders | none. 11605 (Khaki S, US) refunded in full by Kevin 10-18, including the Redo opt-in. |
 | Next | Decide whether to draft the listing. |
 
 ## Changelog
+
+### 2026-10-22
+
+- Listing still Active (Khaki), no orders. `Shopify 10-22`
 
 ### 2026-10-21
 

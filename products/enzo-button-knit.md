@@ -17,12 +17,17 @@ title: "Enzo Button Knit"
 | Selling price | $39.99 (Shopify). PLW r253 says $44.99. |
 | Approved colors and sizes | Olive, Coffee, Black. S–2XL. PLW note: one listing is Temu (long sleeve), the other is 1688 (short sleeve). Which one Hart quoted: unknown. |
 | Blocked on listing | none |
-| Meta ads | **On.** "Enzo Button Knit (V2) - 30 / 1.49" active: last 30 days $1,174 spend, 28 purchases, ROAS 1.76. V1 paused ($41, 0 purchases). 10-18 to 10-20: $341, 9 purchases, ROAS 1.86, CPA ~$38. |
-| 30-day sales | 39 orders / 67 units (new, 0 the 30 days before). Last 7 days 21 orders / 39 units vs 16 / 23 the week before. Has traction. |
-| Scale read | **Scale candidate (since 10-20).** Units up week over week, Meta ROAS 1.86 last 3 days and 1.76 over 30 days, both above the 1.49 in the ad set name, and Cherry is shipping normally. Margin: $39.99 − $14.76 = ~$25.23 (Cherry) vs ~$25.59 (Hart landed). |
-| Open orders | none unfulfilled. 11941 and 11942 (CL, same customer, same 2 items, $84.97 each) both show Fulfilled 10-21 under **one** USPS tracking number, LJ048640317CN, and neither is refunded, so the customer may have paid twice for one parcel. 12007 and 12013 shipped 10-21 (12013 has a $30 partial refund). |
+| Meta ads | **On.** "Enzo Button Knit (V2) - 30 / 1.49" active: last 30 days $1,248 spend, 29 purchases, ROAS 1.69. V1 paused ($41, 0 purchases). 10-19 to 10-21: $296, 8 purchases, ROAS 1.75, CPA ~$37. |
+| 30-day sales | 39 orders / 67 units (new, 0 the 30 days before). Last 7 days 17 orders / 29 units vs 19 / 31 the week before (flat). Has traction. |
+| Scale read | **Scale candidate (since 10-20).** Units flat week over week (29 vs 31) after the jump, Meta ROAS 1.75 last 3 days and 1.69 over 30 days, both above the 1.49 in the ad set name, and Cherry is shipping normally. Margin: $39.99 − $14.76 = ~$25.23 (Cherry) vs ~$25.59 (Hart landed). |
+| Open orders | none unfulfilled. 11941 and 11942 (CL, same customer, same 2 items, $84.97 each) still both fully paid with $0 refunded on one shared tracking number (LJ048640317CN), so the possible double charge is still open. |
 
 ## Changelog
+
+### 2026-10-22
+
+- Still a scale candidate: ROAS 1.75 over 10-19 to 10-21, weekly units flat at 29. `Shopify 10-22` `Meta 10-22`
+- 11941/11942 still both paid, nothing refunded. `Shopify 10-22`
 
 ### 2026-10-21
 
