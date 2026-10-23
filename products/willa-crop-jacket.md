@@ -16,14 +16,18 @@ title: "Willa Crop Jacket"
 | Cost (product + shipping) | $18.60 (PLW r264, shipping basis unknown). Hart: unknown. |
 | Selling price | $44.99 (Shopify). PLW r264 says $49.99. |
 | Approved colors and sizes | Cherry: Red (she offered it for Orange), Cream unknown. Hart: up to L. |
-| Blocked on listing | Nothing blocked yet. Shopify 10-22: Cream, Red and **Orange still buyable**. |
+| Blocked on listing | Nothing blocked yet. Shopify 10-23: Cream, Red and **Orange still buyable**. |
 | Meta ads | **Off.** Ad set "Willa Crop Jacket - 31 / 1.59" paused; $1 in the last 30 days, none 10-19 to 10-21. |
-| 30-day sales | 2 orders / 3 units, 0 in the last 7 days. At the traction line on paper, but no recent sales. |
+| 30-day sales | 1 order / 2 units (9-23 to 10-23), 0 in the last 7 days. Below traction. |
 | Scale read | Not a scale candidate. Margin vs Cherry: $44.99 − $18.60 = ~$26.39, but no traction and Orange can't be sourced. |
-| Open orders | 11807 (Orange XL + Red XL, Kaching bundle, US). 10 days old, still unfulfilled. |
+| Open orders | 11807 (Orange XL + Red XL, Kaching bundle, US). 11 days old, still unfulfilled. |
 | Customer contact | 11807 customer offered size L or a refund for the XL (10-19). |
 
 ## Changelog
+
+### 2026-10-23
+
+- No change: 11807 still open (11 days), Orange still buyable, ads off. Now below traction (2 units in 30 days). `Shopify 10-23`
 
 ### 2026-10-22
 

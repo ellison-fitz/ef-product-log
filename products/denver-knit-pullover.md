@@ -4,7 +4,7 @@ title: "Denver Knit Pullover"
 # Denver Knit Pullover
 
 **Status:** Partial  
-**Shopify:** Active · `denver-knit-pullover` · $39.99  
+**Shopify:** Active · `denver-knit-pullover` · $64.99 (was $39.99)  
 **Back to:** [index](../)
 
 ## Current
@@ -14,21 +14,26 @@ title: "Denver Knit Pullover"
 | Current supplier | **Cherry**, new cream version made by her factory. |
 | Backup | none |
 | Cost (product + shipping) | New cream run: **$9.36/unit** from Cherry before US shipping. Shipping cost: unknown (Kevin waiting on Cherry). Old version dropship: $15.29 shipped. Sample price: unknown. PLW r46 COGS $14.31 (old version). |
-| Selling price | $39.99 (Shopify). PLW r46 says $44.99. |
+| Selling price | **$64.99** (compare-at $99.99), raised from $39.99; Shopify shows the product updated 10-23 ~10:02 AM CT. PLW r46 says $44.99. |
 | Bulk decision | **On hold.** Kevin 10-18: keep having Cherry make new cream orders as samples as they come in, and hold the 250 bulk run until demand is steady. Bulk plan if it goes ahead: 250 pieces at ~$9.36 (~$2,340), split S30 / M60 / L90 / XL50 / 2XL20. Axel's test (cream at 5+/day with CPA ≤ $21 by ~10-20 or 10-21) still feeds the call. |
 | Approved colors and sizes | **White** (Cherry confirmed the sample was white, not cream). Listing likely needs renaming from Cream to White. S–2XL. |
-| Blocked on listing | Grey and Black are not for sale. Leandro put Denver out of stock (10-19), but Shopify 10-21 still shows **Cream S–2XL buyable**, and orders keep coming in (12052 on 10-21). |
+| Blocked on listing | Grey and Black are not for sale. Cream S–2XL is still buyable (Shopify 10-23) and orders keep coming in (12104 on 10-23). |
 | Fabric | Cherry 10-18: "40 per cent polyester, 40 per cent acrylic and 20 per cent polyester rayon." Polyester is listed twice, so confirm the exact split before it goes on the page. |
-| Meta ads | **On.** Campaign "Denver Knit Pullover - 30 / 1.47" (OG + Batch 1): last 30 days $713 spend, 14 purchases, ROAS 1.07, CPA ~$51. 10-19 to 10-21: $401, 5 purchases, ROAS 0.60, CPA ~$80. |
-| 30-day sales | 15 orders / 16 units, all in the last 7 days (0 the week before). Has traction. |
-| Scale read | Not a bulk call, and getting worse. Axel's bar was 5+/day at CPA ≤ $21; last 3 days were ~2 units/day at CPA ~$80 and ROAS 0.60. Margin at the bulk price would be good, but ads aren't paying back. |
+| Meta ads | **On.** Campaign "Denver Knit Pullover - 30 / 1.47" (OG + Batch 1): last 30 days $826 spend, 17 purchases, ROAS 1.18, CPA ~$49. 10-20 to 10-22: $370, 5 purchases, ROAS 0.84, CPA ~$74. |
+| 30-day sales | 19 orders / 20 units, 18 of them in the last 7 days (2 the week before). Has traction. |
+| Scale read | Not a bulk call. Axel's bar was 5+/day at CPA ≤ $21; last 3 days were under 2 purchases/day at CPA ~$74 and ROAS 0.84. The new $64.99 price would lift margin at the bulk cost to ~$55.63 ($64.99 − $9.36, before US shipping), but ads aren't paying back yet, and it's too early to see how the price change converts. |
 | Sample run (10 pcs, cream) | Priority: 8029 XL, 7983 XL, 8430 XL, 8291 L, 7553 XL. Newer: 11916 2XL x2 (AU, Sergio), 11922 XL, 11925 L, 11944 M. |
 | Added to samples | 11956 (Cream 2XL), 11957 (Cream L), 11969 (Cream L): Kevin asked 10-18 7:08 PM CT. Cherry also sent 11976 to the factory herself. |
 | Timing / MOQ | Factory: ~10 days because of multiple sizes. No minimum, but sample price is "very high, just as before" (exact price not given). |
 | Waiting on Kevin | Answered 10-19: same exact shade as the samples (white). Listing rename to White still to do. |
-| Open orders in Shopify | none unfulfilled. 12052 (Cream L, AU) shipped 10-22 on USPS YT2629500707927139. Cream S–2XL is still buyable while ads run. |
+| Open orders in Shopify | 12104 (Cream M, placed 10-23 ~5 AM CT, unfulfilled, normal flow). 12052 shipped 10-22. |
 
 ## Changelog
+
+### 2026-10-23
+
+- Price on Shopify is now $64.99 (compare-at $99.99), up from $39.99; product updated 10-23 ~10:02 AM CT. Who changed it: not checked. `Shopify 10-23`
+- New order 12104 (Cream M). Meta ROAS 0.84, CPA ~$74 over 10-20 to 10-22. `Shopify 10-23` `Meta 10-23`
 
 ### 2026-10-22
 

@@ -17,13 +17,18 @@ title: "Maris Drape Sweater"
 | Selling price | $49.99 (Shopify). PLW r212 says $59.99. |
 | Approved colors and sizes | Apricot, Black, Burgundy, Coffee, Pink, Gray, Blue, Yellow. XS–5XL. |
 | Blocked on listing | none |
-| Meta ads | **On**, biggest spender. Campaign "Maris Drape Sweater - 35 / 1.53" (OG, Batch 1–6) plus WINNERS: last 30 days ~$10,928 spend, 223 purchases, ROAS 1.57, CPA ~$49. 10-19 to 10-21: $1,720, 35 purchases, ROAS 1.41 (OG 1.55, Batch 2 1.26). |
-| 30-day sales | 243 orders / 343 units (9-22 to 10-22 so far; prior 30 days 136). Last 7 days 71 orders / 105 units vs 58 / 81 the week before. Top seller. |
-| Scale read | Scale product, still growing week over week. Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Watch Meta ROAS: 30-day 1.57 is just above the 1.53 in the campaign name, and the last 3 days are still under it at 1.41 (second read in a row under break-even). |
-| Open orders | none unfulfilled. 12053, 12054, 12056 from 10-21 have all shipped. |
+| Meta ads | **On**, biggest spender. Campaign "Maris Drape Sweater - 35 / 1.53" (OG, Batch 1–6) plus WINNERS: last 30 days ~$11,202 spend, 225 purchases, ROAS 1.54, CPA ~$50. 10-20 to 10-22: $1,423, 25 purchases, ROAS 1.22 (OG 1.48, Batch 2 1.13), CPA ~$57. |
+| 30-day sales | 249 orders / 348 units (9-23 to 10-23 so far; prior 30 days 139). Last 7 days 69 orders / 98 units vs 64 / 88 the week before. Top seller. |
+| Scale read | Scale product, units still up week over week (98 vs 88). Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Meta is the worry: 30-day ROAS has slid to 1.54, right on the 1.53 in the campaign name, and the last 3 days fell to 1.22 (third read in a row under break-even, and the lowest yet). |
+| Open orders | none unfulfilled (Shopify 10-23). |
 | Upsell | Noir shades replaced Elisa as the Maris upcart upsell (10-07). |
 
 ## Changelog
+
+### 2026-10-23
+
+- Units still up: 98 in the last 7 days vs 88 the week before. No open orders. `Shopify 10-23`
+- Meta: last 3 days ROAS 1.22 on $1,423 (Batch 2 down to 1.13), third straight read under the 1.53 break-even; 30-day now 1.54. `Meta 10-23`
 
 ### 2026-10-22
 
