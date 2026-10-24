@@ -25,6 +25,10 @@ title: "Leif Stripe Trouser"
 
 ## Changelog
 
+### 2026-10-24
+
+- No change. Listing still Active (Khaki), no net sales, ad set off. `Shopify 10-24` `Meta 10-24`
+
 ### 2026-10-23
 
 - No change: listing still Active, no open orders, ads off. `Shopify 10-23`

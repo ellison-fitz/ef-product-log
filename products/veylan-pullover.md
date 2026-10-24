@@ -17,7 +17,7 @@ title: "Veylan Pullover"
 | Selling price | $44.99 (Shopify). PLW r197 still says $49.99. |
 | Approved colors and sizes | Hart alt: M–3XL. Colors Hart can do: unknown. Hart's version is not the same item as the listing (Cherry's version also had a different neckline). |
 | Blocked on listing | None. Black and White, S–3XL are all still buyable (Shopify 10-20). Size S can't be sourced from Hart. |
-| Meta ads | **Off.** Ad set "Veylan Pullover - 38 / 1.30" paused. Last 30 days: $116 spend, 2 purchases, ROAS 0.96. No spend 10-20 to 10-22. |
+| Meta ads | **Off.** Ad set "Veylan Pullover - 38 / 1.30" paused. Last 30 days: $115 spend, 2 purchases, ROAS 0.97. No spend 10-21 to 10-23. |
 | 30-day sales | 5 orders / 5 units (9-22 to 10-22), down from 6 / 7 the 30 days before. 0 in the last 7 days. |
 | Scale read | Not a scale candidate. Margin vs Hart: $44.99 − $13.30 = ~$31.69 before fees and ads, but it's a different style, no size S, ads are off and nothing sold in 7 days. |
 | Open orders | None unfulfilled. All 10 Veylan orders had their tracking updated 10-19/10-20 (YT2629… numbers, same format as Hart's Kian tracking): 10775 YT2629201001310821, 10778 EWSMM261019000214YQ (in transit), 10785 AU0000006031866, 10794 YT2629200708472009, 10967 YT2629201001510875, 11379 YT2629301000618511, 11390 YT2629301000948165, 11488 YT2629301000820174, 11505 YT2629301000820232, 11518 YT2629301000618743. 10791: Veylan line removed and refunded (Partially Refunded, $7.24 tip left), so it won't ship. |
@@ -26,6 +26,10 @@ title: "Veylan Pullover"
 | Customer contact | Each of these customers has to be told before anything ships, because Hart's version is a different style. 10791 needs an OK on size M first. |
 
 ## Changelog
+
+### 2026-10-24
+
+- No change. 5 units in 30 days, 0 in 7, ads off. `Shopify 10-24` `Meta 10-24`
 
 ### 2026-10-23
 

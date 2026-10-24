@@ -17,12 +17,17 @@ title: "Enzo Button Knit"
 | Selling price | $39.99 (Shopify). PLW r253 says $44.99. |
 | Approved colors and sizes | Olive, Coffee, Black. S–2XL. PLW note: one listing is Temu (long sleeve), the other is 1688 (short sleeve). Which one Hart quoted: unknown. |
 | Blocked on listing | none |
-| Meta ads | **On.** "Enzo Button Knit (V2) - 30 / 1.49" active: last 30 days $1,311 spend, 29 purchases, ROAS 1.61. V1 paused ($41, 0 purchases). 10-20 to 10-22: $236, 3 purchases, **ROAS 1.03**, CPA ~$79. |
-| 30-day sales | 40 orders / 68 units (new, 0 the 30 days before). Last 7 days 16 orders / 26 units vs 21 / 35 the week before (down). Has traction. |
-| Scale read | **Scale candidate, on watch.** 30-day Meta ROAS 1.61 is still above the 1.49 in the ad set name, but the last 3 days dropped to 1.03 (CPA ~$79) and weekly units fell to 26 from 35. Cherry is shipping normally. Margin: $39.99 − $14.76 = ~$25.23 (Cherry) vs ~$25.59 (Hart landed). If the next read is also under 1.49, it stops being a scale call. |
-| Open orders | none unfulfilled. 11941 and 11942 (CL, same customer, same 2 items, $84.97 each) still both fully paid with $0 refunded on one shared tracking number (LJ048640317CN), so the possible double charge is still open. |
+| Meta ads | **On.** "Enzo Button Knit (V2) - 30 / 1.49": last 30 days $1,364 spend, 30 purchases, ROAS 1.58. V1 paused ($41, 0 purchases). 10-21 to 10-23: $191, 2 purchases, **ROAS 0.52**, CPA ~$95. |
+| 30-day sales | 42 orders / 72 units (new, 0 the 30 days before). Last 7 days (10-18 to 10-24, today partial) 15 orders / 24 units vs 24 / 41 the week before (down). Has traction. |
+| Scale read | **No longer a scale call.** Second read in a row under the 1.49 in the ad set name: last 3 days ROAS 0.52 (CPA ~$95), after 1.03 the read before. 30-day ROAS 1.58 is only holding up on the early weeks, and weekly units fell to 24 from 41. Cherry is shipping normally. Margin: $39.99 − $14.76 = ~$25.23 (Cherry) vs ~$25.59 (Hart landed). Still has traction; worth a fresh creative angle before more spend. |
+| Open orders | Normal Cherry queue: 12127 (Black M) and 12136 (Coffee M, Olive M, Black M), both 10-24. 11941 and 11942 (CL, same customer, same 2 items, $84.97 each) still both fully paid with $0 refunded on one shared tracking number (LJ048640317CN), so the possible double charge is still open. |
 
 ## Changelog
+
+### 2026-10-24
+
+- Dropped from scale candidate: last 3 days ROAS 0.52 on $191 (2 purchases), the second read under 1.49. Weekly units 24 vs 41. `Shopify 10-24` `Meta 10-24`
+- 11941/11942 still both paid, nothing refunded. `Shopify 10-24`
 
 ### 2026-10-23
 

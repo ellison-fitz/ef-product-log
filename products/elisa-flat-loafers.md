@@ -25,6 +25,10 @@ title: "Elisa Flat Loafers"
 
 ## Changelog
 
+### 2026-10-24
+
+- No change. Still Draft for the GMC review. `Shopify 10-24`
+
 ### 2026-10-23
 
 - No change: still Draft. `Shopify 10-23`

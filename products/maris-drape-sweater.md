@@ -17,13 +17,18 @@ title: "Maris Drape Sweater"
 | Selling price | $49.99 (Shopify). PLW r212 says $59.99. |
 | Approved colors and sizes | Apricot, Black, Burgundy, Coffee, Pink, Gray, Blue, Yellow. XS–5XL. |
 | Blocked on listing | none |
-| Meta ads | **On**, biggest spender. Campaign "Maris Drape Sweater - 35 / 1.53" (OG, Batch 1–6) plus WINNERS: last 30 days ~$11,202 spend, 225 purchases, ROAS 1.54, CPA ~$50. 10-20 to 10-22: $1,423, 25 purchases, ROAS 1.22 (OG 1.48, Batch 2 1.13), CPA ~$57. |
-| 30-day sales | 249 orders / 348 units (9-23 to 10-23 so far; prior 30 days 139). Last 7 days 69 orders / 98 units vs 64 / 88 the week before. Top seller. |
-| Scale read | Scale product, units still up week over week (98 vs 88). Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Meta is the worry: 30-day ROAS has slid to 1.54, right on the 1.53 in the campaign name, and the last 3 days fell to 1.22 (third read in a row under break-even, and the lowest yet). |
-| Open orders | none unfulfilled (Shopify 10-23). |
+| Meta ads | **On**, biggest spender. Campaign "Maris Drape Sweater - 35 / 1.53" (OG, Batch 1–6): last 30 days ~$10,983 spend, 226 purchases, ROAS 1.58, CPA ~$49. 10-21 to 10-23: $1,268, 20 purchases, ROAS 1.24 (OG 1.83 on $609, Batch 2 0.81 on $577), CPA ~$63. |
+| 30-day sales | 252 orders / 353 units (9-24 to 10-24 so far; prior 30 days 146). Last 7 days (10-18 to 10-24, today partial) 66 orders / 92 units vs 71 / 100 the week before. Top seller. |
+| Scale read | Scale product. Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Units roughly flat week over week (92 vs 100, today partial). Meta: 30-day ROAS 1.58, just over the 1.53 in the campaign name, but the last 3 days were 1.24, the fourth read in a row under break-even. OG is still healthy (1.83); Batch 2 (0.81) is what drags the blend down. |
+| Open orders | Normal Cherry queue only: 12106, 12107, 12108, 12110, 12113, 12116 (10-23) and 12126, 12128, 12133, 12135 (10-24), all paid and unfulfilled, under 2 days old. |
 | Upsell | Noir shades replaced Elisa as the Maris upcart upsell (10-07). |
 
 ## Changelog
+
+### 2026-10-24
+
+- 30-day units 353 (prior 30 days 146). Last 7 days 92 vs 100. `Shopify 10-24`
+- Meta 10-21 to 10-23 ROAS 1.24 (OG 1.83, Batch 2 0.81). Fourth read under 1.53. 30-day 1.58. `Meta 10-24`
 
 ### 2026-10-23
 

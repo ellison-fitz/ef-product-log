@@ -18,14 +18,19 @@ title: "Freya Zip Pullover"
 | Temu reference | https://www.temu.com/goods.html?goods_id=606011964420052 |
 | Approved colors and sizes | Live and matchable: Camel, Navy, Olive, Pink. Sizes S–5XL. Cherry's 1688 colors: Khaki, Pink, Purple, Yellow, Gray, Black, Off-white, Chestnut. |
 | Blocked on listing | On `freya-zip-pullover`, Butter and Grey are not for sale (all sizes). Camel, Navy, Olive, Pink S–5XL are buyable. A second listing, `freya-pullover` (the 1688 colors), went Active 10-19 with Chestnut, Khaki, Cream, Black, Grey, Purple, Pink and Butter all buyable; first order on it is 12057 (Purple M). |
-| Meta ads | **On.** "Freya Zip Pullover - 41 / 1.46": last 30 days $726 spend, 12 purchases, ROAS 1.26. V2: $105, 1 purchase, ROAS 0.63. 10-20 to 10-22: $138 across both, 2 purchases, ROAS 0.93 (V1 1.79 on $35, V2 0.64 on $103). Both under the 1.46 in the ad set name over 30 days. |
-| 30-day sales | 13 orders / 17 units. Last 7 days 4 orders / 4 units vs 9 / 13 the week before (down). Has traction on 30 days. |
-| Scale read | Not a scale candidate. Margin vs Cherry: $54.99 − $18.91 = ~$36 landed (US, 1 pc). Blockers: 6 of 9 open orders include Butter/Grey from the Temu listing that Cherry can't match, Meta 30-day ROAS 1.18 and last-3-day 0.93 are under break-even, and weekly units dropped to 4. |
-| Open orders (9) | Butter/Grey (can't match): 11798 (Butter M + Grey M, 11 days), 11868 (Butter L), 11874 (Butter L), 11888 (Butter 4XL + Grey 4XL + Pink 4XL), 11903 (Butter S), 11934 (Butter S). Live colors only, still unfulfilled: 11832 (Navy S, 9 days), 11893 (Camel XL + Olive XL, 7 days), 12055 (Camel L, 10-21). 12057 (Purple M) shipped 10-23. |
+| Meta ads | **On.** "Freya Zip Pullover - 41 / 1.46": last 30 days $726 spend, 12 purchases, ROAS 1.26. V2: $106, 1 purchase, ROAS 0.62. 10-21 to 10-23: $46 across both, 2 purchases, ROAS 2.79 (V1 6.47 on $10, V2 1.81 on $36). 30-day blend 1.18, under the 1.46 in the ad set name. |
+| 30-day sales | 13 orders / 17 units. Last 7 days (10-18 to 10-24) 2 orders / 2 units vs 11 / 15 the week before (down). Has traction on 30 days only. |
+| Scale read | Not a scale candidate. Margin vs Cherry: $54.99 − $18.91 = ~$36 landed (US, 1 pc). Blockers: 6 of 9 open orders include Butter/Grey from the Temu listing that Cherry can't match, 30-day ROAS 1.18 is under break-even (the good last 3 days are on $46 of spend), and weekly units dropped to 2. |
+| Open orders (9) | Butter/Grey (can't match): 11798 (Butter M + Grey M, 12 days), 11868 (Butter L), 11874 (Butter L), 11888 (Butter 4XL + Grey 4XL + Pink 4XL), 11903 (Butter S), 11934 (Butter S). Live colors only, still unfulfilled: 11832 (Navy S, 10 days), 11893 (Camel XL + Olive XL, 8 days), 12055 (Camel L, 10-21). No change since 10-23. |
 | Customer contact | Abby is asking Butter/Grey buyers to switch color or take a refund. Daniela is building a separate listing for the 1688 colors with AI images, to swap in after the GMC review clears. |
 | GMC | Hold listing and image swaps until the GMC review clears. 11 croc-bag photos pulled for GMC. `brief` |
 
 ## Changelog
+
+### 2026-10-24
+
+- Same 9 open orders, none shipped or refunded. Weekly units 2 vs 15. `Shopify 10-24`
+- Meta 10-21 to 10-23 ROAS 2.79 on only $46. 30-day still 1.18. `Meta 10-24`
 
 ### 2026-10-23
 
