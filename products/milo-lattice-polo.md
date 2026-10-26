@@ -25,6 +25,10 @@ title: "Milo Lattice Polo"
 
 ## Changelog
 
+### 2026-10-26
+
+- No change. Emerald still blocked, no sales, $0 spend in the last 3 days. `Shopify 10-26` `Meta 10-26`
+
 ### 2026-10-25
 
 - No change. Emerald still blocked, no sales, no spend in the last 3 days. `Shopify 10-25` `Meta 10-25`
