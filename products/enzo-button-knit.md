@@ -17,12 +17,17 @@ title: "Enzo Button Knit"
 | Selling price | $39.99 (Shopify). PLW r253 says $44.99. |
 | Approved colors and sizes | Olive, Coffee, Black. S–2XL. PLW note: one listing is Temu (long sleeve), the other is 1688 (short sleeve). Which one Hart quoted: unknown. |
 | Blocked on listing | none |
-| Meta ads | **On.** "Enzo Button Knit (V2) - 30 / 1.49": last 30 days $1,496 spend, 35 purchases, ROAS 1.75. V1 paused ($41, 0 purchases). 10-23 to 10-25: $185, 6 purchases, **ROAS 2.71**, CPA ~$31. |
-| 30-day sales | 52 orders / 93 units (new, 0 the 30 days before). Last 7 days (10-20 to 10-26, today partial) 16 orders / 31 units vs 26 / 45 the week before (down, but less than last read). Has traction. |
-| Scale read | **Scale candidate again (on small spend).** Second 3-day read in a row over the 1.49 in the ad set name (1.60, now 2.71 on $185), 30-day ROAS 1.75, and 31 units in 7 days. Caveats: spend is still only ~$60/day and weekly units are below the 45 of two weeks ago. Cherry is shipping normally (10-24/10-25 orders all fulfilled). Margin: $39.99 − $14.76 = ~$25.23 (Cherry) vs ~$25.59 (Hart landed). |
-| Open orders | Normal Cherry queue: 12196 (Black XL) and 12197 (Black S), both 10-26. 12136, 12150, 12155, 12156 shipped. 11941 and 11942 (CL, same customer, same 2 items, $84.97 each) still both fully paid with $0 refunded on one shared tracking number (LJ048640317CN), so the possible double charge is still open. |
+| Meta ads | **On.** "Enzo Button Knit (V2) - 30 / 1.49": last 30 days $1,581 spend, 41 purchases, ROAS 1.92. V1 paused ($41, 0 purchases). 10-24 to 10-26: $216, 11 purchases, **ROAS 4.03**, CPA ~$20. |
+| 30-day sales | 55 orders / 97 units (new, 0 the 30 days before). Last 7 days (10-21 to 10-27, today partial) 16 orders / 30 units vs 26 / 44 the week before (down). Has traction. |
+| Scale read | **Scale candidate (on small spend).** Third 3-day read in a row over the 1.49 in the ad set name (1.60, 2.71, now 4.03 on $216 at CPA ~$20), 30-day ROAS up to 1.92, and 30 units in 7 days. Caveats: spend is still only ~$72/day and weekly units are below the 44 of the week before. Cherry is shipping normally. Margin: $39.99 − $14.76 = ~$25.23 (Cherry) vs ~$25.59 (Hart landed). |
+| Open orders | Normal Cherry queue: 12225 (Olive XL x2, 10-27). 12196 and 12197 shipped. 11941 and 11942 (CL, same customer, same 2 items, $84.97 each) still both fully paid with $0 refunded on one shared tracking number (LJ048640317CN), so the possible double charge is still open. |
 
 ## Changelog
+
+### 2026-10-27
+
+- Meta 10-24 to 10-26 ROAS 4.03 on $216 (11 purchases, CPA ~$20), third read over 1.49 in a row. 30-day ROAS 1.92. Still a scale candidate on small spend. Weekly units 30 vs 44. `Meta 10-27` `Shopify 10-27`
+- 12196/12197 shipped. 11941/11942 still both paid, nothing refunded. `Shopify 10-27`
 
 ### 2026-10-26
 

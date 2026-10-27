@@ -17,8 +17,8 @@ title: "Veylan Pullover"
 | Selling price | $44.99 (Shopify). PLW r197 still says $49.99. |
 | Approved colors and sizes | Hart alt: M–3XL. Colors Hart can do: unknown. Hart's version is not the same item as the listing (Cherry's version also had a different neckline). |
 | Blocked on listing | None. Black and White, S–3XL are all still buyable (Shopify 10-20). Size S can't be sourced from Hart. |
-| Meta ads | **Off.** Ad set "Veylan Pullover - 38 / 1.30". Last 30 days: $100 spend, 2 purchases, ROAS 1.11. No spend 10-23 to 10-25. |
-| 30-day sales | 3 orders / 3 units (9-26 to 10-26), down from 9 the 30 days before. 0 in the last 7 days. |
+| Meta ads | **Off.** Ad set "Veylan Pullover - 38 / 1.30". Last 30 days: $90 spend, 2 purchases, ROAS 1.24. No spend 10-24 to 10-26. |
+| 30-day sales | 3 orders / 3 units (9-27 to 10-27), down from 9 the 30 days before. 0 in the last 7 days. |
 | Scale read | Not a scale candidate. Margin vs Hart: $44.99 − $13.30 = ~$31.69 before fees and ads, but it's a different style, no size S, ads are off and nothing sold in 7 days. |
 | Open orders | None unfulfilled. All 10 Veylan orders had their tracking updated 10-19/10-20 (YT2629… numbers, same format as Hart's Kian tracking): 10775 YT2629201001310821, 10778 EWSMM261019000214YQ (in transit), 10785 AU0000006031866, 10794 YT2629200708472009, 10967 YT2629201001510875, 11379 YT2629301000618511, 11390 YT2629301000948165, 11488 YT2629301000820174, 11505 YT2629301000820232, 11518 YT2629301000618743. 10791: Veylan line removed and refunded (Partially Refunded, $7.24 tip left), so it won't ship. |
 | Paid to Hart (10-18) | 10775 (Black XL, US), 10778 (Black L, **MX**), 10785 (White 2XL x2, **AU**, Sergio), 10791 (White **S**, US, on hold), 10794 (White 2XL, US), 10967 (Black L + White L, US) |
@@ -26,6 +26,10 @@ title: "Veylan Pullover"
 | Customer contact | Each of these customers has to be told before anything ships, because Hart's version is a different style. 10791 needs an OK on size M first. |
 
 ## Changelog
+
+### 2026-10-27
+
+- No change. 3 units in 30 days, 0 in 7, no spend in 3 days. `Shopify 10-27` `Meta 10-27`
 
 ### 2026-10-26
 

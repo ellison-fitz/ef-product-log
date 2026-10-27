@@ -17,13 +17,18 @@ title: "Maris Drape Sweater"
 | Selling price | $49.99 (Shopify). PLW r212 says $59.99. |
 | Approved colors and sizes | Apricot, Black, Burgundy, Coffee, Pink, Gray, Blue, Yellow. XS–5XL. |
 | Blocked on listing | none |
-| Meta ads | **On**, biggest spender. Campaign "Maris Drape Sweater - 35 / 1.53" (OG, Batch 1–6): last 30 days ~$11,370 spend, 234 purchases, ROAS 1.58, CPA ~$49. 10-23 to 10-25: $1,228, 27 purchases, **ROAS 1.74** (OG 1.91 on $556, Batch 2 1.79 on $603), CPA ~$45. Separate WINNERS ad set "Maris Drape Sweater - 35 / 1.53": $467 over 30 days, 3 purchases, ROAS 0.38; no spend in the last 3 days. |
-| 30-day sales | 257 orders / 360 units (9-26 to 10-26, today partial; prior 30 days 169). Last 7 days (10-20 to 10-26, today partial) 59 orders / 80 units vs 76 / 112 the week before (down). Top seller. |
-| Scale read | Scale product. Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Units down week over week (80 vs 112, today partial). Meta: 30-day ROAS 1.58, just over the 1.53 in the campaign name; the last 3 days were 1.74, the first read over break-even after five under (1.24, then 1.40, now 1.74), with OG 1.91 and Batch 2 1.79. |
-| Open orders | Normal Cherry queue only: 12202 and 12203 (10-26), paid and on hold (normal new-order hold). All 12 orders from 10-23 to 10-25 now show fulfilled. |
+| Meta ads | **On**, biggest spender. Campaign "Maris Drape Sweater - 35 / 1.53" (OG, Batch 2–6): last 30 days ~$11,579 spend, 233 purchases, ROAS 1.56, CPA ~$50. 10-24 to 10-26: $1,287, 25 purchases, **ROAS 1.56** (Batch 2 1.59 on $674, OG 1.38 on $549), CPA ~$51. Separate WINNERS ad set "Maris Drape Sweater - 35 / 1.53": $467 over 30 days, 3 purchases, ROAS 0.38; no spend in the last 3 days. |
+| 30-day sales | 255 orders / 356 units (9-27 to 10-27, today partial; prior 30 days 177). Last 7 days (10-21 to 10-27, today partial) 49 orders / 65 units vs 83 / 117 the week before (down). Top seller. |
+| Scale read | Scale product. Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Units down week over week (65 vs 117, today partial). Meta: 30-day ROAS 1.56, just over the 1.53 in the campaign name; the last 3 days were 1.56, the second read in a row over break-even (1.74, now 1.56), but OG slipped to 1.38 and Batch 2 (1.59) is carrying it. |
+| Open orders | Normal Cherry queue only: 12222 (Black 3XL, 10-27). 12202 and 12203 shipped. |
 | Upsell | Noir shades replaced Elisa as the Maris upcart upsell (10-07). |
 
 ## Changelog
+
+### 2026-10-27
+
+- Meta 10-24 to 10-26 ROAS 1.56 (Batch 2 1.59, OG 1.38), second read over 1.53. 30-day 1.56. `Meta 10-27`
+- 30-day units 356. Last 7 days 65 vs 117. 12202/12203 shipped; only 12222 open. `Shopify 10-27`
 
 ### 2026-10-26
 
