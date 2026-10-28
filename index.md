@@ -9,9 +9,11 @@ Current state of every product we're moving between suppliers. Each product page
 
 | Product | Supplier | Status | Last updated | |
 |---|---|---|---|---|
+| **Beck Waffle Polo** | unknown (Lay: no on 3 colors) | Blocked | 2026-10-28 | [Open](products/beck-waffle-polo.html) |
 | **Leif Stripe Trouser** | none | Blocked | 2026-10-28 | [Open](products/leif-stripe-trouser.html) |
 | **Linnea Pearl Top** | unknown | Blocked | 2026-10-28 | [Open](products/linnea-pearl-top.html) |
-| **Camille Knit Sweater** | Lay (Dropsure) | Partial | 2026-10-28 | [Open](products/camille-knit-sweater.html) |
+| **Maren Lantern Pullover** | unknown (Sage/Terracotta unsourced) | Partial | 2026-10-28 | [Open](products/maren-lantern-pullover.html) |
+| **Camille Knit Sweater** | Lay (Dropsure). Cherry Black/Apricot only | Partial | 2026-10-28 | [Open](products/camille-knit-sweater.html) |
 | **Denver Knit Pullover** | Cherry | Partial | 2026-10-28 | [Open](products/denver-knit-pullover.html) |
 | **Freya Zip Pullover** | Cherry | Partial | 2026-10-28 | [Open](products/freya-zip-pullover.html) |
 | **Milan Leopard Dress** | Cherry | Partial | 2026-10-28 | [Open](products/milan-leopard-dress.html) |

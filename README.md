@@ -11,7 +11,19 @@ This file is the current state of every product we are moving between suppliers.
 
 Site: index.md + products/ render via GitHub Pages (Jekyll). Each product page now has a **Scale read** row (30-day units and trend, margin vs supplier cost, supplier reliability, Meta).
 
-Snapshot taken Wed 2026-10-28, ~10:10 AM CT. Shopify reads (status, price, buyable colors, open orders) are from the Admin API at that time. 30-day sales are Shopify analytics net units for 2026-09-28 to 2026-10-28 (today partial), with the prior 30 days and last 7 (10-22 to 10-28) vs prior 7 days (10-15 to 10-21) for trend. Meta is read-only from ad set and campaign names, last 30 days and 10-25 to 10-27, using Meta-reported purchases and ROAS. The "35 / 1.53" style numbers in ad set names are copied as written; 1.53 is read as the break-even ROAS. Slack and WhatsApp were not re-read for this refresh. Not tracked here yet: Maren Lantern Pullover (40 units 30d, 39 in 7d vs 1; 3d ROAS 1.74 on $603 vs 1.5 in the ad set name, 30d 2.01; 20 orders unfulfilled, oldest 12065 from 10-21) and Bram Rib Cardigan (32 units 30d, 17 in 7d vs 9; 3d ROAS 2.10 on $263 vs 1.51, 30d 2.45; 12261 open from today).
+Snapshot taken Wed 2026-10-28, ~10:10 AM CT. Shopify reads (status, price, buyable colors, open orders) are from the Admin API at that time. 30-day sales are Shopify analytics net units for 2026-09-28 to 2026-10-28 (today partial), with the prior 30 days and last 7 (10-22 to 10-28) vs prior 7 days (10-15 to 10-21) for trend. Meta is read-only from ad set and campaign names, last 30 days and 10-25 to 10-27, using Meta-reported purchases and ROAS. The "35 / 1.53" style numbers in ad set names are copied as written; 1.53 is read as the break-even ROAS. Slack and WhatsApp were not re-read for this refresh. Sourcing update 2026-10-28 ~1:20 PM CT: WhatsApp and Slack facts added for Camille, Maris, Enzo; Maren Lantern Pullover and Beck Waffle Polo pages added (Shopify re-read for both). Not tracked here yet at the 10:10 AM snapshot: Maren Lantern Pullover (40 units 30d, 39 in 7d vs 1; 3d ROAS 1.74 on $603 vs 1.5 in the ad set name, 30d 2.01; 20 orders unfulfilled, oldest 12065 from 10-21) and Bram Rib Cardigan (32 units 30d, 17 in 7d vs 9; 3d ROAS 2.10 on $263 vs 1.51, 30d 2.45; 12261 open from today).
+
+## Sourcing gaps
+
+As of 2026-10-28.
+
+| Product | Gap | Who said no | Next |
+|---|---|---|---|
+| [Maren Lantern Pullover](products/maren-lantern-pullover.md) | Sage Green (match listing, not mint/olive) and Brick/Terracotta (not bright orange). All 20 open orders have one of them. | Lay: not available (10-28) | Ask Hart by name, then Cherry |
+| [Beck Waffle Polo](products/beck-waffle-polo.md) | Light Blue, Light Green, Mustard (M, order 11943) | Lay: not available (10-28) | Ask Hart, then Cherry |
+| [Camille Knit Sweater](products/camille-knit-sweater.md) | Colors beyond Black/Apricot (11686 Burgundy L, 11756 White S) | Cherry: only Black/Apricot (10-27). Hart: no (10-11) | Lay to confirm her 4 colors |
+| [Freya Zip Pullover](products/freya-zip-pullover.md) | Temu colors (Butter, Grey, Olive, Pink) | see page | Abby: switch or refund |
+| [Maris Drape Sweater](products/maris-drape-sweater.md) | Full color range from the better-fabric supplier | 50 unit MOQ per color | Decide after the replacement sample |
 
 ## Rules
 
@@ -31,7 +43,9 @@ Snapshot taken Wed 2026-10-28, ~10:10 AM CT. Shopify reads (status, price, buyab
 |---|---|---|---|---|---|---|---|---|---|
 | [Maris Drape Sweater](products/maris-drape-sweater.md) | Cherry. Hart pitched | $17.41 Cherry (PLW) vs $20.30 Hart landed | 8 colors, XS–5XL | Live | none. 12222 shipped | 359 (7d 74 vs 120, down) · On, ROAS 1.55 30d / 1.61 last 3d | Scale product. ~$32.58 margin. Third 3d read over 1.53 (1.74, 1.56, 1.61), but OG 1.52 and Batch 2 1.39 | Finish Cherry vs Hart comparison. Watch OG and Batch 2 | Kevin |
 | [Enzo Button Knit](products/enzo-button-knit.md) | Cherry. Hart pitched | $14.76 Cherry (PLW) vs $14.40 Hart landed | Olive, Coffee, Black (2 listings; `enzo-button-knit` now $49.99, `enzo-knit` $39.99) | Live | 9 orders from 10-27 on, normal. 11941 + 11942 on one tracking, both still fully paid | 115 (7d 48 vs 39, up) · On, ROAS 2.07 30d / 3.90 last 3d | Scale candidate. ~$35.23 margin at $49.99 (~$25.23 at $39.99). Fourth 3d read over 1.49 (3.90 at CPA ~$19), spend ~$100/day | Kevin decides whether to add spend. Watch conversion at $49.99. Check whether 11941/11942 needs a refund | Kevin |
-| [Camille Knit Sweater](products/camille-knit-sweater.md) | Lay (only source) | unknown | Coffee, Apricot, White, Black (Emerald, Burgundy off) | Partial | none. 5 Lay orders still on old 10-10 tracking | 30 (7d 3 vs 9, down) · Nearly off ($2 last 3d), ROAS 2.01 30d | Strong ROAS, but supply-blocked (Lay only, cost unknown) | Lay ships the 5 + tells us her 4 colors | Abby (Lay) |
+| [Maren Lantern Pullover](products/maren-lantern-pullover.md) | unknown (non-gap colors shipping). Lay no on Sage/Terracotta. Hart asked | unknown | 6 colors, XS–5XL, all buyable | Partial | 20 unfulfilled, oldest 12065 (10-21), all have Sage Green or Terracotta | 40 (7d 39 vs 1, up) · On, ROAS 1.74 last 3d on $603 vs 1.5, 2.01 30d | Demand is there, but blocked on Sage Green and Terracotta | Source Sage + Terracotta (Hart, then Cherry) | Kevin |
+| [Beck Waffle Polo](products/beck-waffle-polo.md) | unknown. Lay no on Light Blue/Light Green/Mustard | unknown | 10 colors, S–4XL, all buyable | Blocked | 11943 (Light Blue, Light Green, Mustard M, 11 days) | 3 (one order) · unknown | Not a candidate | Ask Hart, then Cherry. Else exchange or store credit | Kevin, Abby |
+| [Camille Knit Sweater](products/camille-knit-sweater.md) | Lay (again for 11686, 11756). Cherry Black/Apricot only | unknown | Coffee, Apricot, White, Black (Emerald, Burgundy off) | Partial | none. 5 Lay orders still on old 10-10 tracking | 30 (7d 3 vs 9, down) · Nearly off ($2 last 3d), ROAS 2.01 30d | Strong ROAS, but supply-blocked (Lay only, cost unknown) | Kevin asks Lay her colors, price, lead time. Then Abby sends 11686, 11756 to Lay | Kevin, Abby |
 | [Freya Zip Pullover](products/freya-zip-pullover.md) | Cherry (1688 colors). Lay/Hart asked for Temu colors | $18.91 US 1pc (Cherry quote) | Temu listing: Camel, Navy only (Butter, Grey, Olive, Pink off; Olive/Pink off since 10-26 night). 1688 listing `freya-pullover`: 8 colors | Partial | 11798, 11832, 11868, 11874, 11888, 11893, 11934 (12055 shipped) | 16 (7d 0 vs 13, stopped) · Off ($0 last 3d), ROAS 1.18 30d | No: 5 of 7 open orders unmatchable, 11893 has Olive (off), 30d ROAS under 1.46, no sales in 7d | Abby: Butter/Grey buyers switch or refund. Check Olive for 11893. Ship 11832 (Navy S, 14 days) | Abby |
 | [Denver Knit Pullover](products/denver-knit-pullover.md) | Cherry (new cream version) | $9.36/unit bulk ex-shipping. Sample price "very high", exact unknown | Cream only (still buyable) | Partial | none | 26 (7d 11 vs 15, down) · On, ROAS 1.17 30d / 1.08 last 3d, CPA ~$69 | No: misses Axel's 5+/day at ≤ $21 CPA. 3d ROAS fell to 1.08, under 1.47 | Hold the 250 bulk. Watch how the $64.99 price converts | Kevin |
 | [Milan Leopard Dress](products/milan-leopard-dress.md) | Cherry | $23.40 (PLW) | Navy, Sky | Partial | none | 10 (0 in 7d) · Off in practice, ROAS 1.17 30d | Cooled off. Not a scale call now | Confirm the 11556 customer knows only one dress shipped | Abby |
@@ -60,6 +74,8 @@ Status key: **Live** = sourced and shipping normally. **Partial** = live, but so
 - [products/leif-stripe-trouser.md](products/leif-stripe-trouser.md)
 - [products/linnea-pearl-top.md](products/linnea-pearl-top.md)
 - [products/milan-leopard-dress.md](products/milan-leopard-dress.md)
+- [products/maren-lantern-pullover.md](products/maren-lantern-pullover.md)
+- [products/beck-waffle-polo.md](products/beck-waffle-polo.md)
 
 ## Source tags
 
@@ -95,6 +111,7 @@ Status key: **Live** = sourced and shipping normally. **Partial** = live, but so
 | `Meta 10-21` | Meta Ads read-only, account act_731553569252529, last 30 days and 10-18 to 10-20, read 2026-10-21 |
 | `Meta 10-20` | Meta Ads read-only, account act_731553569252529, last 30 days and 10-17 to 10-19, read 2026-10-20 |
 | `Kevin 10-18` | Kevin told the ops agent directly in chat on 10-18 |
+| `WA Lay MM-DD` / `WA Hart private MM-DD` | Same WhatsApp chats, with the message date |
 | `brief` | From the request brief. Not re-found in Slack or Shopify |
 
-WhatsApp tags come from what was read earlier today. I did not re-open WhatsApp for this draft.
+WhatsApp tags come from what was read earlier today. The 2026-10-28 sourcing update used WhatsApp and Slack facts read that day.

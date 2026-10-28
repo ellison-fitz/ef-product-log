@@ -11,8 +11,8 @@ title: "Camille Knit Sweater"
 
 | Field | Value |
 |---|---|
-| Current supplier | **Lay (Dropsure)**, the only source (Abby 10-16). Cherry quoted it but her supplier sold out; restock 10–15 days. |
-| Backup | Cherry after restock (10–15 days from ~10-16). Hart: can't find the same style. |
+| Current supplier | **Lay (Dropsure)** again for 11686 and 11756 once she confirms (Kevin 10-28). Lay fulfilled Camille before and was the only source (Abby 10-16). Her new supplier has "4 colors", not named, unconfirmed. |
+| Backup | Cherry: her supplier now only has **Black and Apricot**, other colors no longer produced (10-27). Hart: can't find the same style (10-11). |
 | Cost (product + shipping) | Lay: unknown. Cherry: unknown (not in PLW tab). |
 | Selling price | $49.99 |
 | Approved colors and sizes | Apricot, Black, White, Dark Brown stay live on the short sleeve listing. Sizes S–2XL. |
@@ -20,6 +20,9 @@ title: "Camille Knit Sweater"
 | Meta ads | **Nearly off.** Stack Testing ad sets "Camille Knit Sweater (V1)" and "(V2) - 37 / 1.45". Last 30 days: $824 spend, 22 purchases, ROAS 2.01 (V2 2.46, V1 0.95). 10-25 to 10-27: $2, no purchases. |
 | 30-day sales | 22 orders / 30 units. Last 7 days (10-22 to 10-28, today partial) 2 orders / 3 units vs 7 / 9 the week before (down). Has traction on 30 days. |
 | Scale read | Strong 30-day ROAS (V2 2.46), so demand is there, but scale is still blocked by supply: Lay is the only source, her cost is unknown so margin is unknown, and 5 of her orders still have only the 10-10 tracking. Spend has stopped ($2 in 3 days) and weekly sales are fading. |
+| Pending orders | 11686 (Burgundy L) and 11756 (White S, order also has a Maris Pink S): Kevin told Cherry to cancel the Camille on both (10-27); now going to Lay once she confirms colors. Both show fulfilled in Shopify, so check no tracking was sent before redoing. |
+| Next action | Kevin asks Lay which colors, price and lead time. Then Abby sends 11686 and 11756 to Lay. No color drafting until Lay answers, Meta is checked and Leandro is told. |
+| Owner | Kevin, then Abby |
 | Open orders | None unfulfilled. 11692, 11710, 11712, 11722, 11728 still show only the original 10-10 tracking (YT26283… numbers, not updated as of 10-28). No new Lay tracking in Shopify yet. |
 | Customer contact | The 5 customers get a short-delay update. 11831: if Lay has Emerald she ships it, otherwise Abby emails the customer to pick another color or get a refund. |
 
@@ -27,10 +30,16 @@ title: "Camille Knit Sweater"
 
 ### 2026-10-28
 
+- Kevin (12:31 to 12:34 PM CT): Lay can fulfill these (she did before). Told Abigail to hold the black/apricot offer unless too late and send 11686 and 11756 to Lay once confirmed. Kevin will ask Lay which colors she has. `#08 10-28`
+- Leandro asked whether any colors need drafting or adding. Answer: not yet. Camille may run in Meta, so nothing gets drafted without checking Meta and telling Leandro. `#08 10-28`
+- Kevin is sending Lay a WhatsApp asking which colors, price and lead time. `WA Lay 10-28`
+
 - Still no new Lay tracking on the 5 orders. No open orders. Weekly units 3 vs 9. `Shopify 10-28`
 - Spend $2 over 10-25 to 10-27. 30-day ROAS 2.01. `Meta 10-28`
 
 ### 2026-10-27
+
+- Cherry (12:54 AM CT): her supplier now only has black and apricot, other colors no longer produced. Affects 11756 (Camille White S, plus Maris Pink S) and 11686 (Camille Burgundy L). Kevin told Cherry to cancel the Camille on both and Abigail to offer black or apricot exchange or store credit. `#08 10-27`
 
 - Still no new Lay tracking on the 5 orders. No open orders. `Shopify 10-27`
 - Spend $3 over 10-24 to 10-26. 30-day ROAS 2.01. `Meta 10-27`
@@ -96,6 +105,10 @@ title: "Camille Knit Sweater"
 ### 2026-10-15
 
 - Cherry: 11831 Camille Emerald S isn't available in green. `#08 10-15`
+
+### 2026-10-11
+
+- Hart: can't find the same style. `WA Hart–Wio 1 10-11`
 
 ### 2026-10-10
 

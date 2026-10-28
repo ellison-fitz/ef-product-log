@@ -12,7 +12,7 @@ title: "Enzo Button Knit"
 | Field | Value |
 |---|---|
 | Current supplier | **Cherry** |
-| Backup | Hart pitched it (10-17). Not approved. |
+| Backup | Hart pitched it (10-17). Not approved. Long sleeve: Kevin asked Hart 10-27 to source a longer-sleeve version to match the live listing; Hart says three suppliers of this model haven't responded (10-28). |
 | Cost (product + shipping) | Cherry: $14.76 (PLW r253, shipping basis unknown). Hart: **$14.40** landed for 1 ($6.00 item + $8.40 shipping), $24.70 for 2, $35.10 for 3. Ships in 6–9 days. |
 | Selling price | `enzo-button-knit` now **$49.99** (compare-at $84.99), up from $39.99 (was $39.99 at the 10-23 read; the change is not in Shopify product events, variant edits show 10-27 ~10:53 AM CT, so the exact time is unknown). `enzo-knit` still $39.99. PLW r253 says $44.99. |
 | Approved colors and sizes | Olive, Coffee, Black. S–2XL. PLW note: one listing is Temu (long sleeve), the other is 1688 (short sleeve). Which one Hart quoted: unknown. |
@@ -26,11 +26,16 @@ title: "Enzo Button Knit"
 
 ### 2026-10-28
 
+- Hart (4:51 AM CT): three suppliers of this model haven't responded; asked if Kevin can ship it without issues. Unanswered. `WA Hart private 10-28`
+- Leandro (11:11 AM CT): "technically yes" to fulfilling the Enzo long sleeve. Cherry stays the current Enzo supplier. `#00 10-28`
+
 - `enzo-button-knit` price now $49.99 (compare-at $84.99), was $39.99; `enzo-knit` still $39.99. Exact change time unknown (no product event). `Shopify 10-28`
 - Meta 10-25 to 10-27 ROAS 3.90 on $301 (16 purchases, CPA ~$19), fourth read over 1.49 in a row, spend up to ~$100/day. 30-day ROAS 2.07. Weekly units up, 48 vs 39. `Meta 10-28` `Shopify 10-28`
 - 9 open orders, all 10-27 or later. 11941/11942 still both paid, nothing refunded. `Shopify 10-28`
 
 ### 2026-10-27
+
+- Kevin asked Hart (9:42 PM CT) to source a longer-sleeve version to match the live listing. `WA Hart private 10-27`
 
 - Meta 10-24 to 10-26 ROAS 4.03 on $216 (11 purchases, CPA ~$20), third read over 1.49 in a row. 30-day ROAS 1.92. Still a scale candidate on small spend. Weekly units 30 vs 44. `Meta 10-27` `Shopify 10-27`
 - 12196/12197 shipped. 11941/11942 still both paid, nothing refunded. `Shopify 10-27`
