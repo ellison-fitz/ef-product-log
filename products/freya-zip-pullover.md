@@ -17,15 +17,20 @@ title: "Freya Zip Pullover"
 | Selling price | $54.99 |
 | Temu reference | https://www.temu.com/goods.html?goods_id=606011964420052 |
 | Approved colors and sizes | Live on `freya-zip-pullover`: Camel, Navy only (Olive and Pink turned off 10-26 late evening). Sizes S–5XL. Cherry's 1688 colors: Khaki, Pink, Purple, Yellow, Gray, Black, Off-white, Chestnut. |
-| Blocked on listing | On `freya-zip-pullover`, Butter, Grey, **Olive and Pink** are now not for sale (all sizes; Olive/Pink switched to deny-oversell around 10:24 PM CT on 10-26, who and why not recorded). Camel and Navy S–5XL are buyable. `freya-pullover` (the 1688 colors) still has Black, Butter, Chestnut, Cream, Grey, Khaki, Pink and Purple all buyable. |
-| Meta ads | **Off.** "Freya Zip Pullover - 41 / 1.46": last 30 days $726 spend, 12 purchases, ROAS 1.26. V2: $107, 1 purchase, ROAS 0.62. 10-24 to 10-26: $0. 30-day blend 1.18, under the 1.46 in the ad set name. |
-| 30-day sales | 13 orders / 16 units. Last 7 days (10-21 to 10-27, today partial) 1 net unit vs 11 the week before (down). Has traction on 30 days only. |
-| Scale read | Not a scale candidate. Margin vs Cherry: $54.99 − $18.91 = ~$36 landed (US, 1 pc). Blockers: 5 of 8 open orders include Butter/Grey that Cherry can't match, and 11893 now has Olive, which was just turned off too. 30-day ROAS 1.18 is under break-even, spend is $0 and weekly units are down to 1. |
-| Open orders (8) | Butter/Grey (can't match): 11798 (Butter M + Grey M, 15 days), 11868 (Butter L), 11874 (Butter L), 11888 (Butter 4XL + Grey 4XL still open, Pink shipped), 11934 (Butter S). Olive (now off on the listing): 11893 (Camel XL + Olive XL, 11 days). Live colors only, still unfulfilled: 11832 (Navy S, 13 days), 12055 (Camel L, 10-21). |
+| Blocked on listing | On `freya-zip-pullover`, Butter, Grey, Olive and Pink are not for sale (all sizes; Olive/Pink off since ~10:24 PM CT 10-26). Camel and Navy S–5XL are buyable (Shopify 10-28). `freya-pullover` (the 1688 colors) still has Black, Butter, Chestnut, Cream, Grey, Khaki, Pink and Purple all buyable. |
+| Meta ads | **Off.** "Freya Zip Pullover - 41 / 1.46": last 30 days $726 spend, 12 purchases, ROAS 1.26. V2: $107, 1 purchase, ROAS 0.62. 10-25 to 10-27: $0. 30-day blend 1.18, under the 1.46 in the ad set name. |
+| 30-day sales | 13 orders / 16 units. Last 7 days (10-22 to 10-28, today partial) 0 units vs 13 the week before (stopped). Has traction on 30 days only. |
+| Scale read | Not a scale candidate. Margin vs Cherry: $54.99 − $18.91 = ~$36 landed (US, 1 pc). Blockers: 5 of 7 open orders include Butter/Grey that Cherry can't match, and 11893 has Olive, which is off on the listing. 30-day ROAS 1.18 is under break-even, spend is $0 and there were no sales in the last 7 days. |
+| Open orders (7) | Butter/Grey (can't match): 11798 (Butter M + Grey M, 16 days), 11868 (Butter L), 11874 (Butter L), 11888 (Butter 4XL + Grey 4XL still open, Pink shipped), 11934 (Butter S). Olive (off on the listing): 11893 (Camel XL + Olive XL, 12 days). Live colors only, still unfulfilled: 11832 (Navy S, 14 days). 12055 (Camel L) shipped 10-27 ~10:58 PM CT. |
 | Customer contact | Abby is asking Butter/Grey buyers to switch color or take a refund. Daniela is building a separate listing for the 1688 colors with AI images, to swap in after the GMC review clears. |
 | GMC | Hold listing and image swaps until the GMC review clears. 11 croc-bag photos pulled for GMC. `brief` |
 
 ## Changelog
+
+### 2026-10-28
+
+- 12055 (Camel L) shipped. 7 open orders left, none of the Butter/Grey/Olive ones moved; 11832 (Navy S, live color) still unfulfilled at 14 days. `Shopify 10-28`
+- $0 spend over 10-25 to 10-27. No sales in the last 7 days (13 the week before). `Meta 10-28` `Shopify 10-28`
 
 ### 2026-10-27
 

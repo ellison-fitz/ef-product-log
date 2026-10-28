@@ -18,12 +18,16 @@ title: "Elisa Flat Loafers"
 | Approved colors and sizes | Listing: Beige, Black, Apricot. US 5–10. |
 | Blocked on listing | Whole product in Draft for the GMC counterfeit review (horsebit detail). |
 | Meta ads | None found. No Elisa ad set in the account. |
-| 30-day sales | 2 orders / 3 units (before it was drafted). Mostly through the Maris upcart. |
+| 30-day sales | 1 order / 1 unit in 9-28 to 10-28 (before it was drafted; prior 30 days 4). Mostly through the Maris upcart. |
 | Scale read | Parked until the GMC review clears. Cost unknown, so margin unknown. |
 | Open orders | none |
 | Plan | Bring back with clean photos after the GMC review clears, and put it back in the Maris upcart. Don't "unlist" during review, since an unlisted page stays live and Google can still pull it. |
 
 ## Changelog
+
+### 2026-10-28
+
+- No change. Still Draft for the GMC review. `Shopify 10-28`
 
 ### 2026-10-27
 

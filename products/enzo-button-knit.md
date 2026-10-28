@@ -4,7 +4,7 @@ title: "Enzo Button Knit"
 # Enzo Button Knit
 
 **Status:** Live  
-**Shopify:** Active · two listings: `enzo-button-knit` and `enzo-knit` · $39.99  
+**Shopify:** Active · two listings: `enzo-button-knit` ($49.99) and `enzo-knit` ($39.99)  
 **Back to:** [index](../)
 
 ## Current
@@ -14,15 +14,21 @@ title: "Enzo Button Knit"
 | Current supplier | **Cherry** |
 | Backup | Hart pitched it (10-17). Not approved. |
 | Cost (product + shipping) | Cherry: $14.76 (PLW r253, shipping basis unknown). Hart: **$14.40** landed for 1 ($6.00 item + $8.40 shipping), $24.70 for 2, $35.10 for 3. Ships in 6–9 days. |
-| Selling price | $39.99 (Shopify). PLW r253 says $44.99. |
+| Selling price | `enzo-button-knit` now **$49.99** (compare-at $84.99), up from $39.99 (was $39.99 at the 10-23 read; the change is not in Shopify product events, variant edits show 10-27 ~10:53 AM CT, so the exact time is unknown). `enzo-knit` still $39.99. PLW r253 says $44.99. |
 | Approved colors and sizes | Olive, Coffee, Black. S–2XL. PLW note: one listing is Temu (long sleeve), the other is 1688 (short sleeve). Which one Hart quoted: unknown. |
 | Blocked on listing | none |
-| Meta ads | **On.** "Enzo Button Knit (V2) - 30 / 1.49": last 30 days $1,581 spend, 41 purchases, ROAS 1.92. V1 paused ($41, 0 purchases). 10-24 to 10-26: $216, 11 purchases, **ROAS 4.03**, CPA ~$20. |
-| 30-day sales | 55 orders / 97 units (new, 0 the 30 days before). Last 7 days (10-21 to 10-27, today partial) 16 orders / 30 units vs 26 / 44 the week before (down). Has traction. |
-| Scale read | **Scale candidate (on small spend).** Third 3-day read in a row over the 1.49 in the ad set name (1.60, 2.71, now 4.03 on $216 at CPA ~$20), 30-day ROAS up to 1.92, and 30 units in 7 days. Caveats: spend is still only ~$72/day and weekly units are below the 44 of the week before. Cherry is shipping normally. Margin: $39.99 − $14.76 = ~$25.23 (Cherry) vs ~$25.59 (Hart landed). |
-| Open orders | Normal Cherry queue: 12225 (Olive XL x2, 10-27). 12196 and 12197 shipped. 11941 and 11942 (CL, same customer, same 2 items, $84.97 each) still both fully paid with $0 refunded on one shared tracking number (LJ048640317CN), so the possible double charge is still open. |
+| Meta ads | **On.** "Enzo Button Knit (V2) - 30 / 1.49": last 30 days $1,716 spend, 48 purchases, ROAS 2.07. V1 paused ($41, 0 purchases). 10-25 to 10-27: $301, 16 purchases, **ROAS 3.90**, CPA ~$19. |
+| 30-day sales | 65 orders / 115 units (new, 0 the 30 days before). Last 7 days (10-22 to 10-28, today partial) 26 orders / 48 units vs 21 / 39 the week before (up). Has traction. |
+| Scale read | **Scale candidate.** Fourth 3-day read in a row over the 1.49 in the ad set name (1.60, 2.71, 4.03, now 3.90 on $301 at CPA ~$19), 30-day ROAS up to 2.07, and weekly units back up (48 vs 39). Spend rose to ~$100/day (from ~$72). Cherry is shipping normally. Margin: $49.99 − $14.76 = ~$35.23 on `enzo-button-knit` at the new price, $39.99 − $14.76 = ~$25.23 on `enzo-knit` (Hart landed $14.40 would be ~$0.36 better). Watch whether the $49.99 price holds conversion. |
+| Open orders | Normal Cherry queue, all from 10-27 or later: 12225 (Olive XL x2), 12228, 12229, 12230, 12248, 12251, 12263, 12264 on `enzo-button-knit`; 12262 (Coffee L) on `enzo-knit`. 11941 and 11942 (CL, same customer, same 2 items, $84.97 each) still both fully paid with $0 refunded on one shared tracking number (LJ048640317CN), so the possible double charge is still open. |
 
 ## Changelog
+
+### 2026-10-28
+
+- `enzo-button-knit` price now $49.99 (compare-at $84.99), was $39.99; `enzo-knit` still $39.99. Exact change time unknown (no product event). `Shopify 10-28`
+- Meta 10-25 to 10-27 ROAS 3.90 on $301 (16 purchases, CPA ~$19), fourth read over 1.49 in a row, spend up to ~$100/day. 30-day ROAS 2.07. Weekly units up, 48 vs 39. `Meta 10-28` `Shopify 10-28`
+- 9 open orders, all 10-27 or later. 11941/11942 still both paid, nothing refunded. `Shopify 10-28`
 
 ### 2026-10-27
 
