@@ -15,17 +15,22 @@ title: "Maren Lantern Pullover"
 | Backup | Hart (Wio): asked 10-27 to source all listed colors at the same quality. Said one color (on a blue sweater photo, color not named) is not carried by his higher-priced supplier, all others are. No prices or lead times. Not asked about sage or terracotta by name. Lay: sage green and terracotta not available (10-28). |
 | Cost (product + shipping) | unknown |
 | Selling price | $49.99 |
-| Approved colors and sizes | Listing: Cream, Coffee, Navy, Sky Blue, Sage Green, Terracotta. XS–5XL. All 54 variants buyable. |
+| Approved colors and sizes | Listing: Cream, Coffee, Navy, Sky Blue, Sage Green, Terracotta. XS–5XL. All 54 variants buyable (Shopify 10-29). |
 | Blocked on listing | none. Sage Green and Terracotta are still buyable with no confirmed supplier. |
 | Sourcing gap | **Sage Green** (must match the listing green, not mint or olive) and **Brick/Terracotta** (not bright orange): no confirmed source. |
-| Meta ads | 3d ROAS 1.74 on $603 vs 1.5 in the ad set name, 30d ROAS 2.01 (README snapshot `Meta 10-28`). Not re-read for this update. |
-| 30-day sales | 40 units (39 in last 7 days vs 1 the week before). README snapshot `Shopify 10-28`. |
-| Scale read | Demand is there (39 units in 7 days, 3d ROAS over 1.5), but every open order has a Sage Green or Terracotta unit that no supplier can make yet. Not a scale call until those two colors are sourced. |
-| Open orders | 20 unfulfilled, oldest 12065 (10-21). Every one has Sage Green or Terracotta: 16 Sage Green units, 4 Terracotta units. Sage: 12065, 12099, 12101, 12123, 12125, 12132, 12138, 12141, 12158, 12169, 12171, 12199, 12210, 12218, 12223, 12258. Terracotta: 12122, 12186, 12213, 12226. Orders with only Cream, Coffee, Navy or Sky Blue have shipped. |
+| Meta ads | **On.** Stack Testing ad set "Maren Lantern Pullover - 36 / 1.5": last 30 days $1,118 spend, 27 purchases, ROAS 1.73. 10-26 to 10-28: $611, 12 purchases, **ROAS 1.40** (under the 1.5 in the name), CPA ~$51. `Meta 10-29` |
+| 30-day sales | 33 orders / 45 units (9-29 to 10-29). Last 7 days (10-23 to 10-29) 29 orders / 40 units vs 5 the week before (up). `Shopify 10-29` |
+| Scale read | Demand is there (40 units in 7 days), but 22 of 23 open orders have a Sage Green or Terracotta unit with no confirmed supplier, and the backlog grows every day the two colors stay buyable. 3d ROAS slipped to 1.40, under 1.5. Not a scale call until those colors are sourced. |
+| Open orders | 23 unfulfilled, oldest 12065 (10-21, 8 days). 22 have Sage Green or Terracotta: 17 Sage Green (12065, 12099, 12101, 12123, 12125, 12132, 12138, 12141, 12158, 12169, 12171, 12199, 12210, 12218, 12223, 12258, 12291), 5 Terracotta (12122, 12186, 12213, 12226, 12288). 12292 (Navy 3XL, today) has neither. `Shopify 10-29` |
 | Next action | Source Sage Green and Terracotta (ask Hart by name, then Cherry). If no source, Leandro/Kevin decide on blocking those colors (check Meta first) and Abby offers exchange or store credit on open orders. |
 | Owner | Kevin |
 
 ## Changelog
+
+### 2026-10-29
+
+- 23 unfulfilled (was 20): new 12288 (Terracotta), 12291 (Sage + Coffee), 12292 (Navy only). Oldest 12065 now 8 days. Sage Green and Terracotta still buyable. `Shopify 10-29`
+- Meta 10-26 to 10-28 ROAS 1.40 on $611, under 1.5. 30-day 1.73. 40 units in 7 days vs 5. `Meta 10-29` `Shopify 10-29`
 
 ### 2026-10-28
 

@@ -27,6 +27,10 @@ title: "Veylan Pullover"
 
 ## Changelog
 
+### 2026-10-29
+
+- No change. Under 2 units in 30 days, 0 in 7, no spend in 3 days. `Shopify 10-29` `Meta 10-29`
+
 ### 2026-10-28
 
 - No change. 2 units in 30 days, 0 in 7, no spend in 3 days. `Shopify 10-28` `Meta 10-28`

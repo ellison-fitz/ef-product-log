@@ -25,6 +25,10 @@ title: "Milan Leopard Dress"
 
 ## Changelog
 
+### 2026-10-29
+
+- No change. No spend 10-26 to 10-28, no sales in 7 days. 30-day 10 units, ROAS ~1.18. `Shopify 10-29` `Meta 10-29`
+
 ### 2026-10-28
 
 - No change. No spend in 3 days, no sales in 7. 30-day units down to 10. `Shopify 10-28` `Meta 10-28`

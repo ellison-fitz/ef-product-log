@@ -17,8 +17,8 @@ title: "Camille Knit Sweater"
 | Selling price | $49.99 |
 | Approved colors and sizes | Apricot, Black, White, Dark Brown stay live on the short sleeve listing. Sizes S–2XL. |
 | Blocked on listing | Emerald and Burgundy are not for sale on `camille-knit-sweater` (confirmed in Shopify 10-20). Coffee, Apricot, White, Black buyable on both listings. |
-| Meta ads | **Nearly off.** Stack Testing ad sets "Camille Knit Sweater (V1)" and "(V2) - 37 / 1.45". Last 30 days: $824 spend, 22 purchases, ROAS 2.01 (V2 2.46, V1 0.95). 10-25 to 10-27: $2, no purchases. |
-| 30-day sales | 22 orders / 30 units. Last 7 days (10-22 to 10-28, today partial) 2 orders / 3 units vs 7 / 9 the week before (down). Has traction on 30 days. |
+| Meta ads | **Nearly off.** Stack Testing ad sets "Camille Knit Sweater (V1)" and "(V2) - 37 / 1.45". Last 30 days: $824 spend, 22 purchases, ROAS 2.01 (V2 2.46, V1 0.95). 10-26 to 10-28: $2, no purchases. |
+| 30-day sales | 22 orders / 30 units (9-29 to 10-29). Last 7 days (10-23 to 10-29) 0 units vs 9 the week before (stopped). Has traction on 30 days only. |
 | Scale read | Strong 30-day ROAS (V2 2.46), so demand is there, but scale is still blocked by supply: Lay is the only source, her cost is unknown so margin is unknown, and 5 of her orders still have only the 10-10 tracking. Spend has stopped ($2 in 3 days) and weekly sales are fading. |
 | Pending orders | 11686 (Burgundy L) and 11756 (White S, order also has a Maris Pink S): Kevin told Cherry to cancel the Camille on both (10-27); now going to Lay once she confirms colors. Both show fulfilled in Shopify, so check no tracking was sent before redoing. |
 | Next action | Kevin asks Lay which colors, price and lead time. Then Abby sends 11686 and 11756 to Lay. No color drafting until Lay answers, Meta is checked and Leandro is told. |
@@ -27,6 +27,10 @@ title: "Camille Knit Sweater"
 | Customer contact | The 5 customers get a short-delay update. 11831: if Lay has Emerald she ships it, otherwise Abby emails the customer to pick another color or get a refund. |
 
 ## Changelog
+
+### 2026-10-29
+
+- No open orders, no sales in the last 7 days (9 the week before). Spend $2 over 10-26 to 10-28. `Shopify 10-29` `Meta 10-29`
 
 ### 2026-10-28
 

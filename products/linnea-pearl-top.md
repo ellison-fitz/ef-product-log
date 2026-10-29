@@ -20,10 +20,14 @@ title: "Linnea Pearl Top"
 | Meta ads | **Off.** Stack Testing ad set "Linnea Pearl Top - 34 / 1.47" is paused; $53 spend in the last 30 days, 1 purchase. |
 | 30-day sales | Under 3 units (not in the top 60, so 1 net unit or less). No traction. |
 | Scale read | Not a scale candidate. No confirmed supplier. |
-| Open orders | 11661 (Black L, US). 22 days old, still unfulfilled. |
+| Open orders | 11661 (Black L, US). 23 days old, still unfulfilled. |
 | Next | Ask Lay for status, or refund. |
 
 ## Changelog
+
+### 2026-10-29
+
+- 11661 still unfulfilled (23 days). Ads off. `Shopify 10-29` `Meta 10-29`
 
 ### 2026-10-28
 

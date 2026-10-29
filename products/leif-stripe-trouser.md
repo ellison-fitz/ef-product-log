@@ -25,6 +25,10 @@ title: "Leif Stripe Trouser"
 
 ## Changelog
 
+### 2026-10-29
+
+- No change. Listing still Active (Khaki), under 2 units in 30 days, no spend in the last 3 days. `Shopify 10-29` `Meta 10-29`
+
 ### 2026-10-28
 
 - No change. Listing still Active (Khaki), no net sales, no spend in the last 3 days. `Shopify 10-28` `Meta 10-28`
