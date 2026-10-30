@@ -21,12 +21,13 @@ title: "Willa Crop Jacket"
 | 30-day sales | 1 order / 2 units (9-28 to 10-28), 0 in the last 7 days. Below traction. |
 | Scale read | Not a scale candidate. Margin vs Cherry: $44.99 − $18.60 = ~$26.39, but no traction and Orange can't be sourced. |
 | Open orders | 11807 (Orange XL + Red XL, Kaching bundle, US). 17 days old, still unfulfilled. |
-| Customer contact | 11807 customer offered size L or a refund for the XL (10-19). |
+| Customer contact | **Kevin 10-29: Abby refunds 11807 in full ($96.13).** Customer (Minme Miranda) never answered the size L or refund emails (Oct 20, 23, 27). She left a Spanish voicemail Oct 29 (Commslayer #4455) with only her name and order FND5M2KRH. Refund still pending as of 10-29 8:50pm CT. |
 
 ## Changelog
 
 ### 2026-10-29
 
+- Kevin: Abby refunds 11807 in full ($96.13). Customer never answered Abby's Oct 20, 23, 27 emails and left a Spanish voicemail on Commslayer #4455 (name and order number only). `t1684u`
 - No change: Orange still buyable, 11807 still open (17 days), ads off. `Shopify 10-29` `Meta 10-29`
 
 ### 2026-10-28
