@@ -14,15 +14,20 @@ title: "Enzo Button Knit"
 | Current supplier | **Cherry** |
 | Backup | Hart pitched it (10-17). Not approved. Long sleeve: Kevin asked Hart 10-27 to source a longer-sleeve version to match the live listing; Hart says three suppliers of this model haven't responded (10-28). |
 | Cost (product + shipping) | Cherry: $14.76 (PLW r253, shipping basis unknown). Hart: **$14.40** landed for 1 ($6.00 item + $8.40 shipping), $24.70 for 2, $35.10 for 3. Ships in 6–9 days. |
-| Selling price | `enzo-button-knit` now **$49.99** (compare-at $84.99), up from $39.99 (was $39.99 at the 10-23 read; the change is not in Shopify product events, variant edits show 10-27 ~10:53 AM CT, so the exact time is unknown). `enzo-knit` still $39.99. PLW r253 says $44.99. |
+| Selling price | `enzo-button-knit` **$49.99** (compare-at $84.99), up from $39.99 around 10-27 (exact change time unknown). `enzo-knit` still $39.99. Both unchanged at the 10-31 read. PLW r253 says $44.99. |
 | Approved colors and sizes | Olive, Coffee, Black. S–2XL. PLW note: one listing is Temu (long sleeve), the other is 1688 (short sleeve). Which one Hart quoted: unknown. |
 | Blocked on listing | none |
-| Meta ads | **On.** "Enzo Button Knit (V2) - 30 / 1.49": last 30 days $1,847 spend, 52 purchases, ROAS 2.09. V1 paused ($41, 0 purchases). 10-26 to 10-28: $351, 17 purchases, **ROAS 3.58**, CPA ~$21. |
-| 30-day sales | 68 orders / 120 units (9-29 to 10-29, today partial). Last 7 days (10-23 to 10-29, today partial) 28 orders / 52 units vs 18 / 30 the week before (up). Has traction. |
-| Scale read | **Scale candidate.** Fifth 3-day read in a row over the 1.49 in the ad set name (1.60, 2.71, 4.03, 3.90, now 3.58 on $351 at CPA ~$21), 30-day ROAS 2.09, and weekly units up (52 vs 30). Spend ~$117/day (from ~$100). The $49.99 price is holding so far. Cherry is shipping normally. Margin: $49.99 − $14.76 = ~$35.23 on `enzo-button-knit`, $39.99 − $14.76 = ~$25.23 on `enzo-knit` (Hart landed $14.40 would be ~$0.36 better). |
-| Open orders | Normal Cherry queue, all from 10-27 or later: 12225 (Olive XL x2), 12228, 12229, 12230, 12248, 12251, 12263, 12264, 12271, 12275 on `enzo-button-knit`. 12262 (`enzo-knit`) shipped. 11941 and 11942 (CL, same customer, same 2 items, $84.97 each) still both fully paid with $0 refunded on one shared tracking number (LJ048640317CN), so the possible double charge is still open. |
+| Meta ads | **On, but delivery dropped.** "Enzo Button Knit (V2) - 30 / 1.49" ad set is Active inside the CBO campaign "(2) Creative Testing - Videos | Open" ($400/day, Active). Spend by day: 10-27 $136, 10-28 $130, 10-29 $101, **10-30 $28 (0 purchases)**, 10-31 $13 so far. The campaign budget moved to the Orso Animal Bag ad set ($117 today). 10-28 to 10-30: $259, 6 purchases, **ROAS 1.99**, CPA ~$43. Last 7 days (10-24 to 10-30) $611, 24 purchases, ROAS 3.12. Last 30 days ~$2,016, 54 purchases, ROAS 2.02 (V1 paused, $41, 0 purchases). `Meta 10-31` |
+| 30-day sales | 70 orders / 123 units (10-01 to 10-31, today partial). Last 7 days (10-25 to 10-31, today partial) 27 orders / 48 units vs 16 / 27 the week before (up). Has traction. `Shopify 10-31` |
+| Scale read | **Scale candidate, on watch.** Sixth 3-day read in a row over the 1.49 (1.60, 2.71, 4.03, 3.90, 3.58, now 1.99 on $259), 7-day ROAS 3.12, 30-day 2.02, weekly units up (48 vs 27). But Meta is no longer spending on it: the CBO campaign shifted budget to Orso, Enzo got $28 on 10-30 with 0 purchases. $49.99 price is holding. Cherry shipped the whole 10-27/10-28 queue on 10-30. Margin: $49.99 − $14.76 = ~$35.23 on `enzo-button-knit`, $39.99 − $14.76 = ~$25.23 on `enzo-knit` (Hart landed $14.40 would be ~$0.36 better). |
+| Open orders | 1 unfulfilled: 12340 (Olive L, with a Bram Sage L, 10-31 ~8:08 AM CT). The 10 open on 10-29 (12225 to 12275) plus 12294, 12309 all shipped 10-30. 11941 and 11942 (same customer, same 2 items, $84.97 each) still both fully paid, $0 refunded, on one shared tracking number (LJ048640317CN): possible double charge still open. `Shopify 10-31` |
 
 ## Changelog
+
+### 2026-10-31
+
+- Meta 10-28 to 10-30 ROAS 1.99 on $259 (6 purchases, CPA ~$43), sixth read over 1.49. But daily spend fell from ~$130 to $28 on 10-30 (0 purchases) and $13 so far today; the CBO campaign moved budget to Orso Animal Bag. Ad set still Active. 7-day 3.12, 30-day 2.02. `Meta 10-31`
+- Weekly units 48 vs 27 (up). Cherry shipped all 12 open orders 10-30; only 12340 (today) open. Prices unchanged. 11941/11942 still both paid, nothing refunded. `Shopify 10-31`
 
 ### 2026-10-29
 

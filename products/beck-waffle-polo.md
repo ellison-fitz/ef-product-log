@@ -18,14 +18,18 @@ title: "Beck Waffle Polo"
 | Approved colors and sizes | Listing: Olive Green, Burgundy, Coffee, Dark Violet, Light Blue, Light Green, Pink, Mustard, Grey, Charcoal. S–4XL. All variants buyable. |
 | Blocked on listing | none |
 | Sourcing gap | **Light Blue, Light Green, Mustard** (size M, open order): no source. Source for the other 7 colors also unknown. |
-| Meta ads | No Beck ad set with spend in the last 30 days (`Meta 10-29`). |
-| 30-day sales | 3 units found, all on 11943 (order search, not analytics). |
+| Meta ads | Ad set "Beck Waffle Polo - 33 / 1.51" in Creative Testing barely spending: $5 10-28 to 10-30, $22 in 30 days, 1 purchase (Meta-counted). `Meta 10-31` |
+| 30-day sales | 1 order / 3 units (10-01 to 10-31, analytics), all on 11943. 0 in the last 7 days. `Shopify 10-31` |
 | Scale read | Not a candidate. One open order. |
-| Open orders | 11943 (10-17, 12 days): Light Blue M, Light Green M, Mustard M, 1 each. Still unfulfilled (Shopify 10-29). |
+| Open orders | 11943 (10-17, 14 days): Light Blue M, Light Green M, Mustard M, 1 each. Still unfulfilled (Shopify 10-31). |
 | Next action | Ask Hart, then Cherry, for the 3 colors in M with real photos and US shipped price. If none, Abby offers exchange or store credit on 11943. |
 | Owner | Kevin, then Abby |
 
 ## Changelog
+
+### 2026-10-31
+
+- 11943 still unfulfilled (14 days). No other Beck sales. Meta shows a small Beck test ad set ($5 in 3 days, $22 in 30). All colors still buyable. `Shopify 10-31` `Meta 10-31`
 
 ### 2026-10-29
 

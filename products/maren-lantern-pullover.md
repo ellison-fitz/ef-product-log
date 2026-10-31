@@ -11,21 +11,26 @@ title: "Maren Lantern Pullover"
 
 | Field | Value |
 |---|---|
-| Current supplier | **unknown.** Cream, Coffee, Navy and Sky Blue orders are shipping (fulfilled in Shopify), but who fulfills them is not in this log or in Shopify tags. Cherry / Beehive is the main supplier by the README rules. |
+| Current supplier | **unknown.** The whole Sage Green / Terracotta backlog was marked fulfilled 10-30 with YT2630300… tracking (same format as the rest of the Cherry queue that day; 12258 has SDH10002106964), so a supplier was found, but who and whether the colors match the listing is not in this log or in Shopify tags. Cherry / Beehive is the main supplier by the README rules. |
 | Backup | Hart (Wio): asked 10-27 to source all listed colors at the same quality. Said one color (on a blue sweater photo, color not named) is not carried by his higher-priced supplier, all others are. No prices or lead times. Not asked about sage or terracotta by name. Lay: sage green and terracotta not available (10-28). |
 | Cost (product + shipping) | unknown |
 | Selling price | $49.99 |
-| Approved colors and sizes | Listing: Cream, Coffee, Navy, Sky Blue, Sage Green, Terracotta. XS–5XL. All 54 variants buyable (Shopify 10-29). |
+| Approved colors and sizes | Listing: Cream, Coffee, Navy, Sky Blue, Sage Green, Terracotta. XS–5XL. All 54 variants buyable (Shopify 10-31). |
 | Blocked on listing | none. Sage Green and Terracotta are still buyable with no confirmed supplier. |
-| Sourcing gap | **Sage Green** (must match the listing green, not mint or olive) and **Brick/Terracotta** (not bright orange): no confirmed source. |
-| Meta ads | **On.** Stack Testing ad set "Maren Lantern Pullover - 36 / 1.5": last 30 days $1,118 spend, 27 purchases, ROAS 1.73. 10-26 to 10-28: $611, 12 purchases, **ROAS 1.40** (under the 1.5 in the name), CPA ~$51. `Meta 10-29` |
-| 30-day sales | 33 orders / 45 units (9-29 to 10-29). Last 7 days (10-23 to 10-29) 29 orders / 40 units vs 5 the week before (up). `Shopify 10-29` |
-| Scale read | Demand is there (40 units in 7 days), but 22 of 23 open orders have a Sage Green or Terracotta unit with no confirmed supplier, and the backlog grows every day the two colors stay buyable. 3d ROAS slipped to 1.40, under 1.5. Not a scale call until those colors are sourced. |
-| Open orders | 23 unfulfilled, oldest 12065 (10-21, 8 days). 22 have Sage Green or Terracotta: 17 Sage Green (12065, 12099, 12101, 12123, 12125, 12132, 12138, 12141, 12158, 12169, 12171, 12199, 12210, 12218, 12223, 12258, 12291), 5 Terracotta (12122, 12186, 12213, 12226, 12288). 12292 (Navy 3XL, today) has neither. `Shopify 10-29` |
-| Next action | Source Sage Green and Terracotta (ask Hart by name, then Cherry). If no source, Leandro/Kevin decide on blocking those colors (check Meta first) and Abby offers exchange or store credit on open orders. |
+| Sourcing gap | **Sage Green** and **Brick/Terracotta**: all 22 backlog orders with these colors shipped 10-30, so the gap looks covered in Shopify. Still to confirm: which supplier, and that the green and terracotta match the listing (not mint/olive, not bright orange). |
+| Meta ads | **On.** Stack Testing ad set "Maren Lantern Pullover - 36 / 1.5". 10-28 to 10-30: $586, 7 purchases, **ROAS 0.85** (by day 0.57, 0.84, 1.18), CPA ~$84. Last 7 days (10-24 to 10-30) $1,289, 25 purchases, ROAS 1.38. Last 30 days $1,491, 32 purchases, ROAS 1.55. Still spending ~$190/day ($73 so far 10-31). `Meta 10-31` |
+| 30-day sales | 36 orders / 49 units (10-01 to 10-31, today partial). Last 7 days (10-25 to 10-31) 24 orders / 34 units vs 12 / 15 the week before (up). `Shopify 10-31` |
+| Scale read | Supply looks unblocked (backlog shipped 10-30), demand is there (34 units in 7 days), but Meta has turned: 3-day ROAS 0.85 on $586 at CPA ~$84, second read under 1.5 (1.40, now 0.85) and well under; 7-day 1.38. Cost unknown, so margin unknown. Not a scale call: confirm supplier/cost and watch ROAS. |
+| Open orders | 1 unfulfilled: 12338 (Terracotta XS, 10-30 ~10:24 PM CT). The 23 open on 10-29 (oldest 12065) all shipped 10-30; 12319 and 12326 shipped 10-31. `Shopify 10-31` |
+| Next action | Confirm with Cherry (or whoever shipped) the Sage Green and Terracotta source and cost, and that colors match the listing. Watch Meta ROAS (0.85 last 3 days). |
 | Owner | Kevin |
 
 ## Changelog
+
+### 2026-10-31
+
+- Backlog cleared: all 23 open orders from 10-29 (22 with Sage Green or Terracotta, oldest 12065) marked fulfilled 10-30 with YT2630300… tracking (12258 SDH10002106964). Supplier not recorded. Only 12338 (Terracotta XS) open. `Shopify 10-31`
+- Meta 10-28 to 10-30 ROAS 0.85 on $586 (7 purchases, CPA ~$84), second read under 1.5. 7-day 1.38, 30-day 1.55. Weekly units 34 vs 15. `Meta 10-31` `Shopify 10-31`
 
 ### 2026-10-29
 

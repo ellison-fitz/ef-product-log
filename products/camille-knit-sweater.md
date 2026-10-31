@@ -17,16 +17,20 @@ title: "Camille Knit Sweater"
 | Selling price | $49.99 |
 | Approved colors and sizes | Apricot, Black, White, Dark Brown stay live on the short sleeve listing. Sizes S–2XL. |
 | Blocked on listing | Emerald and Burgundy are not for sale on `camille-knit-sweater` (confirmed in Shopify 10-20). Coffee, Apricot, White, Black buyable on both listings. |
-| Meta ads | **Nearly off.** Stack Testing ad sets "Camille Knit Sweater (V1)" and "(V2) - 37 / 1.45". Last 30 days: $824 spend, 22 purchases, ROAS 2.01 (V2 2.46, V1 0.95). 10-26 to 10-28: $2, no purchases. |
-| 30-day sales | 22 orders / 30 units (9-29 to 10-29). Last 7 days (10-23 to 10-29) 0 units vs 9 the week before (stopped). Has traction on 30 days only. |
+| Meta ads | **Nearly off.** Stack Testing ad sets "Camille Knit Sweater (V1)" and "(V2) - 37 / 1.45". Last 30 days: ~$825 spend, 22 purchases, ROAS 2.01 (V2 2.46, V1 0.95). 10-28 to 10-30: $1, no purchases. `Meta 10-31` |
+| 30-day sales | 22 orders / 30 units (10-01 to 10-31). Last 7 days (10-25 to 10-31) 0 units vs 8 the week before (stopped). Has traction on 30 days only. `Shopify 10-31` |
 | Scale read | Strong 30-day ROAS (V2 2.46), so demand is there, but scale is still blocked by supply: Lay is the only source, her cost is unknown so margin is unknown, and 5 of her orders still have only the 10-10 tracking. Spend has stopped ($2 in 3 days) and weekly sales are fading. |
 | Pending orders | 11686 (Burgundy L) and 11756 (White S, order also has a Maris Pink S): Kevin told Cherry to cancel the Camille on both (10-27); now going to Lay once she confirms colors. Both show fulfilled in Shopify, so check no tracking was sent before redoing. |
 | Next action | Kevin asks Lay which colors, price and lead time. Then Abby sends 11686 and 11756 to Lay. No color drafting until Lay answers, Meta is checked and Leandro is told. |
 | Owner | Kevin, then Abby |
-| Open orders | None unfulfilled. 11692, 11710, 11712, 11722, 11728 still show only the original 10-10 tracking (YT26283… numbers, not updated as of 10-28). No new Lay tracking in Shopify yet. |
+| Open orders | None unfulfilled. 11692, 11710, 11712, 11722, 11728 still show only the original 10-10 tracking (YT26283… numbers, not updated as of 10-31). No new Lay tracking in Shopify yet. 11686 and 11756 still show fulfilled on their 10-13 Cherry tracking, nothing refunded. `Shopify 10-31` |
 | Customer contact | The 5 customers get a short-delay update. 11831: if Lay has Emerald she ships it, otherwise Abby emails the customer to pick another color or get a refund. |
 
 ## Changelog
+
+### 2026-10-31
+
+- No change. No open orders, no sales in 7 days, $1 spend 10-28 to 10-30. The 5 Lay orders still on 10-10 tracking; no Lay tracking for 11686/11756 yet. `Shopify 10-31` `Meta 10-31`
 
 ### 2026-10-29
 

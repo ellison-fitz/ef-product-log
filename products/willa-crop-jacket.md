@@ -16,14 +16,18 @@ title: "Willa Crop Jacket"
 | Cost (product + shipping) | $18.60 (PLW r264, shipping basis unknown). Hart: unknown. |
 | Selling price | $44.99 (Shopify). PLW r264 says $49.99. |
 | Approved colors and sizes | Cherry: Red (she offered it for Orange), Cream unknown. Hart: up to L. |
-| Blocked on listing | Nothing blocked yet. Shopify 10-29: Cream, Red and **Orange still buyable**. |
-| Meta ads | **Off.** Ad set "Willa Crop Jacket - 31 / 1.59" paused; $1 in the last 30 days, none 10-25 to 10-27. |
-| 30-day sales | 1 order / 2 units (9-28 to 10-28), 0 in the last 7 days. Below traction. |
+| Blocked on listing | Nothing blocked yet. Shopify 10-31: Cream, Red and **Orange still buyable**, listing still Active. |
+| Meta ads | **Off.** Ad set "Willa Crop Jacket - 31 / 1.59" paused; ~$2 in the last 30 days, none 10-28 to 10-30. `Meta 10-31` |
+| 30-day sales | 1 order / 2 units (11807, 10-12), refunded in full 10-31, so net 0 for 30 days (−2 in the last 7). Below traction. `Shopify 10-31` |
 | Scale read | Not a scale candidate. Margin vs Cherry: $44.99 − $18.60 = ~$26.39, but no traction and Orange can't be sourced. |
-| Open orders | 11807 (Orange XL + Red XL, Kaching bundle, US). 17 days old, still unfulfilled. |
-| Customer contact | **Kevin 10-29: Abby refunds 11807 in full ($96.13).** Customer (Minme Miranda) never answered the size L or refund emails (Oct 20, 23, 27). She left a Spanish voicemail Oct 29 (Commslayer #4455) with only her name and order FND5M2KRH. Refund still pending as of 10-29 8:50pm CT. |
+| Open orders | None. 11807 (Orange XL + Red XL) refunded in full: $96.13 refund created 10-31 ~7:25 AM CT, still **pending** at Shopify Payments (order still reads Paid until it settles). `Shopify 10-31` |
+| Customer contact | Kevin 10-29: Abby refunds 11807 in full ($96.13). Done 10-31 ~7:25 AM CT (refund pending, notification email sent to the customer). |
 
 ## Changelog
+
+### 2026-10-31
+
+- 11807 refunded in full ($96.13, created 10-31 ~7:25 AM CT, pending at Shopify Payments); refund email sent. No open Willa orders. Orange still buyable, listing still Active, ads off. `Shopify 10-31` `Meta 10-31`
 
 ### 2026-10-29
 
