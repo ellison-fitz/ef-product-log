@@ -17,13 +17,17 @@ title: "Willa Crop Jacket"
 | Selling price | $44.99 (Shopify). PLW r264 says $49.99. |
 | Approved colors and sizes | Cherry: Red (she offered it for Orange), Cream unknown. Hart: up to L. |
 | Blocked on listing | Nothing blocked yet. Shopify 10-31: Cream, Red and **Orange still buyable**, listing still Active. |
-| Meta ads | **Off.** Ad set "Willa Crop Jacket - 31 / 1.59" paused; ~$2 in the last 30 days, none 10-28 to 10-30. `Meta 10-31` |
+| Meta ads | **Off.** Ad set "Willa Crop Jacket - 31 / 1.59"; ~$2 in the last 30 days, none 10-29 to 10-31. `Meta 11-01` |
 | 30-day sales | 1 order / 2 units (11807, 10-12), refunded in full 10-31, so net 0 for 30 days (−2 in the last 7). Below traction. `Shopify 10-31` |
 | Scale read | Not a scale candidate. Margin vs Cherry: $44.99 − $18.60 = ~$26.39, but no traction and Orange can't be sourced. |
-| Open orders | None. 11807 (Orange XL + Red XL) refunded in full: $96.13 refund created 10-31 ~7:25 AM CT, still **pending** at Shopify Payments (order still reads Paid until it settles). `Shopify 10-31` |
+| Open orders | None. 11807 (Orange XL + Red XL): $96.13 refund created 10-31 ~7:25 AM CT, still **pending** at 11-01 (order reads Paid, $0 settled as refunded). `Shopify 11-01` |
 | Customer contact | Kevin 10-29: Abby refunds 11807 in full ($96.13). Done 10-31 ~7:25 AM CT (refund pending, notification email sent to the customer). |
 
 ## Changelog
+
+### 2026-11-01
+
+- 11807 refund still pending. Cream, Red, Orange still buyable, listing Active. No sales, no spend. `Shopify 11-01` `Meta 11-01`
 
 ### 2026-10-31
 

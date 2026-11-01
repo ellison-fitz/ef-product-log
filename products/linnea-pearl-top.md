@@ -18,12 +18,16 @@ title: "Linnea Pearl Top"
 | Approved colors and sizes | Listing: Black, Light Cyan, Peach, Cream. XS–2XL. |
 | Blocked on listing | none |
 | Meta ads | **Off.** Stack Testing ad set "Linnea Pearl Top - 34 / 1.47" is paused; $53 spend in the last 30 days, 1 purchase. |
-| 30-day sales | 1 unit (10-01 to 10-31, analytics). No traction. `Shopify 10-31` |
+| 30-day sales | 1 unit (11661, 10-03 to 11-01). No traction. `Shopify 11-01` |
 | Scale read | Not a scale candidate. No confirmed supplier. |
-| Open orders | 11661 (Black L, US). 25 days old, still unfulfilled, nothing refunded. `Shopify 10-31` |
+| Open orders | 11661 (Black L, US). 26 days old, still unfulfilled, nothing refunded. `Shopify 11-01` |
 | Next | Ask Lay for status, or refund. |
 
 ## Changelog
+
+### 2026-11-01
+
+- 11661 still unfulfilled (26 days). No new sales, no spend. `Shopify 11-01` `Meta 11-01`
 
 ### 2026-10-31
 

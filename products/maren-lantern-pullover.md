@@ -15,17 +15,22 @@ title: "Maren Lantern Pullover"
 | Backup | Hart (Wio): asked 10-27 to source all listed colors at the same quality. Said one color (on a blue sweater photo, color not named) is not carried by his higher-priced supplier, all others are. No prices or lead times. Not asked about sage or terracotta by name. Lay: sage green and terracotta not available (10-28). |
 | Cost (product + shipping) | unknown |
 | Selling price | $49.99 |
-| Approved colors and sizes | Listing: Cream, Coffee, Navy, Sky Blue, Sage Green, Terracotta. XS–5XL. All 54 variants buyable (Shopify 10-31). |
+| Approved colors and sizes | Listing: Cream, Coffee, Navy, Sky Blue, Sage Green, Terracotta. XS–5XL. All 54 variants buyable (Shopify 11-01). |
 | Blocked on listing | none. Sage Green and Terracotta are still buyable with no confirmed supplier. |
 | Sourcing gap | **Sage Green** and **Brick/Terracotta**: all 22 backlog orders with these colors shipped 10-30, so the gap looks covered in Shopify. Still to confirm: which supplier, and that the green and terracotta match the listing (not mint/olive, not bright orange). |
-| Meta ads | **On.** Stack Testing ad set "Maren Lantern Pullover - 36 / 1.5". 10-28 to 10-30: $586, 7 purchases, **ROAS 0.85** (by day 0.57, 0.84, 1.18), CPA ~$84. Last 7 days (10-24 to 10-30) $1,289, 25 purchases, ROAS 1.38. Last 30 days $1,491, 32 purchases, ROAS 1.55. Still spending ~$190/day ($73 so far 10-31). `Meta 10-31` |
-| 30-day sales | 36 orders / 49 units (10-01 to 10-31, today partial). Last 7 days (10-25 to 10-31) 24 orders / 34 units vs 12 / 15 the week before (up). `Shopify 10-31` |
-| Scale read | Supply looks unblocked (backlog shipped 10-30), demand is there (34 units in 7 days), but Meta has turned: 3-day ROAS 0.85 on $586 at CPA ~$84, second read under 1.5 (1.40, now 0.85) and well under; 7-day 1.38. Cost unknown, so margin unknown. Not a scale call: confirm supplier/cost and watch ROAS. |
-| Open orders | 1 unfulfilled: 12338 (Terracotta XS, 10-30 ~10:24 PM CT). The 23 open on 10-29 (oldest 12065) all shipped 10-30; 12319 and 12326 shipped 10-31. `Shopify 10-31` |
+| Meta ads | **On, losing money.** Stack Testing ad set "Maren Lantern Pullover - 36 / 1.5". **10-31: $158, 0 purchases.** 10-29 to 10-31: $532, 5 purchases, **ROAS 0.71**, CPA ~$106. Last 7 days (10-25 to 10-31) $1,347, 21 purchases, ROAS 1.15. Last 30 days $1,650, 32 purchases, ROAS 1.40. No spend yet today (11-01). `Meta 11-01` |
+| 30-day sales | 36 orders / 49 units (10-03 to 11-01, order count, today partial). Last 7 days (10-26 to 11-01) 26 units vs 23 the week before (up slightly). `Shopify 11-01` |
+| Scale read | Not a scale call. Third 3-day read under 1.5 in a row (1.40, 0.85, now 0.71 on $532, CPA ~$106), 7-day 1.15 and 30-day 1.40 now both under break-even, and 10-31 spent $158 for 0 purchases. Supply looks unblocked (backlog shipped 10-30) but cost is unknown, so margin is unknown. |
+| Open orders | 1 unfulfilled: 12338 (Terracotta XS, 10-30 ~10:24 PM CT), still open. `Shopify 11-01` |
 | Next action | Confirm with Cherry (or whoever shipped) the Sage Green and Terracotta source and cost, and that colors match the listing. Watch Meta ROAS (0.85 last 3 days). |
 | Owner | Kevin |
 
 ## Changelog
+
+### 2026-11-01
+
+- Meta 10-29 to 10-31 ROAS 0.71 on $532 (5 purchases, CPA ~$106), third read under 1.5. 10-31 spent $158 with 0 purchases. 7-day 1.15, 30-day 1.40, both now under. `Meta 11-01`
+- Weekly units 26 vs 23. Only 12338 open. All colors still buyable. `Shopify 11-01`
 
 ### 2026-10-31
 

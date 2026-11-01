@@ -26,6 +26,10 @@ title: "Kian Rivet Short"
 
 ## Changelog
 
+### 2026-11-01
+
+- Still Unlisted, no sales, no spend. `Shopify 11-01` `Meta 11-01`
+
 ### 2026-10-31
 
 - No change. Still Unlisted, no sales, no spend. `Shopify 10-31` `Meta 10-31`
