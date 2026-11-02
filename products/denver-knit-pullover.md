@@ -19,16 +19,20 @@ title: "Denver Knit Pullover"
 | Approved colors and sizes | **White** (Cherry confirmed the sample was white, not cream). Listing likely needs renaming from Cream to White. S–2XL. |
 | Blocked on listing | Grey and Black are not for sale. Cream S–2XL is still buyable (Shopify 10-31). |
 | Fabric | Cherry 10-18: "40 per cent polyester, 40 per cent acrylic and 20 per cent polyester rayon." Polyester is listed twice, so confirm the exact split before it goes on the page. |
-| Meta ads | **Main campaign still off.** "Denver Knit Pullover - 30 / 1.47" OG spent $0 on 10-31 and today (paused 10-30). Test ad set "Denver Knit Pullover - 40 / 1.75" in Creative Testing: $4 on 10-31, $5 today, 1 purchase total ($12). All Denver 10-29 to 10-31: $105, 2 purchases, ROAS 1.86 (OG 0.79 on $91, all from 10-29). Last 7 days $525, ROAS 1.09. Last 30 days ~$1,530, 27 purchases, ROAS 1.16. `Meta 11-01` |
-| 30-day sales | 27 orders / 29 units (10-03 to 11-01, order count). Last 7 days (10-26 to 11-01) 7 units vs 13 the week before (down). Has traction. `Shopify 11-01` |
-| Scale read | Not a bulk call. Main campaign off since 10-30; only a tiny test ad set spends. 7-day 1.09 and 30-day 1.16 are under the 1.47, far off Axel's 5+/day at CPA ≤ $21. Weekly units down again (7 vs 13). $64.99 price lifts margin to ~$55.63 at the bulk cost before US shipping, but conversion has not held. |
+| Meta ads | **Main campaign still off.** "Denver Knit Pullover - 30 / 1.47" OG spent $0 on 11-01 and today (paused 10-30). Test ad set "Denver Knit Pullover - 40 / 1.75" in Creative Testing: $8 on 11-01, $1 today, $20 total with 1 purchase. All Denver 10-30 to 11-01: $22, 1 purchase, ROAS 5.62 (tiny spend). Last 7 days $409, 6 purchases, ROAS 1.21. Last 30 days ~$1,538, 27 purchases, ROAS 1.15. `Meta 11-02` |
+| 30-day sales | 27 orders / 29 units (10-04 to 11-02, order count). Last 7 days (10-27 to 11-02) 3 units vs 13 the week before (down). Has traction on 30 days. `Shopify 11-02` |
+| Scale read | Not a bulk call. Main campaign off since 10-30; only a tiny test ad set spends. 7-day 1.21 and 30-day 1.15 are under the 1.47, far off Axel's 5+/day at CPA ≤ $21. Weekly units down again (3 vs 13). $64.99 price lifts margin to ~$55.63 at the bulk cost before US shipping, but conversion has not held. |
 | Sample run (10 pcs, cream) | Priority: 8029 XL, 7983 XL, 8430 XL, 8291 L, 7553 XL. Newer: 11916 2XL x2 (AU, Sergio), 11922 XL, 11925 L, 11944 M. |
 | Added to samples | 11956 (Cream 2XL), 11957 (Cream L), 11969 (Cream L): Kevin asked 10-18 7:08 PM CT. Cherry also sent 11976 to the factory herself. |
 | Timing / MOQ | Factory: ~10 days because of multiple sizes. No minimum, but sample price is "very high, just as before" (exact price not given). |
 | Waiting on Kevin | Answered 10-19: same exact shade as the samples (white). Listing rename to White still to do. |
-| Open orders in Shopify | None unfulfilled. `Shopify 11-01` |
+| Open orders in Shopify | None unfulfilled. `Shopify 11-02` |
 
 ## Changelog
+
+### 2026-11-02
+
+- Main campaign still $0 on 11-01 and today; test ad set $8 + $1. 7-day ROAS 1.21. Weekly units 3 vs 13. No open orders. Cream still the only buyable color. `Meta 11-02` `Shopify 11-02`
 
 ### 2026-11-01
 

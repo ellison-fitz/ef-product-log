@@ -14,15 +14,20 @@ title: "Enzo Button Knit"
 | Current supplier | **Cherry** |
 | Backup | Hart pitched it (10-17). Not approved. Long sleeve: Kevin asked Hart 10-27 to source a longer-sleeve version to match the live listing; Hart says three suppliers of this model haven't responded (10-28). |
 | Cost (product + shipping) | Cherry: $14.76 (PLW r253, shipping basis unknown). Hart: **$14.40** landed for 1 ($6.00 item + $8.40 shipping), $24.70 for 2, $35.10 for 3. Ships in 6–9 days. |
-| Selling price | `enzo-button-knit` **$49.99** (compare-at $84.99), up from $39.99 around 10-27 (exact change time unknown). `enzo-knit` still $39.99. Both unchanged at the 11-01 read. PLW r253 says $44.99. |
+| Selling price | `enzo-button-knit` **$49.99** (compare-at $84.99), up from $39.99 around 10-27 (exact change time unknown). `enzo-knit` still $39.99. Both unchanged at the 11-02 read (`enzo-button-knit` updated 11-02 ~3:36 AM CT, no visible price or color change). PLW r253 says $44.99. |
 | Approved colors and sizes | Olive, Coffee, Black. S–2XL. PLW note: one listing is Temu (long sleeve), the other is 1688 (short sleeve). Which one Hart quoted: unknown. |
 | Blocked on listing | none |
-| Meta ads | **On, but barely spending.** "Enzo Button Knit (V2) - 30 / 1.49" in the CBO campaign "(2) Creative Testing - Videos | Open". Spend by day: 10-30 $28, **10-31 $21 (0 purchases)**, 11-01 $10 so far (0). The campaign keeps putting budget on Orso Animal Bag ($249 on 10-31). 10-29 to 10-31: $150, 2 purchases, **ROAS 1.35**, first read under 1.49 after six over. Last 7 days (10-25 to 10-31) $582, 22 purchases, ROAS 2.91. Last 30 days ~$2,037, 54 purchases, ROAS 2.00. `Meta 11-01` |
-| 30-day sales | 66 orders / 115 units on `enzo-button-knit` plus 6 / 8 on `enzo-knit` (10-03 to 11-01, order count, today partial). Last 7 days (10-26 to 11-01) 32 + 5 units vs 31 + 0 the week before (flat to slightly up). Has traction. `Shopify 11-01` |
-| Scale read | **Scale candidate, on watch.** 3-day ROAS 1.35 on $150 is the first read under the 1.49 after six over (1.60, 2.71, 4.03, 3.90, 3.58, 1.99), but on very little spend because the CBO campaign moved budget to Orso. 7-day 2.91 and 30-day 2.00 still strong; weekly units flat (37 vs 31 across both listings). Margin: $49.99 − $14.76 = ~$35.23 on `enzo-button-knit`, $39.99 − $14.76 = ~$25.23 on `enzo-knit` (Hart landed $14.40 would be ~$0.36 better). Needs its own budget to be tested properly. |
-| Open orders | 1 unfulfilled: 12340 (Olive L, with a Bram Sage L, 10-31 ~8:08 AM CT). 11941 and 11942 (same customer, same 2 items, $84.97 each) still both fully paid, $0 refunded, on one shared tracking number (LJ048640317CN): possible double charge still open. `Shopify 11-01` |
+| Meta ads | **On, barely spending.** "Enzo Button Knit (V2) - 30 / 1.49" in the CBO campaign "(2) Creative Testing - Videos | Open". Spend by day: **11-01 $33 (0 purchases)**, 11-02 $10 so far (2 purchases). The campaign keeps budget on Orso Animal Bag ($348 on 11-01). 10-30 to 11-01: $82, **0 purchases**, second read in a row under 1.49 (1.35, now 0.00), both on small spend. Last 7 days (10-26 to 11-01) $534, 19 purchases, ROAS 2.73. Last 30 days ~$2,070, 54 purchases, ROAS 1.97. `Meta 11-02` |
+| 30-day sales | 68 orders / 117 units on `enzo-button-knit` plus 6 / 8 on `enzo-knit` (10-04 to 11-02, order count, today partial). Last 7 days (10-27 to 11-02) 25 + 5 units vs 34 + 0 the week before (slightly down). Has traction. `Shopify 11-02` |
+| Scale read | **Scale candidate, on watch, weakening.** Two 3-day reads in a row under the 1.49 (1.35 on $150, then 0 purchases on $82) after six over, but on very little spend because the CBO campaign keeps budget on Orso. 7-day 2.73 and 30-day 1.97 still above; weekly units 30 vs 34. Margin: $49.99 − $14.76 = ~$35.23 on `enzo-button-knit`, $39.99 − $14.76 = ~$25.23 on `enzo-knit` (Hart landed $14.40 would be ~$0.36 better). Needs its own budget to be tested properly. |
+| Open orders | 3 unfulfilled: 12340 (Olive L, with a Bram Sage L, 10-31), 12375 (Black S, 11-02), 12376 (Black XL, 11-02). 11941 and 11942 (same customer, same 2 items, $84.97 each) both read Fulfilled and fully paid, $0 refunded, on one shared tracking number (LJ048640317CN): possible double charge still open. `Shopify 11-02` |
 
 ## Changelog
+
+### 2026-11-02
+
+- Meta 10-30 to 11-01: $82, 0 purchases, second 3-day read under 1.49. $33 on 11-01 (0), $10 today (2). CBO budget still on Orso ($348 on 11-01). 7-day 2.73, 30-day 1.97. `Meta 11-02`
+- Weekly units 30 vs 34 across both listings. Open: 12340, 12375, 12376. Prices unchanged. 11941/11942 still both paid, nothing refunded. `Shopify 11-02`
 
 ### 2026-11-01
 

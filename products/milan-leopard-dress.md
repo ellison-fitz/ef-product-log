@@ -17,13 +17,17 @@ title: "Milan Leopard Dress"
 | Selling price | $59.99 (Shopify). PLW r233 says $64.99. |
 | Approved colors and sizes | Listing: Navy, Sky. S–2XL. Supplier issue on 11556: unknown. |
 | Blocked on listing | none |
-| Meta ads | Stack Testing ad set "Milan Leopard Dress - 41 / 1.56" off in practice: no spend in the last 7 days. Last 30 days: ~$521, 7 purchases, ROAS 0.94. `Meta 11-01` |
-| 30-day sales | 4 orders / 4 units (10-03 to 11-01). 0 in the last 7 days. `Shopify 11-01` |
+| Meta ads | Stack Testing ad set "Milan Leopard Dress - 41 / 1.56" off in practice: no spend in the last 7 days. Last 30 days (10-03 to 11-01): ~$436, 5 purchases, ROAS 0.80. `Meta 11-02` |
+| 30-day sales | 3 orders / 3 units (10-04 to 11-02). 0 in the last 7 days. `Shopify 11-02` |
 | Scale read | Cooled off: no spend and 30-day ROAS ~1.17 is under the 1.56 in the ad set name. Margin vs Cherry: $59.99 − $23.40 = ~$36.59. Not a scale call right now. |
 | Open orders | None unfulfilled. 11556: $45 refunded 10-25 ~9:35 AM CT (now Partially refunded); both Navy S lines show fulfilled on the same tracking (YT2627700705659559). |
 | Next | 11556 looks closed out with a partial refund. Confirm with Abby that the customer knows only one dress shipped. |
 
 ## Changelog
+
+### 2026-11-02
+
+- No spend, no sales in 7 days. 30-day units 3 (window moving past early-October sales). No open orders. `Shopify 11-02` `Meta 11-02`
 
 ### 2026-11-01
 

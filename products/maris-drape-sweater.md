@@ -17,14 +17,19 @@ title: "Maris Drape Sweater"
 | Selling price | $49.99 (Shopify). PLW r212 says $59.99. |
 | Approved colors and sizes | Apricot, Black, Burgundy, Coffee, Pink, Gray, Blue, Yellow. XS–5XL. |
 | Blocked on listing | none |
-| Meta ads | **Main campaign still not delivering.** Campaign "Maris Drape Sweater - 35 / 1.53" ($300/day) was paused 10-30 ~1:05 AM CT; its OG and Batch 2 ad sets spent $0 on 10-31 and $0 so far 11-01. The only Maris spend now is the Stack Testing ad set "Maris Drape Sweater - 35 / 1.53": $20 on 10-31 (0 purchases), $46 so far 11-01 (1 purchase, ROAS 1.32). 10-29 to 10-31 (mostly 10-29): $389, 7 purchases, ROAS 1.37 (OG 2.60 on $115, Batch 2 0.86 on $201). Last 7 days (10-25 to 10-31) $2,098, 38 purchases, ROAS 1.49. Last 30 days ~$11,467, 232 purchases, ROAS 1.56. `Meta 11-01` |
-| 30-day sales | 239 orders / 359 units (10-03 to 11-01, order count, today partial). Last 7 days (10-26 to 11-01) 52 units vs 98 the week before (down). Top seller. `Shopify 11-01` |
-| Scale read | Scale product, but the main campaign has stayed off since 10-30 and weekly units fell to 52 vs 98. Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Last 3-day read 1.37, third in a row under the 1.53 (1.45, 1.31, 1.37); 7-day 1.49 now also under; 30-day 1.56. Only a small Stack Testing ad set is spending. Cherry shipping normally. Price $49.99, all 8 colors buyable (product updated 11-01 ~7:36 AM CT, no visible price or color change). |
-| Open orders | 1 unfulfilled: 12355 (Coffee 4XL, 11-01 ~7:36 AM CT). `Shopify 11-01` |
+| Meta ads | **Main campaign still off.** Campaign "Maris Drape Sweater - 35 / 1.53" was paused 10-30 ~1:05 AM CT; its OG and Batch ad sets spent $0 on 11-01 and $0 so far 11-02. The only Maris spend is the Stack Testing ad set "Maris Drape Sweater - 35 / 1.53": **$122 on 11-01, 3 purchases, ROAS 1.46**, $18 so far 11-02 (0). All Maris 10-30 to 11-01: $178, 3 purchases, ROAS 1.00. Last 7 days (10-26 to 11-01) $1,719, 31 purchases, ROAS 1.43. Last 30 days (10-03 to 11-01) ~$11,150, 227 purchases, ROAS 1.57. `Meta 11-02` |
+| 30-day sales | 230 orders / 346 units (10-04 to 11-02, order count, today partial). Last 7 days (10-27 to 11-02) 44 units vs 89 the week before (down, about half). Top seller. `Shopify 11-02` |
+| Scale read | Scale product, but the main campaign has stayed off since 10-30 and weekly units halved (44 vs 89). Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Fourth 3-day read in a row under the 1.53 (1.45, 1.31, 1.37, now 1.00 on only $178); 7-day 1.43, 30-day 1.57. Stack Testing ad set picked up to $122 on 11-01 at 1.46, just under break-even. Cherry shipping normally (12355 shipped). Price $49.99, all 8 colors buyable (product updated 11-02 ~8:30 AM CT, no visible price or color change). |
+| Open orders | 3 unfulfilled, all recent: 12366 (Yellow M, 11-01), 12368 (Blue 3XL, 11-01), 12380 (Coffee 2XL, 11-02). 12355 shipped. `Shopify 11-02` |
 | Quality/sourcing | Cherry samples (10-26): the 1688 link supplier (Kevin sent 10-21, 100% polyester) is the most comfortable, cheaper ones scratchy. That supplier lacks a full color range and needs 50 units minimum per other color. Sample returned for stains 10-27; Cherry will photograph/video the replacement hanging. Hart offered a higher-priced polyester supplier (about $5 more on selling price, exact price unknown); his videos say not scratchy. UGC on hold until quality is settled (Leandro 10-27). |
 | Upsell | Noir shades replaced Elisa as the Maris upcart upsell (10-07). |
 
 ## Changelog
+
+### 2026-11-02
+
+- Main campaign still $0 on 11-01 and today. Stack Testing ad set $122 on 11-01 (3 purchases, ROAS 1.46), $18 today. 3-day ROAS 1.00 on $178, fourth read under 1.53; 7-day 1.43, 30-day 1.57. `Meta 11-02`
+- 30-day units 346, last 7 days 44 vs 89 (down). 12355 shipped; 12366, 12368, 12380 open. `Shopify 11-02`
 
 ### 2026-11-01
 

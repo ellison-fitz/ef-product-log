@@ -18,14 +18,18 @@ title: "Freya Zip Pullover"
 | Temu reference | https://www.temu.com/goods.html?goods_id=606011964420052 |
 | Approved colors and sizes | Live on `freya-zip-pullover`: Camel, Navy only (Olive and Pink turned off 10-26 late evening). Sizes S–5XL. Cherry's 1688 colors: Khaki, Pink, Purple, Yellow, Gray, Black, Off-white, Chestnut. |
 | Blocked on listing | On `freya-zip-pullover`, Butter, Grey, Olive and Pink are not for sale (all sizes). Camel and Navy S–5XL are buyable (Shopify 10-31). `freya-pullover` (the 1688 colors) still has Black, Butter, Chestnut, Cream, Grey, Khaki, Pink and Purple all buyable. |
-| Meta ads | **Off.** "Freya Zip Pullover - 41 / 1.46" and V2: $0 in the last 7 days. Last 30 days ~$833 spend, 13 purchases, ROAS 1.18, under the 1.46. `Meta 11-01` |
-| 30-day sales | 11 orders / 15 units on `freya-zip-pullover` plus 1 on `freya-pullover` (10-03 to 11-01). 0 units in the last 7 days. `Shopify 11-01` |
+| Meta ads | **Off.** "Freya Zip Pullover - 41 / 1.46" and V2: $0 in the last 7 days. Last 30 days ~$833 spend, 13 purchases, ROAS 1.18, under the 1.46. `Meta 11-02` |
+| 30-day sales | 11 orders / 15 units on `freya-zip-pullover`, 0 on `freya-pullover` (10-04 to 11-02). 0 units in the last 7 days (1 the week before). `Shopify 11-02` |
 | Scale read | Not a scale candidate. Margin vs Cherry: $54.99 − $18.91 = ~$36 landed (US, 1 pc). Blockers: 5 of 7 open orders include Butter/Grey that Cherry can't match, and 11893 has Olive, which is off on the listing. 30-day ROAS 1.18 is under break-even, spend is $0 and there were no sales in the last 7 days. |
-| Open orders (7) | Unchanged. Butter/Grey (can't match): 11798 (Butter M + Grey M, 20 days), 11868 (Butter L), 11874 (Butter L), 11888 (Butter 4XL + Grey 4XL still open, Pink shipped), 11934 (Butter S). Olive (off on the listing): 11893 (Camel XL + Olive XL, 16 days). Live colors only, still unfulfilled: 11832 (Navy S, 19 days). `Shopify 11-01` |
+| Open orders (7) | Unchanged. Butter/Grey (can't match): 11798 (Butter M + Grey M, 21 days), 11868 (Butter L), 11874 (Butter L), 11888 (Butter 4XL + Grey 4XL still open, Pink shipped), 11934 (Butter S). Olive (off on the listing): 11893 (Camel XL + Olive XL, 17 days). Live colors only, still unfulfilled: 11832 (Navy S, 20 days). `Shopify 11-02` |
 | Customer contact | Abby is asking Butter/Grey buyers to switch color or take a refund. Daniela is building a separate listing for the 1688 colors with AI images, to swap in after the GMC review clears. |
 | GMC | Hold listing and image swaps until the GMC review clears. 11 croc-bag photos pulled for GMC. `brief` |
 
 ## Changelog
+
+### 2026-11-02
+
+- All 7 open orders unchanged (oldest 11798, 21 days). 0 sales in 7 days, $0 Meta spend. `Shopify 11-02` `Meta 11-02`
 
 ### 2026-11-01
 
