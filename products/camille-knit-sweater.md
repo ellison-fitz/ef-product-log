@@ -17,16 +17,20 @@ title: "Camille Knit Sweater"
 | Selling price | $49.99 |
 | Approved colors and sizes | Apricot, Black, White, Dark Brown stay live on the short sleeve listing. Sizes S–2XL. |
 | Blocked on listing | Emerald and Burgundy are not for sale on `camille-knit-sweater` (confirmed in Shopify 10-20). Coffee, Apricot, White, Black buyable on both listings. |
-| Meta ads | **Nearly off.** Stack Testing ad sets "Camille Knit Sweater (V1)" and "(V2) - 37 / 1.45". Last 30 days: ~$827 spend, 22 purchases, ROAS 2.00. 10-30 to 11-01: $2, no purchases. `Meta 11-02` |
-| 30-day sales | 21 orders / 30 units across both listings (10-04 to 11-02, order count). Last 7 days (10-27 to 11-02) 0 units vs 8 the week before (stopped). Has traction on 30 days only. `Shopify 11-02` |
+| Meta ads | **Nearly off.** Stack Testing ad sets "Camille Knit Sweater (V1)" and "(V2) - 37 / 1.45". Last 30 days (10-04 to 11-02): ~$827 spend, 22 purchases, ROAS 2.00. 10-31 to 11-02: $2, no purchases; $0 on 11-02 and today. `Meta 11-03` |
+| 30-day sales | 30 net units / 22 orders in Shopify analytics across both listings (10-05 to 11-03); order count 21 / 30. Last 7 days (10-28 to 11-03) 0 units vs 5 the week before (stopped). Has traction on 30 days only. `Shopify 11-03` |
 | Scale read | Strong 30-day ROAS (V2 2.46), so demand is there, but scale is still blocked by supply: Lay is the only source, her cost is unknown so margin is unknown, and 5 of her orders still have only the 10-10 tracking. Spend has stopped ($2 in 3 days) and weekly sales are fading. |
 | Pending orders | 11686 (Burgundy L) and 11756 (White S, order also has a Maris Pink S): Kevin told Cherry to cancel the Camille on both (10-27); now going to Lay once she confirms colors. Both show fulfilled in Shopify, so check no tracking was sent before redoing. |
 | Next action | Kevin asks Lay which colors, price and lead time. Then Abby sends 11686 and 11756 to Lay. No color drafting until Lay answers, Meta is checked and Leandro is told. |
 | Owner | Kevin, then Abby |
-| Open orders | None unfulfilled. 5 Lay orders (11692, 11710, 11712, 11722, 11728) last checked 10-31 still on their original 10-10 tracking (not re-checked today). `Shopify 11-02` |
+| Open orders | None unfulfilled. 5 Lay orders (11692, 11710, 11712, 11722, 11728) last checked 10-31 still on their original 10-10 tracking (not re-checked today). `Shopify 11-03` |
 | Customer contact | The 5 customers get a short-delay update. 11831: if Lay has Emerald she ships it, otherwise Abby emails the customer to pick another color or get a refund. |
 
 ## Changelog
+
+### 2026-11-03
+
+- No sales in 7 days (0 vs 5). Meta $2 in 3 days, $0 on 11-02 and today. No open orders. Coffee, Apricot, White, Black buyable; Emerald, Burgundy off. `Shopify 11-03` `Meta 11-03`
 
 ### 2026-11-02
 

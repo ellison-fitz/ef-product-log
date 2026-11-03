@@ -17,14 +17,19 @@ title: "Maris Drape Sweater"
 | Selling price | $49.99 (Shopify). PLW r212 says $59.99. |
 | Approved colors and sizes | Apricot, Black, Burgundy, Coffee, Pink, Gray, Blue, Yellow. XS–5XL. |
 | Blocked on listing | none |
-| Meta ads | **Main campaign still off.** Campaign "Maris Drape Sweater - 35 / 1.53" was paused 10-30 ~1:05 AM CT; its OG and Batch ad sets spent $0 on 11-01 and $0 so far 11-02. The only Maris spend is the Stack Testing ad set "Maris Drape Sweater - 35 / 1.53": **$122 on 11-01, 3 purchases, ROAS 1.46**, $18 so far 11-02 (0). All Maris 10-30 to 11-01: $178, 3 purchases, ROAS 1.00. Last 7 days (10-26 to 11-01) $1,719, 31 purchases, ROAS 1.43. Last 30 days (10-03 to 11-01) ~$11,150, 227 purchases, ROAS 1.57. `Meta 11-02` |
-| 30-day sales | 230 orders / 346 units (10-04 to 11-02, order count, today partial). Last 7 days (10-27 to 11-02) 44 units vs 89 the week before (down, about half). Top seller. `Shopify 11-02` |
-| Scale read | Scale product, but the main campaign has stayed off since 10-30 and weekly units halved (44 vs 89). Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Fourth 3-day read in a row under the 1.53 (1.45, 1.31, 1.37, now 1.00 on only $178); 7-day 1.43, 30-day 1.57. Stack Testing ad set picked up to $122 on 11-01 at 1.46, just under break-even. Cherry shipping normally (12355 shipped). Price $49.99, all 8 colors buyable (product updated 11-02 ~8:30 AM CT, no visible price or color change). |
-| Open orders | 3 unfulfilled, all recent: 12366 (Yellow M, 11-01), 12368 (Blue 3XL, 11-01), 12380 (Coffee 2XL, 11-02). 12355 shipped. `Shopify 11-02` |
+| Meta ads | **Main campaign still off.** Campaign "Maris Drape Sweater - 35 / 1.53" was paused 10-30 ~1:05 AM CT; its OG and Batch ad sets spent $0 on 11-02 and $0 so far 11-03 (fourth day). The only Maris spend is the Stack Testing ad set "Maris Drape Sweater - 35 / 1.53": $52 on 11-02 (2 purchases, ROAS 2.30), $23 so far 11-03 (1 purchase). All Maris 10-31 to 11-02: $194, 5 purchases, **ROAS 1.53**, right at break-even (first read not under after four). Last 7 days (10-27 to 11-02) $1,317, 27 purchases, ROAS 1.54. Last 30 days (10-04 to 11-02) ~$10,803, 216 purchases, ROAS 1.55. `Meta 11-03` |
+| 30-day sales | 320 net units / 231 orders in Shopify analytics (10-05 to 11-03, today partial); order count 225 orders / 339 units. Last 7 days (10-28 to 11-03) **21 net units vs 85** the week before (orders: 28 vs 90), down about 75%. Top seller on 30 days. `Shopify 11-03` |
+| Scale read | Scale product on 30 days, but demand has dropped hard with the main campaign off since 10-30: weekly units 21 vs 85. Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). 3-day ROAS 1.53 on only $194 (Stack Testing only), after four reads under (1.45, 1.31, 1.37, 1.00); 7-day 1.54, 30-day 1.55, all about break-even. Cherry shipping normally (12366, 12368, 12380 shipped overnight). Price $49.99 (compare-at $89.99), all 8 colors buyable (product updated 11-03 ~8:42 AM CT, no visible price or color change). The real call is whether to turn the main campaign back on. |
+| Open orders | 2 unfulfilled, both today: 12419 (Burgundy XL), 12428 (Pink XL, with 2 Faye). 12366, 12368 and 12380 shipped 11-02 ~8:34 PM to 11-03 ~1:20 AM CT. `Shopify 11-03` |
 | Quality/sourcing | Cherry samples (10-26): the 1688 link supplier (Kevin sent 10-21, 100% polyester) is the most comfortable, cheaper ones scratchy. That supplier lacks a full color range and needs 50 units minimum per other color. Sample returned for stains 10-27; Cherry will photograph/video the replacement hanging. Hart offered a higher-priced polyester supplier (about $5 more on selling price, exact price unknown); his videos say not scratchy. UGC on hold until quality is settled (Leandro 10-27). |
 | Upsell | Noir shades replaced Elisa as the Maris upcart upsell (10-07). |
 
 ## Changelog
+
+### 2026-11-03
+
+- Main campaign still $0 on 11-02 and today. Stack Testing ad set $52 on 11-02 (2 purchases, 2.30), $23 today (1). 3-day ROAS 1.53 on $194, back to break-even after four reads under; 7-day 1.54, 30-day 1.55. `Meta 11-03`
+- Weekly net units 21 vs 85 (analytics), orders 28 vs 90: down about 75% since the main campaign stopped. 12366, 12368, 12380 shipped; 12419, 12428 open (today). Price and colors unchanged. `Shopify 11-03`
 
 ### 2026-11-02
 
