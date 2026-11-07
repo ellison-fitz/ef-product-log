@@ -17,16 +17,21 @@ title: "Camille Knit Sweater"
 | Selling price | $49.99 |
 | Approved colors and sizes | Apricot, Black, White, Dark Brown stay live on the short sleeve listing. Sizes S–2XL. |
 | Blocked on listing | Emerald and Burgundy are not for sale on `camille-knit-sweater` (confirmed in Shopify 10-20). Coffee, Apricot, White, Black buyable on both listings. |
-| Meta ads | **Nearly off.** Stack Testing ad sets "Camille Knit Sweater (V1)" and "(V2) - 37 / 1.45". Last 30 days (10-04 to 11-02): ~$827 spend, 22 purchases, ROAS 2.00. 10-31 to 11-02: $2, no purchases; $0 on 11-02 and today. `Meta 11-03` |
-| 30-day sales | 30 net units / 22 orders in Shopify analytics across both listings (10-05 to 11-03); order count 21 / 30. Last 7 days (10-28 to 11-03) 0 units vs 5 the week before (stopped). Has traction on 30 days only. `Shopify 11-03` |
-| Scale read | Strong 30-day ROAS (V2 2.46), so demand is there, but scale is still blocked by supply: Lay is the only source, her cost is unknown so margin is unknown, and 5 of her orders still have only the 10-10 tracking. Spend has stopped ($2 in 3 days) and weekly sales are fading. |
-| Pending orders | 11686 (Burgundy L) and 11756 (White S, order also has a Maris Pink S): Kevin told Cherry to cancel the Camille on both (10-27); now going to Lay once she confirms colors. Both show fulfilled in Shopify, so check no tracking was sent before redoing. |
-| Next action | Kevin asks Lay which colors, price and lead time. Then Abby sends 11686 and 11756 to Lay. No color drafting until Lay answers, Meta is checked and Leandro is told. |
+| Meta ads | **Nearly off** at last read. Last Meta 11-03: ~$827 / 22 purchases / ROAS 2.00 in 30d; $2 last 3d. **Meta not re-read 11-07** (Pipeboard weekly limit). Carry-forward `Meta 11-03`.
+| 30-day sales | 23 net units / 18 orders in Shopify analytics across both listings (10-09 to 11-07). Last 7 days (11-01 to 11-07) **0 units** (also 0 the week of 10-25 to 10-31). Still has 30-day traction only. `Shopify 11-07`
+| Scale read | Strong prior ROAS at last Meta read, but scale still supply-blocked (Lay only, cost unknown). Weekly sales stopped. Emerald/Burgundy still off.
+| Pending orders | 11686 (Burgundy L) and 11756 (White S) now both show **Fulfilled** in Shopify (checked 11-07). Confirm tracking/supplier was Lay as planned.
+| Next action | Kevin asks Lay which colors, price and lead time. 11686/11756 now Fulfilled — confirm they went to Lay correctly. No color drafting until Lay answers, Meta is checked and Leandro is told.
 | Owner | Kevin, then Abby |
-| Open orders | None unfulfilled. 5 Lay orders (11692, 11710, 11712, 11722, 11728) last checked 10-31 still on their original 10-10 tracking (not re-checked today). `Shopify 11-03` |
+| Open orders | None unfulfilled. 5 Lay orders (11692, 11710, 11712, 11722, 11728) last checked 10-31 still on their original 10-10 tracking (not re-checked today). `Shopify 11-07`
 | Customer contact | The 5 customers get a short-delay update. 11831: if Lay has Emerald she ships it, otherwise Abby emails the customer to pick another color or get a refund. |
 
 ## Changelog
+
+### 2026-11-07
+
+- Shopify: 30-day 23 net units; weekly 0. 11686 and 11756 now Fulfilled. Emerald/Burgundy still off; Coffee/Apricot/White/Black buyable. `Shopify 11-07`
+- Meta: **not re-read** (Pipeboard weekly limit). Last `Meta 11-03` ROAS 2.00 on ~$827.
 
 ### 2026-11-03
 

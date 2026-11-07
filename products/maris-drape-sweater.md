@@ -17,14 +17,19 @@ title: "Maris Drape Sweater"
 | Selling price | $49.99 (Shopify). PLW r212 says $59.99. |
 | Approved colors and sizes | Apricot, Black, Burgundy, Coffee, Pink, Gray, Blue, Yellow. XS–5XL. |
 | Blocked on listing | none |
-| Meta ads | **Main campaign still off.** Campaign "Maris Drape Sweater - 35 / 1.53" was paused 10-30 ~1:05 AM CT; its OG and Batch ad sets spent $0 on 11-02 and $0 so far 11-03 (fourth day). The only Maris spend is the Stack Testing ad set "Maris Drape Sweater - 35 / 1.53": $52 on 11-02 (2 purchases, ROAS 2.30), $23 so far 11-03 (1 purchase). All Maris 10-31 to 11-02: $194, 5 purchases, **ROAS 1.53**, right at break-even (first read not under after four). Last 7 days (10-27 to 11-02) $1,317, 27 purchases, ROAS 1.54. Last 30 days (10-04 to 11-02) ~$10,803, 216 purchases, ROAS 1.55. `Meta 11-03` |
-| 30-day sales | 320 net units / 231 orders in Shopify analytics (10-05 to 11-03, today partial); order count 225 orders / 339 units. Last 7 days (10-28 to 11-03) **21 net units vs 85** the week before (orders: 28 vs 90), down about 75%. Top seller on 30 days. `Shopify 11-03` |
-| Scale read | Scale product on 30 days, but demand has dropped hard with the main campaign off since 10-30: weekly units 21 vs 85. Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). 3-day ROAS 1.53 on only $194 (Stack Testing only), after four reads under (1.45, 1.31, 1.37, 1.00); 7-day 1.54, 30-day 1.55, all about break-even. Cherry shipping normally (12366, 12368, 12380 shipped overnight). Price $49.99 (compare-at $89.99), all 8 colors buyable (product updated 11-03 ~8:42 AM CT, no visible price or color change). The real call is whether to turn the main campaign back on. |
-| Open orders | 2 unfulfilled, both today: 12419 (Burgundy XL), 12428 (Pink XL, with 2 Faye). 12366, 12368 and 12380 shipped 11-02 ~8:34 PM to 11-03 ~1:20 AM CT. `Shopify 11-03` |
+| Meta ads | **Main campaign still off** (not re-read today). Last Meta read 11-03: campaign "Maris Drape Sweater - 35 / 1.53" paused 10-30; Stack Testing was the only spend ($194 / ROAS 1.53 last 3d then). **Meta not re-read 11-07:** Pipeboard Free weekly AI tool limit (31/30), resets 2026-11-09. Carry-forward `Meta 11-03`.
+| 30-day sales | 293 net units / 211 orders in Shopify analytics (10-09 to 11-07, today partial). Last 7 days (11-01 to 11-07) **16 net units vs 65** the week before (10-25 to 10-31), still down ~75% with the main campaign off. Top tracked seller on 30 days. `Shopify 11-07`
+| Scale read | Scale product on 30 days, but demand stays soft with the main campaign off since 10-30: weekly units 16 vs 65. Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Meta not re-read today (Pipeboard limit); last 3d/7d/30d ROAS from 11-03 were ~1.53 / 1.54 / 1.55. Price $49.99, all 8 colors buyable. Real call still whether to turn the main campaign back on.
+| Open orders | 12 unfulfilled with Maris lines: 12419 (Burgundy XL), 12428 (Pink XL), 12449 (Apricot 2XL), 12451 (Apricot XS), 12453 (Black XS), 12494 (Pink 4XL), 12543 (Black S), 12544 (Burgundy XL + Coffee XL), 12571 (Blue 2XL + Pink 2XL), 12585 (Black M + Apricot XS), 12611 (Black 2XL + Burgundy 2XL), 12613 (Burgundy L, today). `Shopify 11-07`
 | Quality/sourcing | Cherry samples (10-26): the 1688 link supplier (Kevin sent 10-21, 100% polyester) is the most comfortable, cheaper ones scratchy. That supplier lacks a full color range and needs 50 units minimum per other color. Sample returned for stains 10-27; Cherry will photograph/video the replacement hanging. Hart offered a higher-priced polyester supplier (about $5 more on selling price, exact price unknown); his videos say not scratchy. UGC on hold until quality is settled (Leandro 10-27). |
 | Upsell | Noir shades replaced Elisa as the Maris upcart upsell (10-07). |
 
 ## Changelog
+
+### 2026-11-07
+
+- Shopify: 30-day 293 net units (211 orders); weekly 16 vs 65 (still down ~75%). 12 open Maris orders (12419 through 12613). Price $49.99, all 8 colors buyable. `Shopify 11-07`
+- Meta: **not re-read** — Pipeboard Free weekly AI tool limit hit (31/30; resets Sun Nov 8 ~6:00 PM CT). Last read `Meta 11-03` (main campaign off; Stack Testing only).
 
 ### 2026-11-03
 

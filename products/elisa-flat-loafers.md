@@ -25,6 +25,10 @@ title: "Elisa Flat Loafers"
 
 ## Changelog
 
+### 2026-11-07
+
+- Still Draft, no sales, no Meta ad set. `Shopify 11-07`
+
 ### 2026-11-03
 
 - Still Draft, no sales, no Meta ad set. `Shopify 11-03` `Meta 11-03`

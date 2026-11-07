@@ -17,18 +17,23 @@ title: "Denver Knit Pullover"
 | Selling price | **$64.99** (compare-at $99.99), raised from $39.99; Shopify shows the product updated 10-23 ~10:02 AM CT. PLW r46 says $44.99. |
 | Bulk decision | **On hold.** Kevin 10-18: keep having Cherry make new cream orders as samples as they come in, and hold the 250 bulk run until demand is steady. Bulk plan if it goes ahead: 250 pieces at ~$9.36 (~$2,340), split S30 / M60 / L90 / XL50 / 2XL20. Axel's test (cream at 5+/day with CPA ≤ $21 by ~10-20 or 10-21) still feeds the call. |
 | Approved colors and sizes | **White** (Cherry confirmed the sample was white, not cream). Listing likely needs renaming from Cream to White. S–2XL. |
-| Blocked on listing | Grey and Black are not for sale. Cream S–2XL is still buyable (Shopify 10-31). |
+| Blocked on listing | Grey and Black are not for sale. Cream S–2XL is still buyable (Shopify 11-07).
 | Fabric | Cherry 10-18: "40 per cent polyester, 40 per cent acrylic and 20 per cent polyester rayon." Polyester is listed twice, so confirm the exact split before it goes on the page. |
-| Meta ads | **Main campaign still off.** "Denver Knit Pullover - 30 / 1.47" OG spent $0 on 11-02 and today (paused 10-30). Test ad set "Denver Knit Pullover - 40 / 1.75" in Creative Testing: $13 on 11-02, $9 so far today, 10-31 to 11-02 $25 with 0 purchases, $33 total with 1 purchase. All Denver last 7 days (10-27 to 11-02) $304, 2 purchases, ROAS 0.64. Last 30 days ~$1,550, 27 purchases, ROAS 1.14. `Meta 11-03` |
-| 30-day sales | 29 net units / 27 orders in Shopify analytics (10-05 to 11-03); order count 27 / 29. Last 7 days (10-28 to 11-03) 3 units vs 12 the week before (down). Has traction on 30 days. `Shopify 11-03` |
-| Scale read | Not a bulk call. Main campaign off since 10-30; only a small test ad set spends ($25 for 0 purchases in 3 days). 7-day 0.64 and 30-day 1.14 are under the 1.47, far off Axel's 5+/day at CPA ≤ $21. Weekly units 3 vs 12. $64.99 price lifts margin to ~$55.63 at the bulk cost before US shipping, but conversion has not held. |
+| Meta ads | **Main campaign still off** at last read. Last Meta 11-03: OG paused 10-30; test ad set "40 / 1.75" small spend, 0 purchases in 3d; 7d ROAS 0.64, 30d 1.14. **Meta not re-read 11-07** (Pipeboard weekly limit).
+| 30-day sales | 29 net units / 28 orders in Shopify analytics (10-09 to 11-07). Last 7 days (11-01 to 11-07) **0 units vs 8** the week before. `Shopify 11-07`
+| Scale read | Not a bulk call. Weekly units 0 vs 8; main campaign off at last Meta read. 30d under break-even then. Cream still the only buyable color (Grey/Black off). Hold the 250 bulk.
 | Sample run (10 pcs, cream) | Priority: 8029 XL, 7983 XL, 8430 XL, 8291 L, 7553 XL. Newer: 11916 2XL x2 (AU, Sergio), 11922 XL, 11925 L, 11944 M. |
 | Added to samples | 11956 (Cream 2XL), 11957 (Cream L), 11969 (Cream L): Kevin asked 10-18 7:08 PM CT. Cherry also sent 11976 to the factory herself. |
 | Timing / MOQ | Factory: ~10 days because of multiple sizes. No minimum, but sample price is "very high, just as before" (exact price not given). |
 | Waiting on Kevin | Answered 10-19: same exact shade as the samples (white). Listing rename to White still to do. |
-| Open orders in Shopify | None unfulfilled. `Shopify 11-03` |
+| Open orders in Shopify | None unfulfilled. `Shopify 11-07`
 
 ## Changelog
+
+### 2026-11-07
+
+- Shopify: 30-day 29 net units; weekly 0 vs 8. No open orders. Cream only buyable color, $64.99. `Shopify 11-07`
+- Meta: **not re-read** (Pipeboard weekly limit). Last `Meta 11-03`: main off, test ad set weak.
 
 ### 2026-11-03
 
