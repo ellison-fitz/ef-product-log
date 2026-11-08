@@ -25,6 +25,10 @@ title: "Elisa Flat Loafers"
 
 ## Changelog
 
+### 2026-11-08
+
+- Shopify: still Draft, $44.99. No sales, no open orders. `Shopify 11-08`
+
 ### 2026-11-07
 
 - Still Draft, no sales, no Meta ad set. `Shopify 11-07`

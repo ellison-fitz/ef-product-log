@@ -17,13 +17,17 @@ title: "Linnea Pearl Top"
 | Selling price | $44.99 (Shopify). PLW r244 says $49.99. |
 | Approved colors and sizes | Listing: Black, Light Cyan, Peach, Cream. XS–2XL. |
 | Blocked on listing | none |
-| Meta ads | **Off** / paused at last read. **Meta not re-read 11-07** (Pipeboard weekly limit).
-| 30-day sales | 0–1 unit window depending on returns; 11661 remains the open order. No traction. `Shopify 11-07`
+| Meta ads | **Off** / paused at last read. **Meta not re-read 11-07 or 11-08** (Pipeboard weekly limit, resets 11-08 ~6 PM CT).
+| 30-day sales | 0 units (10-10 to 11-08). No traction. `Shopify 11-08` |
 | Scale read | Not a scale candidate. No confirmed supplier. |
-| Open orders | 11661 (Black L, US). **32 days** old, still unfulfilled, paid $51.78, nothing refunded. `Shopify 11-07`
+| Open orders | 11661 (Black L, US). **33 days** old, still unfulfilled. `Shopify 11-08` |
 | Next | Ask Lay for status, or refund. |
 
 ## Changelog
+
+### 2026-11-08
+
+- Shopify: 11661 still unfulfilled, now 33 days. `Shopify 11-08`
 
 ### 2026-11-07
 

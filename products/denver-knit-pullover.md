@@ -19,16 +19,20 @@ title: "Denver Knit Pullover"
 | Approved colors and sizes | **White** (Cherry confirmed the sample was white, not cream). Listing likely needs renaming from Cream to White. S–2XL. |
 | Blocked on listing | Grey and Black are not for sale. Cream S–2XL is still buyable (Shopify 11-07).
 | Fabric | Cherry 10-18: "40 per cent polyester, 40 per cent acrylic and 20 per cent polyester rayon." Polyester is listed twice, so confirm the exact split before it goes on the page. |
-| Meta ads | **Main campaign still off** at last read. Last Meta 11-03: OG paused 10-30; test ad set "40 / 1.75" small spend, 0 purchases in 3d; 7d ROAS 0.64, 30d 1.14. **Meta not re-read 11-07** (Pipeboard weekly limit).
-| 30-day sales | 29 net units / 28 orders in Shopify analytics (10-09 to 11-07). Last 7 days (11-01 to 11-07) **0 units vs 8** the week before. `Shopify 11-07`
+| Meta ads | **Main campaign still off** at last read. Last Meta 11-03: OG paused 10-30; test ad set "40 / 1.75" small spend, 0 purchases in 3d; 7d ROAS 0.64, 30d 1.14. **Meta not re-read 11-07 or 11-08** (Pipeboard weekly limit, resets 11-08 ~6 PM CT).
+| 30-day sales | 29 net units / 28 orders in Shopify analytics (10-10 to 11-08). Last 7 days (11-02 to 11-08) **0 units vs 7** the week before. `Shopify 11-08` |
 | Scale read | Not a bulk call. Weekly units 0 vs 8; main campaign off at last Meta read. 30d under break-even then. Cream still the only buyable color (Grey/Black off). Hold the 250 bulk.
 | Sample run (10 pcs, cream) | Priority: 8029 XL, 7983 XL, 8430 XL, 8291 L, 7553 XL. Newer: 11916 2XL x2 (AU, Sergio), 11922 XL, 11925 L, 11944 M. |
 | Added to samples | 11956 (Cream 2XL), 11957 (Cream L), 11969 (Cream L): Kevin asked 10-18 7:08 PM CT. Cherry also sent 11976 to the factory herself. |
 | Timing / MOQ | Factory: ~10 days because of multiple sizes. No minimum, but sample price is "very high, just as before" (exact price not given). |
 | Waiting on Kevin | Answered 10-19: same exact shade as the samples (white). Listing rename to White still to do. |
-| Open orders in Shopify | None unfulfilled. `Shopify 11-07`
+| Open orders in Shopify | 1 unfulfilled: 12435 (Cream 2XL, 11-03). Earlier runs read none; it showed up in today's full open-order sweep. (Very old 7646 from 06-06 also still reads unfulfilled.) `Shopify 11-08` |
 
 ## Changelog
+
+### 2026-11-08
+
+- Shopify: 30-day 29; weekly 0 vs 7. 12435 (Cream 2XL, 11-03) reads unfulfilled; earlier reads missed it. Cream only, $64.99. `Shopify 11-08`
 
 ### 2026-11-07
 

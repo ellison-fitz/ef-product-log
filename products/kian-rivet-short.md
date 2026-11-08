@@ -18,13 +18,17 @@ title: "Kian Rivet Short"
 | Approved colors and sizes | Hart alt: unknown. Listing: Grey, Black, S–3XL. |
 | Blocked on listing | Whole product off sale (Shopify status Unlisted). |
 | Meta ads | **Off.** Ad set "Kian Rivet Short - 29 / 1.52" is paused, $0 spend in the last 30 days. |
-| 30-day sales | 0 units (10-09 to 11-07). Still Unlisted. `Shopify 11-07`
+| 30-day sales | 0 units (10-10 to 11-08). Still Unlisted. `Shopify 11-08` |
 | Scale read | Not a scale candidate. Unlisted, off ads, and Hart's landed cost leaves only ~$11–$14 a unit. |
 | Open orders | None. All 4 fulfilled early Mon 10-19 with tracking: 11108 YT2629201001070094, 11131 YT2629200708472181, 11135 AU0000006031867, 11153 YT2629200708277986. |
 | Customer contact | Hart's alt is a different style. Customers must be told and OK it before it ships, or get a refund. |
 | Deadline | Met. Tracking uploaded Mon 10-19 (~12:50 AM CT). Refund rule does not apply. |
 
 ## Changelog
+
+### 2026-11-08
+
+- Shopify: no change. 0 units (10-10 to 11-08). Still Unlisted. No open orders. `Shopify 11-08`
 
 ### 2026-11-07
 

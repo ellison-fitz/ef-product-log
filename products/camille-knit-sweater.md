@@ -17,8 +17,8 @@ title: "Camille Knit Sweater"
 | Selling price | $49.99 |
 | Approved colors and sizes | Apricot, Black, White, Dark Brown stay live on the short sleeve listing. Sizes S–2XL. |
 | Blocked on listing | Emerald and Burgundy are not for sale on `camille-knit-sweater` (confirmed in Shopify 10-20). Coffee, Apricot, White, Black buyable on both listings. |
-| Meta ads | **Nearly off** at last read. Last Meta 11-03: ~$827 / 22 purchases / ROAS 2.00 in 30d; $2 last 3d. **Meta not re-read 11-07** (Pipeboard weekly limit). Carry-forward `Meta 11-03`.
-| 30-day sales | 23 net units / 18 orders in Shopify analytics across both listings (10-09 to 11-07). Last 7 days (11-01 to 11-07) **0 units** (also 0 the week of 10-25 to 10-31). Still has 30-day traction only. `Shopify 11-07`
+| Meta ads | **Nearly off** at last read. Last Meta 11-03: ~$827 / 22 purchases / ROAS 2.00 in 30d; $2 last 3d. **Meta not re-read 11-07 or 11-08** (Pipeboard weekly limit, resets 11-08 ~6 PM CT). Carry-forward `Meta 11-03`.
+| 30-day sales | 20 net units / 16 orders in Shopify analytics across both listings (10-10 to 11-08). Last 7 days (11-02 to 11-08) **0 units** (also 0 the week before). Still has 30-day traction only, fading. `Shopify 11-08` |
 | Scale read | Strong prior ROAS at last Meta read, but scale still supply-blocked (Lay only, cost unknown). Weekly sales stopped. Emerald/Burgundy still off.
 | Pending orders | 11686 (Burgundy L) and 11756 (White S) now both show **Fulfilled** in Shopify (checked 11-07). Confirm tracking/supplier was Lay as planned.
 | Next action | Kevin asks Lay which colors, price and lead time. 11686/11756 now Fulfilled — confirm they went to Lay correctly. No color drafting until Lay answers, Meta is checked and Leandro is told.
@@ -27,6 +27,10 @@ title: "Camille Knit Sweater"
 | Customer contact | The 5 customers get a short-delay update. 11831: if Lay has Emerald she ships it, otherwise Abby emails the customer to pick another color or get a refund. |
 
 ## Changelog
+
+### 2026-11-08
+
+- Shopify: 30-day 20 (down from 23); 0 in either of the last two weeks. No open orders. Emerald/Burgundy still off. `Shopify 11-08`
 
 ### 2026-11-07
 

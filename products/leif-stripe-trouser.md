@@ -18,12 +18,16 @@ title: "Leif Stripe Trouser"
 | Approved colors and sizes | Listing: Khaki, S–2XL. Supplier: none. |
 | Blocked on listing | none. Listing is still Active. |
 | Meta ads | **Off.** Ad set "Leif Stripe Trouser - 45 / 1.42" paused; $5 spend in the last 30 days (Meta counts 1 purchase, the refunded 11605). |
-| 30-day sales | −1 net unit in analytics (10-09 to 11-07) from an older return. No new traction. `Shopify 11-07`
+| 30-day sales | −1 net unit (10-10 to 11-08) from an older return. No new traction. `Shopify 11-08` |
 | Scale read | Not a scale candidate. No supplier, no sales. |
 | Open orders | none. 11605 (Khaki S, US) refunded in full by Kevin 10-18, including the Redo opt-in. |
 | Next | Decide whether to draft the listing. |
 
 ## Changelog
+
+### 2026-11-08
+
+- Shopify: no change. −1 net unit (10-10 to 11-08) from an older return. No new traction. No open orders. `Shopify 11-08`
 
 ### 2026-11-07
 

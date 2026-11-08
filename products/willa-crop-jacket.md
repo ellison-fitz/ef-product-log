@@ -17,13 +17,17 @@ title: "Willa Crop Jacket"
 | Selling price | $44.99 (Shopify). PLW r264 says $49.99. |
 | Approved colors and sizes | Cherry: Red (she offered it for Orange), Cream unknown. Hart: up to L. |
 | Blocked on listing | Nothing blocked yet. Shopify 11-07: Cream, Red and **Orange still buyable**, listing still Active.
-| Meta ads | **Off** at last read. **Meta not re-read 11-07** (Pipeboard weekly limit).
-| 30-day sales | 0 net (10-09 to 11-07); analytics still carries the 11807 refund noise in older windows. Below traction. `Shopify 11-07`
+| Meta ads | **Off** at last read. **Meta not re-read 11-07 or 11-08** (Pipeboard weekly limit, resets 11-08 ~6 PM CT).
+| 30-day sales | 0 net (10-10 to 11-08). Below traction. `Shopify 11-08` |
 | Scale read | Not a scale candidate. Margin vs Cherry: $44.99 − $18.60 = ~$26.39, but no traction and Orange can't be sourced. |
 | Open orders | None. 11807 (Orange XL + Red XL): $96.13 refund succeeded, order reads Refunded. `Shopify 11-03` |
 | Customer contact | Kevin 10-29: Abby refunds 11807 in full ($96.13). Done 10-31 ~7:25 AM CT (refund pending, notification email sent to the customer). |
 
 ## Changelog
+
+### 2026-11-08
+
+- Shopify: no change. 0 net (10-10 to 11-08). Below traction. No open orders. `Shopify 11-08`
 
 ### 2026-11-07
 
