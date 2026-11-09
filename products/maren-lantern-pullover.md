@@ -18,14 +18,19 @@ title: "Maren Lantern Pullover"
 | Approved colors and sizes | Listing: Cream, Coffee, Navy, Sky Blue, Sage Green, Terracotta. XS–5XL. All 54 variants buyable (Shopify 11-07).
 | Blocked on listing | none. Sage Green and Terracotta are still buyable with no confirmed supplier. |
 | Sourcing gap | **Sage Green** and **Brick/Terracotta**: all 22 backlog orders with these colors shipped 10-30, so the gap looks covered in Shopify. Still to confirm: which supplier, and that the green and terracotta match the listing (not mint/olive, not bright orange). |
-| Meta ads | **Stopped spending** as of last read. Last Meta 11-03: Stack Testing "Maren Lantern Pullover - 36 / 1.5" $0 from 11-01; 3d $158/0 purchases, 7d ROAS 0.79, 30d 1.40. **Meta not re-read 11-07 or 11-08** (Pipeboard weekly limit, resets 11-08 ~6 PM CT). Carry-forward `Meta 11-03`.
-| 30-day sales | 50 net units / 37 orders in Shopify analytics (10-10 to 11-08). Last 7 days (11-02 to 11-08) **1 net unit vs 26** the week before (10-26 to 11-01). `Shopify 11-08` |
-| Scale read | Not a scale call. Weekly units 1 vs 26; ads were off at last Meta read. Cost still unknown. Supply looks unblocked (Sage/Terracotta backlog shipped 10-30) but supplier/cost still unconfirmed. |
-| Open orders | 1 unfulfilled: 12646 (Sky Blue XL, 11-07). `Shopify 11-08` |
+| Meta ads | **Still stopped.** Stack Testing "Maren Lantern Pullover" $0 in the last 7 days (11-03 to 11-09). Last spend read `Meta 11-03`: 7d ROAS 0.79, 30d 1.40. `Meta 11-09` |
+| 30-day sales | 50 net units / 37 orders in Shopify analytics (10-11 to 11-09). Last 7 days (11-03 to 11-09) **1 net unit vs 16** the week before (10-27 to 11-02). `Shopify 11-09` |
+| Scale read | Not a scale call. Weekly units 1 vs 16; ad set still $0 in 7d (Meta 11-09). Cost still unknown. Supply looks unblocked (Sage/Terracotta backlog shipped 10-30) but supplier/cost still unconfirmed. |
+| Open orders | 1 unfulfilled: 12646 (Sky Blue XL, 11-07, 2 days). `Shopify 11-09` |
 | Next action | Confirm with Cherry (or whoever shipped) the Sage Green and Terracotta source and cost, and that colors match the listing. Ads are off, so no spend to watch. |
 | Owner | Kevin |
 
 ## Changelog
+
+### 2026-11-09
+
+- Shopify: 30-day 50 net units (37 orders); weekly 1 vs 16. Open: 12646 only (Sky Blue XL, 2 days). 6 colors buyable, $49.99. `Shopify 11-09`
+- Meta: ad set $0 in the last 7 days (still stopped). `Meta 11-09`
 
 ### 2026-11-08
 

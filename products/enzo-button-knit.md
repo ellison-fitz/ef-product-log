@@ -17,12 +17,17 @@ title: "Enzo Button Knit"
 | Selling price | `enzo-button-knit` **$49.99** (compare-at $84.99). `enzo-knit` still $39.99 (compare-at $74.99). Both unchanged at the 11-07 read. PLW r253 says $44.99.
 | Approved colors and sizes | Olive, Coffee, Black. S–2XL. PLW note: one listing is Temu (long sleeve), the other is 1688 (short sleeve). Which one Hart quoted: unknown. |
 | Blocked on listing | none |
-| Meta ads | **On previously, not re-read today.** Last Meta 11-03: "Enzo Button Knit (V2) - 30 / 1.49" in CBO Creative Testing, tiny spend vs Orso; 3d ROAS 1.48 on $108. **Meta not re-read 11-07 or 11-08** (Pipeboard weekly limit, resets 11-08 ~6 PM CT). Carry-forward `Meta 11-03`.
-| 30-day sales | 146 net units / 83 orders in Shopify analytics across both listings (10-10 to 11-08, today partial). Last 7 days (11-02 to 11-08) **30 net units vs 37** the week before (10-26 to 11-01), down ~19%. Has traction. `Shopify 11-08` |
-| Scale read | **Scale candidate, on watch.** Weekly units 30 vs 37, decline slowing. Margin: $49.99 − $14.76 = ~$35.23 on `enzo-button-knit`. Meta not re-read (Pipeboard limit, second day); last 11-03 read had 3d just under 1.49 with CBO budget on Orso. 14 open orders from the last 5 days. Needs its own budget to test properly. |
-| Open orders | 14 unfulfilled (28 units): 12431 (Olive L), 12434 (Olive S/L/XL + Black L; order partially refunded), 12441 (Olive L + Black L), 12518 (Black XL x2), 12560 (Olive M + Coffee M), 12574 (Olive L), 12575 (Olive M), 12584 (Black S x2), 12592 (Olive/Coffee/Black L), 12603 (Black S + Olive S), 12617 (Black XL + Coffee XL), 12636 (Black L + Coffee L), 12642 (Black/Coffee/Olive M), 12648 (Black XL, today). Oldest 5 days. `Shopify 11-08`. Earlier note: 11941 and 11942 still both Fulfilled and fully paid on one shared tracking (LJ048640317CN): possible double charge still open. `Shopify 11-07`
+| Meta ads | **On.** "Enzo Button Knit (V2) - 30 / 1.49" in CBO Creative Testing: 3d (11-06 to 11-08) **$304 / 13 purchases / ROAS 3.72**; 7d $582 / 18 / 2.79; 30d $2,604 / 72 / 2.18. Up from 3d 1.48 on 11-03 (first read well above the 1.49 line). Budget is still shared CBO, mostly going to Orso. V1 ad set paused ($30, 0). `Meta 11-09` |
+| 30-day sales | 151 net units / 87 orders in Shopify analytics across both listings (10-11 to 11-09, today partial). Last 7 days (11-03 to 11-09) **33 net units vs 30** the week before (10-27 to 11-02), up ~10%. Has traction. `Shopify 11-09` |
+| Scale read | **Scale candidate, strengthening (on watch → ready for its own budget).** Weekly units 33 vs 30 (first uptick) and Meta 3d ROAS 3.72 / 7d 2.79 / 30d 2.18, all above the 1.49 line. Margin: $49.99 − $14.76 = ~$35.23 on `enzo-button-knit` ($39.99 listing: ~$25.23). 17 open orders from the last 6 days. Supplier Cherry (Hart pitched $14.40). Needs its own budget to test properly (Kevin's call). |
+| Open orders | 17 unfulfilled orders (31 units, all paid; 12434 partially refunded): 12431, 12434 x4, 12518 x2, 12560 x2, 12574, 12575, 12584 x2, 12592 x3, 12603 x2, 12617 x2, 12636 x2, 12642 x3, 12648, 12670, 12681, 12687, 12689 x2. Oldest 12431 (11-03, 6 days). 11941/11942 no longer read open. `Shopify 11-09` |
 
 ## Changelog
+
+### 2026-11-09
+
+- Shopify: 30-day 151 net units across both listings; weekly 33 vs 30 (up ~10%, first uptick in weeks). 17 open orders (12431 through 12689), oldest 6 days; 12434 reads Partially refunded. Both listings Active, Olive/Coffee/Black buyable. `Shopify 11-09`
+- Meta read again: V2 ad set 3d $304 / 13 purchases / **ROAS 3.72**, 7d 2.79, 30d 2.18 (3d was 1.48 on 11-03). Still CBO-shared. `Meta 11-09`
 
 ### 2026-11-08
 

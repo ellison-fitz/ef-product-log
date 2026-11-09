@@ -19,16 +19,21 @@ title: "Denver Knit Pullover"
 | Approved colors and sizes | **White** (Cherry confirmed the sample was white, not cream). Listing likely needs renaming from Cream to White. S–2XL. |
 | Blocked on listing | Grey and Black are not for sale. Cream S–2XL is still buyable (Shopify 11-07).
 | Fabric | Cherry 10-18: "40 per cent polyester, 40 per cent acrylic and 20 per cent polyester rayon." Polyester is listed twice, so confirm the exact split before it goes on the page. |
-| Meta ads | **Main campaign still off** at last read. Last Meta 11-03: OG paused 10-30; test ad set "40 / 1.75" small spend, 0 purchases in 3d; 7d ROAS 0.64, 30d 1.14. **Meta not re-read 11-07 or 11-08** (Pipeboard weekly limit, resets 11-08 ~6 PM CT).
-| 30-day sales | 29 net units / 28 orders in Shopify analytics (10-10 to 11-08). Last 7 days (11-02 to 11-08) **0 units vs 7** the week before. `Shopify 11-08` |
-| Scale read | Not a bulk call. Weekly units 0 vs 8; main campaign off at last Meta read. 30d under break-even then. Cream still the only buyable color (Grey/Black off). Hold the 250 bulk.
+| Meta ads | **Main campaign still off** ("Denver Knit Pullover - 30 / 1.47": 30d $1,518 / 26 purchases / ROAS 1.09, no spend since 10-30). Creative Testing ad set "40 / 1.75" (paused): $57 in 7d, 0 purchases. `Meta 11-09` |
+| 30-day sales | 29 net units / 28 orders (10-11 to 11-09). Last 7 days (11-03 to 11-09) **0 units vs 3** the week before. `Shopify 11-09` |
+| Scale read | Not a bulk call. Weekly units 0 vs 3; main campaign still off (Meta 11-09), 30d ROAS 1.09 under break-even. Cream still the only buyable color (Grey/Black off). Hold the 250 bulk.
 | Sample run (10 pcs, cream) | Priority: 8029 XL, 7983 XL, 8430 XL, 8291 L, 7553 XL. Newer: 11916 2XL x2 (AU, Sergio), 11922 XL, 11925 L, 11944 M. |
 | Added to samples | 11956 (Cream 2XL), 11957 (Cream L), 11969 (Cream L): Kevin asked 10-18 7:08 PM CT. Cherry also sent 11976 to the factory herself. |
 | Timing / MOQ | Factory: ~10 days because of multiple sizes. No minimum, but sample price is "very high, just as before" (exact price not given). |
 | Waiting on Kevin | Answered 10-19: same exact shade as the samples (white). Listing rename to White still to do. |
-| Open orders in Shopify | 1 unfulfilled: 12435 (Cream 2XL, 11-03). Earlier runs read none; it showed up in today's full open-order sweep. (Very old 7646 from 06-06 also still reads unfulfilled.) `Shopify 11-08` |
+| Open orders in Shopify | 1 unfulfilled: 12435 (Cream 2XL, 11-03, 6 days). (Very old 7646 from 06-06 may still read unfulfilled; not in the since-09-25 sweep.) `Shopify 11-09` |
 
 ## Changelog
+
+### 2026-11-09
+
+- Shopify: 12435 (Cream 2XL) still open, 6 days. 0 sales in 7 days. Cream only buyable (Grey/Black off). $64.99. `Shopify 11-09`
+- Meta: main campaign still off, 30d ROAS 1.09; test ad set $57 in 7d / 0 purchases. `Meta 11-09`
 
 ### 2026-11-08
 

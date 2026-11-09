@@ -17,14 +17,19 @@ title: "Maris Drape Sweater"
 | Selling price | $49.99 (Shopify). PLW r212 says $59.99. |
 | Approved colors and sizes | Apricot, Black, Burgundy, Coffee, Pink, Gray, Blue, Yellow. XS–5XL. |
 | Blocked on listing | none |
-| Meta ads | **Main campaign still off** (not re-read today). Last Meta read 11-03: campaign "Maris Drape Sweater - 35 / 1.53" paused 10-30; Stack Testing was the only spend ($194 / ROAS 1.53 last 3d then). **Meta not re-read 11-07 or 11-08:** Pipeboard Free weekly AI tool limit (31/30), resets 2026-11-09. Carry-forward `Meta 11-03`.
-| 30-day sales | 295 net units / 212 orders in Shopify analytics (10-10 to 11-08, today partial). Last 7 days (11-02 to 11-08) **23 net units vs 49** the week before (10-26 to 11-01), down ~53% with the main campaign off. Top tracked seller on 30 days. `Shopify 11-08` |
-| Scale read | Scale product on 30 days, demand still soft with the main campaign off since 10-30: weekly units 23 vs 49. Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Meta not re-read (Pipeboard limit, second day); last 3d/7d/30d ROAS from 11-03 were ~1.53 / 1.54 / 1.55. Price $49.99, all 8 colors buyable. Real call still whether to turn the main campaign back on. |
-| Open orders | 17 unfulfilled with Maris lines (26 units): 12419 (Burgundy XL), 12428 (Pink XL), 12449 (Apricot 2XL), 12451 (Apricot XS), 12453 (Black XS), 12494 (Pink 4XL), 12543 (Black S), 12544 (Burgundy XL + Coffee XL), 12571 (Blue 2XL + Pink 2XL), 12585 (Black M + Apricot XS), 12611 (Black 2XL + Burgundy 2XL), 12613 (Burgundy L), 12628 (Coffee 3XL), 12639 (Coffee XL x2), 12647 (Black/Burgundy/Coffee 5XL), 12659 (Apricot/Black/Coffee M, today), 12660 (Gray M, today). Oldest 5 days. `Shopify 11-08` |
+| Meta ads | **Main campaign still off.** Campaign "Maris Drape Sweater - 35 / 1.53" (paused 10-30) had no spend 11-03 to 11-09 (30d $8,492, 171 purchases, ROAS 1.57, all before 10-30). Only spend is the Stack Testing ad set: 3d (11-06 to 11-08) $399 / 8 purchases / ROAS 1.50; 7d $693 / 17 / 1.99; 30d $910 / 22 / 1.84. `Meta 11-09` |
+| 30-day sales | 303 net units / 218 orders in Shopify analytics (10-11 to 11-09, today partial). Last 7 days (11-03 to 11-09) **38 net units vs 39** the week before (10-27 to 11-02), flat, even with the main campaign off. Top tracked seller on 30 days. `Shopify 11-09` |
+| Scale read | Scale product on 30 days; weekly units rebounded to 38 vs 39 (the 11-08 read of 23 vs 49 was a different window) with only the small Stack Testing ad set running at 3d ROAS 1.50 (7d 1.99). Margin: $49.99 − $17.41 = ~$32.58 (Cherry) vs ~$29.69 (Hart landed). Price $49.99, all 8 colors buyable. Real call is still whether to turn the main campaign back on (off since 10-30, 10 days). |
+| Open orders | 24 unfulfilled orders (38 units, all paid): 12428, 12449, 12451, 12453, 12494, 12543, 12544 x2, 12571 x2, 12585 x2, 12611 x2, 12613, 12628, 12639 x2, 12647 x3, 12659 x3, 12660, 12664 x3, 12667, 12675 x2, 12677, 12682, 12694 x2, 12695, 12700 x2 (units where more than 1). Oldest 12428 (11-03, 6 days). Up from 17 on 11-08; 12419 shipped. `Shopify 11-09` |
 | Quality/sourcing | Cherry samples (10-26): the 1688 link supplier (Kevin sent 10-21, 100% polyester) is the most comfortable, cheaper ones scratchy. That supplier lacks a full color range and needs 50 units minimum per other color. Sample returned for stains 10-27; Cherry will photograph/video the replacement hanging. Hart offered a higher-priced polyester supplier (about $5 more on selling price, exact price unknown); his videos say not scratchy. UGC on hold until quality is settled (Leandro 10-27). |
 | Upsell | Noir shades replaced Elisa as the Maris upcart upsell (10-07). |
 
 ## Changelog
+
+### 2026-11-09
+
+- Shopify: 30-day 303 net units (218 orders); weekly 38 vs 39 (flat). 24 open Maris orders (12428 through 12700, 38 units), oldest 6 days. Price $49.99, all 8 colors buyable. `Shopify 11-09`
+- Meta read again (Pipeboard limit cleared): **main campaign still $0** 11-03 to 11-09 (paused since 10-30). Stack Testing Maris 3d $399 / 8 purchases / 1.50, 7d $693 / 1.99, 30d $910 / 1.84. `Meta 11-09`
 
 ### 2026-11-08
 
