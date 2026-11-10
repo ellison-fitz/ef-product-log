@@ -25,6 +25,10 @@ title: "Milan Leopard Dress"
 
 ## Changelog
 
+### 2026-11-10
+
+- Shopify: 0 net units 30d and 7d; no open orders; Navy, Sky buyable. Meta: 7d no spend, 30d ~$26 / 0. `Shopify 11-10` `Meta 11-10`
+
 ### 2026-11-09
 
 - Shopify: no sales, no open orders. Navy/Sky buyable, $59.99. `Shopify 11-09`

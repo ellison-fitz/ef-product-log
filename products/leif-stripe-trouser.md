@@ -25,6 +25,10 @@ title: "Leif Stripe Trouser"
 
 ## Changelog
 
+### 2026-11-10
+
+- Shopify: 0 units 30d; listing still Active, Khaki buyable; no open orders. Meta: ~$0.65 in 30d, 0 in 7d. `Shopify 11-10` `Meta 11-10`
+
 ### 2026-11-09
 
 - Shopify: still Active at $59.99 (Khaki only), no sales, no open orders. `Shopify 11-09`

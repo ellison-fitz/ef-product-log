@@ -20,10 +20,15 @@ title: "Linnea Pearl Top"
 | Meta ads | **Off** / no spend in the 7d read. `Meta 11-09` |
 | 30-day sales | 0 units (10-11 to 11-09). No traction. `Shopify 11-09` |
 | Scale read | Not a scale candidate. No confirmed supplier. |
-| Open orders | 11661 (Black L, US). **34 days** old (10-06), still unfulfilled. `Shopify 11-09` |
+| Open orders | 11661 (Black L, US). **35 days** old (10-06), still unfulfilled. `Shopify 11-10` |
 | Next | Ask Lay for status, or refund. |
 
 ## Changelog
+
+### 2026-11-10
+
+- Shopify: 11661 now 35 days open and still unfulfilled; 0 units 30d. `Shopify 11-10`
+- Meta: off, no spend in 7d. `Meta 11-10`
 
 ### 2026-11-09
 

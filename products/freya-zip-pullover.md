@@ -19,13 +19,18 @@ title: "Freya Zip Pullover"
 | Approved colors and sizes | Live on `freya-zip-pullover`: Camel, Navy only (Olive and Pink turned off 10-26 late evening). Sizes S–5XL. Cherry's 1688 colors: Khaki, Pink, Purple, Yellow, Gray, Black, Off-white, Chestnut. |
 | Blocked on listing | On `freya-zip-pullover`, Butter, Grey, Olive and Pink are not for sale (all sizes). Camel and Navy S–5XL are buyable (Shopify 10-31). `freya-pullover` (the 1688 colors) still has Black, Butter, Chestnut, Cream, Grey, Khaki, Pink and Purple all buyable. |
 | Meta ads | **Off.** No Freya spend in the last 7 days; 30d ~$811 across both ad sets / 13 purchases / ROAS ~1.2 (under 1.49). `Meta 11-09` |
-| 30-day sales | 16 net units / 14 orders (10-11 to 11-09). Last 7 days (11-03 to 11-09) 0 units (prior week 0). `Shopify 11-09` |
+| 30-day sales | 16 net units (10-12 to 11-10). Last 7 days (11-04 to 11-10) 1 unit vs -1 the week before. `Shopify 11-10` |
 | Scale read | Not a scale candidate. Margin vs Cherry: $54.99 − $18.91 = ~$36 landed (US, 1 pc). Blockers: most open orders still Butter/Grey (Temu listing off) or Olive (off); new 12472 is Grey S. 11868 (Butter L) was **refunded**. No sales in 7 days.
 | Open orders | **6 open orders** (8 units). Butter/Grey (can't match on Temu listing): 11874 (Butter L), 11888 (Butter 4XL + Grey 4XL), 11934 (Butter S), 12472 (Grey S, 11-04). Olive (off): 11893 (Camel XL + Olive XL). Live colors only, still unfulfilled: 11832 (Navy S, **26 days**). **11798 (Butter M + Grey M) is no longer open: both fulfillments were created 11-09 ~2:28 AM CT on tracking GFUS01082459240581** (who/what shipped is not recorded here). `Shopify 11-09` |
 | Customer contact | Abby is asking Butter/Grey buyers to switch color or take a refund. Daniela is building a separate listing for the 1688 colors with AI images, to swap in after the GMC review clears. |
 | GMC | Hold listing and image swaps until the GMC review clears. 11 croc-bag photos pulled for GMC. `brief` |
 
 ## Changelog
+
+### 2026-11-10
+
+- Shopify: 16 net units 30d. Still 6 open orders (8 units): 11832, 11874, 11888, 11893, 11934, 12472; oldest 11832 now **27 days**. Temu listing: Camel, Navy only buyable. `Shopify 11-10`
+- Meta: no spend in 7d; 30d $688 / 12 / 1.33 plus V2 $107 / 1 / 0.62. `Meta 11-10`
 
 ### 2026-11-09
 

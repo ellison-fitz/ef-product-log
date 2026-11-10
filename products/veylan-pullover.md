@@ -27,6 +27,10 @@ title: "Veylan Pullover"
 
 ## Changelog
 
+### 2026-11-10
+
+- Shopify: 0 units 30d; no open orders; Black, White buyable. Meta: off. `Shopify 11-10` `Meta 11-10`
+
 ### 2026-11-09
 
 - Shopify: no sales, no open orders. Black/White buyable, $44.99. `Shopify 11-09`

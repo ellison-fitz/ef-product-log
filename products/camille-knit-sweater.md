@@ -18,7 +18,7 @@ title: "Camille Knit Sweater"
 | Approved colors and sizes | Apricot, Black, White, Dark Brown stay live on the short sleeve listing. Sizes S–2XL. |
 | Blocked on listing | Emerald and Burgundy are not for sale on `camille-knit-sweater` (confirmed in Shopify 10-20). Coffee, Apricot, White, Black buyable on both listings. |
 | Meta ads | **Nearly off.** Stack Testing: V2 7d $8 / 0 purchases; 30d V2 $492 / 13 / ROAS 1.91 plus V1 $128 / 2 / 0.93 (combined ~$620 / 15 / ~1.7). `Meta 11-09` |
-| 30-day sales | 20 net units / 16 orders across both listings (10-11 to 11-09). Last 7 days (11-03 to 11-09) **0 units** (0 the week before). Still has 30-day traction only, fading. `Shopify 11-09` |
+| 30-day sales | 17 net units across both listings (10-12 to 11-10). Last 7 days (11-04 to 11-10) 0 units vs 0 the week before. `Shopify 11-10` |
 | Scale read | Strong prior ROAS at last Meta read, but scale still supply-blocked (Lay only, cost unknown). Weekly sales stopped. Emerald/Burgundy still off.
 | Pending orders | 11686 (Burgundy L) and 11756 (White S) now both show **Fulfilled** in Shopify (checked 11-07). Confirm tracking/supplier was Lay as planned.
 | Next action | Kevin asks Lay which colors, price and lead time. 11686/11756 now Fulfilled — confirm they went to Lay correctly. No color drafting until Lay answers, Meta is checked and Leandro is told.
@@ -27,6 +27,11 @@ title: "Camille Knit Sweater"
 | Customer contact | The 5 customers get a short-delay update. 11831: if Lay has Emerald she ships it, otherwise Abby emails the customer to pick another color or get a refund. |
 
 ## Changelog
+
+### 2026-11-10
+
+- Shopify: 17 net units 30d, 0 in 7d; no open orders. Coffee, Apricot, White, Black buyable (Emerald, Burgundy off on one listing). `Shopify 11-10`
+- Meta: V2 7d $8 / 0 purchases; V1 not spending. 30d V1 $96 / 2 / 1.23 plus V2 $452 / 12 / 1.95. `Meta 11-10`
 
 ### 2026-11-09
 

@@ -25,6 +25,10 @@ title: "Willa Crop Jacket"
 
 ## Changelog
 
+### 2026-11-10
+
+- Shopify: 0 units 30d; no open orders; Cream, Red, Orange still buyable. Meta: ~$0.3 in 30d, ad set off. `Shopify 11-10` `Meta 11-10`
+
 ### 2026-11-09
 
 - Shopify: no sales, no open orders. Cream/Red/Orange still buyable, $44.99. `Shopify 11-09`

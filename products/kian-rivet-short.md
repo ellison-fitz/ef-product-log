@@ -26,6 +26,10 @@ title: "Kian Rivet Short"
 
 ## Changelog
 
+### 2026-11-10
+
+- Shopify: 0 units 30d; still Unlisted; no open orders. Meta: off. `Shopify 11-10` `Meta 11-10`
+
 ### 2026-11-09
 
 - Shopify: still Unlisted, no sales, no open orders. $39.99. `Shopify 11-09`

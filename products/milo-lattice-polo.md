@@ -25,6 +25,10 @@ title: "Milo Lattice Polo"
 
 ## Changelog
 
+### 2026-11-10
+
+- Shopify: 0 units 30d; no open orders; 6 colors buyable (Emerald off). Meta: 30d ~$5 / 0, no 7d spend. `Shopify 11-10` `Meta 11-10`
+
 ### 2026-11-09
 
 - Shopify: no sales, no open orders. Emerald still off. $39.99. `Shopify 11-09`

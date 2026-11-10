@@ -18,14 +18,19 @@ title: "Maren Lantern Pullover"
 | Approved colors and sizes | Listing: Cream, Coffee, Navy, Sky Blue, Sage Green, Terracotta. XS–5XL. All 54 variants buyable (Shopify 11-07).
 | Blocked on listing | none. Sage Green and Terracotta are still buyable with no confirmed supplier. |
 | Sourcing gap | **Sage Green** and **Brick/Terracotta**: all 22 backlog orders with these colors shipped 10-30, so the gap looks covered in Shopify. Still to confirm: which supplier, and that the green and terracotta match the listing (not mint/olive, not bright orange). |
-| Meta ads | **Still stopped.** Stack Testing "Maren Lantern Pullover" $0 in the last 7 days (11-03 to 11-09). Last spend read `Meta 11-03`: 7d ROAS 0.79, 30d 1.40. `Meta 11-09` |
-| 30-day sales | 50 net units / 37 orders in Shopify analytics (10-11 to 11-09). Last 7 days (11-03 to 11-09) **1 net unit vs 16** the week before (10-27 to 11-02). `Shopify 11-09` |
-| Scale read | Not a scale call. Weekly units 1 vs 16; ad set still $0 in 7d (Meta 11-09). Cost still unknown. Supply looks unblocked (Sage/Terracotta backlog shipped 10-30) but supplier/cost still unconfirmed. |
-| Open orders | 1 unfulfilled: 12646 (Sky Blue XL, 11-07, 2 days). `Shopify 11-09` |
+| Meta ads | **Still stopped.** Stack Testing "Maren Lantern Pullover" $0 in the last 7 days (11-04 to 11-10). Last read with spend (30d window earlier) ROAS ~1.40. `Meta 11-10` |
+| 30-day sales | 50 net units in Shopify analytics (10-12 to 11-10). Last 7 days (11-04 to 11-10) **1 unit vs 9** the week before (10-28 to 11-03). `Shopify 11-10` |
+| Scale read | Not a scale call. Weekly units 1 vs 9; ad set still $0 in 7d (Meta 11-10). Cost still unknown (supplier of the 10-30 Sage/Terracotta shipments not recorded). |
+| Open orders | 1 unfulfilled: 12646 (Sky Blue XL, 11-07, 3 days). `Shopify 11-10` |
 | Next action | Confirm with Cherry (or whoever shipped) the Sage Green and Terracotta source and cost, and that colors match the listing. Ads are off, so no spend to watch. |
 | Owner | Kevin |
 
 ## Changelog
+
+### 2026-11-10
+
+- Shopify: 50 net units 30d; weekly 1 vs 9. 1 open order (12646). Six colors buyable. `Shopify 11-10`
+- Meta: still $0 in 7d. `Meta 11-10`
 
 ### 2026-11-09
 

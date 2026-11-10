@@ -20,7 +20,7 @@ title: "Denver Knit Pullover"
 | Blocked on listing | Grey and Black are not for sale. Cream S–2XL is still buyable (Shopify 11-07).
 | Fabric | Cherry 10-18: "40 per cent polyester, 40 per cent acrylic and 20 per cent polyester rayon." Polyester is listed twice, so confirm the exact split before it goes on the page. |
 | Meta ads | **Main campaign still off** ("Denver Knit Pullover - 30 / 1.47": 30d $1,518 / 26 purchases / ROAS 1.09, no spend since 10-30). Creative Testing ad set "40 / 1.75" (paused): $57 in 7d, 0 purchases. `Meta 11-09` |
-| 30-day sales | 29 net units / 28 orders (10-11 to 11-09). Last 7 days (11-03 to 11-09) **0 units vs 3** the week before. `Shopify 11-09` |
+| 30-day sales | 29 net units (10-12 to 11-10). Last 7 days (11-04 to 11-10) **-1 net units vs 4** the week before (10-28 to 11-03). `Shopify 11-10` |
 | Scale read | Not a bulk call. Weekly units 0 vs 3; main campaign still off (Meta 11-09), 30d ROAS 1.09 under break-even. Cream still the only buyable color (Grey/Black off). Hold the 250 bulk.
 | Sample run (10 pcs, cream) | Priority: 8029 XL, 7983 XL, 8430 XL, 8291 L, 7553 XL. Newer: 11916 2XL x2 (AU, Sergio), 11922 XL, 11925 L, 11944 M. |
 | Added to samples | 11956 (Cream 2XL), 11957 (Cream L), 11969 (Cream L): Kevin asked 10-18 7:08 PM CT. Cherry also sent 11976 to the factory herself. |
@@ -29,6 +29,11 @@ title: "Denver Knit Pullover"
 | Open orders in Shopify | 1 unfulfilled: 12435 (Cream 2XL, 11-03, 6 days). (Very old 7646 from 06-06 may still read unfulfilled; not in the since-09-25 sweep.) `Shopify 11-09` |
 
 ## Changelog
+
+### 2026-11-10
+
+- Shopify: 29 net units 30d; weekly -1 vs 4. 1 open order (12435, Cream 2XL, 11-03, 7 days). Cream only buyable, $64.99. `Shopify 11-10`
+- Meta: main campaign ad sets (OG) $0 in 7d; test ad set "Denver Knit Pullover - 40 / 1.75" $43 / 0 in 7d; 30d OG $1,506 / 25 / ROAS 1.04. `Meta 11-10`
 
 ### 2026-11-09
 
