@@ -17,13 +17,17 @@ title: "Milo Lattice Polo"
 | Selling price | $39.99 (Shopify). PLW r267 says $44.99. |
 | Approved colors and sizes | Cherry has Army Green (matches our listing's Army Green). She does **not** have our Emerald. Other colors: unknown. Sizes S–2XL. |
 | Blocked on listing | Emerald blocked (10-19, Leandro). Same 'continue selling when out of stock' bug, fixed. |
-| Meta ads | Ad set ~$5 / 0 purchases in 30d; no 7d spend. `Meta 11-09` |
-| 30-day sales | 0 net units (10-11 to 11-09). No traction. `Shopify 11-09` |
+| Meta ads | Ad set ~$5 / 0 purchases in 30d; no 7d spend. `Meta 11-09` Not re-read 11-11 (Pipeboard limit, resets 11-16); carry-forward. |
+| 30-day sales | 0 net units (10-13 to 11-11). No traction. `Shopify 11-11` |
 | Scale read | Not a scale candidate. Margin vs Cherry: $39.99 − $14.14 = ~$25.85, but no sales. |
 | Open orders | none. 11873 (Emerald XL) now shows **Refunded**, $49.08. |
 | Customer contact | Abby asks the 11873 customer: army green, or a refund. Nothing ships until they answer. |
 
 ## Changelog
+
+### 2026-11-11
+
+- Shopify: 0 units 30d; no open orders; 6 colors buyable (Emerald off). Meta not re-read. `Shopify 11-11` `Meta 11-10`
 
 ### 2026-11-10
 

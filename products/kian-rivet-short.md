@@ -17,7 +17,7 @@ title: "Kian Rivet Short"
 | Selling price | $39.99 (Shopify). PLW r211 says $49.99. Hart's landed cost leaves ~$11–$14 before fees. |
 | Approved colors and sizes | Hart alt: unknown. Listing: Grey, Black, S–3XL. |
 | Blocked on listing | Whole product off sale (Shopify status Unlisted). |
-| Meta ads | **Off.** Ad set paused, no spend in the 7d read. `Meta 11-09` |
+| Meta ads | **Off.** Ad set paused, no spend in the 7d read. `Meta 11-09` Not re-read 11-11 (Pipeboard limit, resets 11-16); carry-forward. |
 | 30-day sales | 0 units (10-11 to 11-09). Still Unlisted. `Shopify 11-09` |
 | Scale read | Not a scale candidate. Unlisted, off ads, and Hart's landed cost leaves only ~$11–$14 a unit. |
 | Open orders | None. All 4 fulfilled early Mon 10-19 with tracking: 11108 YT2629201001070094, 11131 YT2629200708472181, 11135 AU0000006031867, 11153 YT2629200708277986. |
@@ -25,6 +25,10 @@ title: "Kian Rivet Short"
 | Deadline | Met. Tracking uploaded Mon 10-19 (~12:50 AM CT). Refund rule does not apply. |
 
 ## Changelog
+
+### 2026-11-11
+
+- Shopify: 0 units 30d; still Unlisted; no open orders. Meta not re-read. `Shopify 11-11` `Meta 11-10`
 
 ### 2026-11-10
 

@@ -17,16 +17,21 @@ title: "Camille Knit Sweater"
 | Selling price | $49.99 |
 | Approved colors and sizes | Apricot, Black, White, Dark Brown stay live on the short sleeve listing. Sizes S–2XL. |
 | Blocked on listing | Emerald and Burgundy are not for sale on `camille-knit-sweater` (confirmed in Shopify 10-20). Coffee, Apricot, White, Black buyable on both listings. |
-| Meta ads | **Nearly off.** Stack Testing: V2 7d $8 / 0 purchases; 30d V2 $492 / 13 / ROAS 1.91 plus V1 $128 / 2 / 0.93 (combined ~$620 / 15 / ~1.7). `Meta 11-09` |
-| 30-day sales | 17 net units across both listings (10-12 to 11-10). Last 7 days (11-04 to 11-10) 0 units vs 0 the week before. `Shopify 11-10` |
+| Meta ads | **Nearly off.** Stack Testing: V2 7d $8 / 0 purchases; 30d V2 $492 / 13 / ROAS 1.91 plus V1 $128 / 2 / 0.93 (combined ~$620 / 15 / ~1.7). `Meta 11-09` Not re-read 11-11 (Pipeboard limit, resets 11-16); carry-forward. |
+| 30-day sales | 17 net units across both listings (10-13 to 11-11). Last 7 days (11-05 to 11-11) 1 unit vs 0 the week before. `Shopify 11-11` |
 | Scale read | Strong prior ROAS at last Meta read, but scale still supply-blocked (Lay only, cost unknown). Weekly sales stopped. Emerald/Burgundy still off.
 | Pending orders | 11686 (Burgundy L) and 11756 (White S) now both show **Fulfilled** in Shopify (checked 11-07). Confirm tracking/supplier was Lay as planned.
 | Next action | Kevin asks Lay which colors, price and lead time. 11686/11756 now Fulfilled — confirm they went to Lay correctly. No color drafting until Lay answers, Meta is checked and Leandro is told.
 | Owner | Kevin, then Abby |
-| Open orders | None unfulfilled. 5 Lay orders (11692, 11710, 11712, 11722, 11728) last checked 10-31 still on their original 10-10 tracking (not re-checked). `Shopify 11-09` |
+| Open orders | **1 new:** 12769 (Apricot L, $49.99, 11-10, 1 day, paid; Apricot is a Cherry and Lay color). Earlier 5 Lay orders (11692, 11710, 11712, 11722, 11728) last checked 10-31 and no longer read open. `Shopify 11-11` |
 | Customer contact | The 5 customers get a short-delay update. 11831: if Lay has Emerald she ships it, otherwise Abby emails the customer to pick another color or get a refund. |
 
 ## Changelog
+
+### 2026-11-11
+
+- Shopify: 17 net units 30d, 1 in 7d (vs 0). **New open order 12769** (Apricot L, 11-10); Coffee, Apricot, White, Black buyable (Emerald, Burgundy off on one listing). `Shopify 11-11`
+- Meta: not re-read (Pipeboard limit). `Meta 11-10`
 
 ### 2026-11-10
 

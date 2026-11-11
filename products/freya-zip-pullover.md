@@ -18,14 +18,19 @@ title: "Freya Zip Pullover"
 | Temu reference | https://www.temu.com/goods.html?goods_id=606011964420052 |
 | Approved colors and sizes | Live on `freya-zip-pullover`: Camel, Navy only (Olive and Pink turned off 10-26 late evening). Sizes S–5XL. Cherry's 1688 colors: Khaki, Pink, Purple, Yellow, Gray, Black, Off-white, Chestnut. |
 | Blocked on listing | On `freya-zip-pullover`, Butter, Grey, Olive and Pink are not for sale (all sizes). Camel and Navy S–5XL are buyable (Shopify 10-31). `freya-pullover` (the 1688 colors) still has Black, Butter, Chestnut, Cream, Grey, Khaki, Pink and Purple all buyable. |
-| Meta ads | **Off.** No Freya spend in the last 7 days; 30d ~$811 across both ad sets / 13 purchases / ROAS ~1.2 (under 1.49). `Meta 11-09` |
-| 30-day sales | 16 net units (10-12 to 11-10). Last 7 days (11-04 to 11-10) 1 unit vs -1 the week before. `Shopify 11-10` |
-| Scale read | Not a scale candidate. Margin vs Cherry: $54.99 − $18.91 = ~$36 landed (US, 1 pc). Blockers: most open orders still Butter/Grey (Temu listing off) or Olive (off); new 12472 is Grey S. 11868 (Butter L) was **refunded**. No sales in 7 days.
-| Open orders | **6 open orders** (8 units). Butter/Grey (can't match on Temu listing): 11874 (Butter L), 11888 (Butter 4XL + Grey 4XL), 11934 (Butter S), 12472 (Grey S, 11-04). Olive (off): 11893 (Camel XL + Olive XL). Live colors only, still unfulfilled: 11832 (Navy S, **26 days**). **11798 (Butter M + Grey M) is no longer open: both fulfillments were created 11-09 ~2:28 AM CT on tracking GFUS01082459240581** (who/what shipped is not recorded here). `Shopify 11-09` |
+| Meta ads | **Off.** No Freya spend in the last 7 days; 30d ~$811 across both ad sets / 13 purchases / ROAS ~1.2 (under 1.49). `Meta 11-09` Not re-read 11-11 (Pipeboard limit, resets 11-16); carry-forward. |
+| 30-day sales | 14 net units (10-13 to 11-11). Last 7 days (11-05 to 11-11) 0 units vs 0 the week before. `Shopify 11-11` |
+| Scale read | Not a scale candidate. Margin vs Cherry: $54.99 − $18.91 = ~$36 landed (US, 1 pc). Blockers: most open orders still Butter/Grey (Temu listing off) or Olive (off); 12472 (Grey S) no longer reads open as of 11-11. 11868 (Butter L) was **refunded**. No sales in 7 days (14 in 30d).
+| Open orders | **5 open orders** (7 units, all paid), down from 6: 11832 (Navy S, **29 days**), 11874, 11888, 11893, 11934. 12472 (Grey S, 11-04) no longer reads open (fulfilled or closed; not verified which). 11868 refunded earlier. Butter/Grey/Olive colors still not buyable on `freya-zip-pullover`. `Shopify 11-11` |
 | Customer contact | Abby is asking Butter/Grey buyers to switch color or take a refund. Daniela is building a separate listing for the 1688 colors with AI images, to swap in after the GMC review clears. |
 | GMC | Hold listing and image swaps until the GMC review clears. 11 croc-bag photos pulled for GMC. `brief` |
 
 ## Changelog
+
+### 2026-11-11
+
+- Shopify: 14 net units 30d, 0 in 7d. 5 open orders (7 units): 11832 (**29 days**), 11874, 11888, 11893, 11934. 12472 no longer reads open. Temu listing: Camel, Navy only buyable. `Shopify 11-11`
+- Meta: not re-read (Pipeboard limit). `Meta 11-10`
 
 ### 2026-11-10
 
